@@ -67,6 +67,9 @@ dataset["unit_price"] = (
     .str.replace(",", "", regex=False)
     .astype(float)
 )
+#function to change value of column in lowercase for standardization
+def to_lower_case(value):
+    return value.lower()
 #converting string values in quantity column into num (int or float)
 dataset["quantity"] = dataset["quantity"].apply(lambda x: str_to_num(x))
 #converting string type columns into lowercase for standardization
