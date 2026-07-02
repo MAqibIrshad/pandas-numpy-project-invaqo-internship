@@ -1,0 +1,1443 @@
+order_id,order_date,customer_name,customer_email,product_category,product_name,quantity,unit_price,discount_percent,shipping_cost,region,payment_method,order_status
+100810,21/03/2025,Mariam Khan,mariam.khan@hotmail.com,Beauty ,Sunscreen SPF50,1,$17.45,0.0,11.08,West ,PayPal,completed
+100489,"February 28, 2025",Maria Sheikh,maria.sheikh@hotmail.com,Home & Kitchen,Cookware Set,6,136.42,0.0,4.14,South,paypal,pending
+100799,2025-06-14,  Usman Smith  ,usman.smith@hotmail.com,Electronic,Laptop Stand,4,24.44,0.0,6.07,north,Debit Card,COMPLETED
+100680,"February 06, 2025",  Omar Wilson  ,omar.wilson@gmail.com,clothing,Winter Coat,3 units,$117.21,0.0,5.02,North,PayPal,Returned
+100898,2025/04/21,Zain Ali,zain.aligmail.com,beauty,Perfume 50ml,3,$52.15,10.0,6.9,SOUTH,debit card,returned
+100656,"March 13, 2025",FAISAL MILLER,faisal.miller@hotmail.com,Sports & Outdoors,Dumbbell Set,7,,5.0,9.46,East,Credit Card,COMPLETED
+100978,2025/03/14,Amna Smith,amna.smith@hotmail.com,Beauty ,Shampoo 500ml,6,$11.80,0.0,10.61,West,credit card,Returned
+100816,2025/02/23,AMNA SHEIKH,amna.sheikh@outlook.com, Clothing,Cotton T-Shirt,unknown,$16.94,0.0,6.63,WEST,PayPal,Returned
+100518,2025-01-18,kamran ali,kamran.ali@gmail.com,ELECTRONICS,Wireless Earbuds,4,38.83,0.0,3.87,EAST,Credit Card,COMPLETED
+100228,"February 23, 2025",james taylor,james.taylor@outlook.com,BOOKS,Atomic Habits,2,17.29,10.0,9.16,West ,Cash on Delivery,returned
+100698,11-05-2025,Omar Anderson,,Books,Python Crash Course,3,$30.28,,8.4,W,debit card,Completed
+100132,15-01-2025,Fatima Wilson,fatima.wilson@gmail.com,clothing,Wool Sweater,1 units,45.05,0.0,9.85,SOUTH,cash on delivery,completed
+100097,30-05-2025,Robert Johnson,robert.johnson@gmail.com,electronics,Wireless Earbuds,3 units,$35.63,0.0,7.99,North,CREDIT CARD,COMPLETED
+100597,"April 05, 2025",JOHN DAVIS,john.davis@yahoo.com, Clothing,Denim Jacket,3,63.63,20.0,3.22,E,Debit Card,COMPLETED
+100369,2025/06/06,Ayesha Sheikh,ayesha.sheikh@outlook.com,CLOTHING,Formal Shirt,1,$36.06,80.2,4.71,W,credit card,cancelled
+100141,06-03-2025,  Imran Johnson  ,imran.johnson@gmail.com,Home&Kitchen,Cookware Set,4,$129.54,0.0,7.71,EAST,credit card,pending
+100450,2025-06-26,  James Iqbal  ,james.iqbal@gmail.com,ELECTRONICS,Wireless Earbuds,7,$38.53,0.0,7.67,SOUTH,paypal,returned
+100164,2025-05-16,Zainab Thomas,, Electronics,USB-C Hub,6,34.69,5.0,9.29,South,Credit Card,cancelled
+101218,15/01/2025,Omar Ali,omar.ali@hotmail.com, Books ,The Pragmatic Programmer,3,$36.25,0.0,9.04,east,paypal,Cancelled
+101173,2025-06-23,Fatima Malik,fatima.malik@hotmail.com,HOME & KITCHEN,Coffee Maker,5,67.44,0.0,7.06,N,debit card,cancelled
+101272,05/02/2025,JOHN ALI,john.ali@gmail.com,ELECTRONICS,4K Monitor,6,$306.65,10.0,7.81,East,Credit Card,Cancelled
+100630,12-02-2025,Sara Sheikh,sara.sheikh@outlook.com,Electronic,Bluetooth Speaker,6,60.79,0.0,8.6,N,paypal,returned
+101263,27-02-2025,Sana Shah,sana.shah@yahoo.com,Books,Atomic Habits,5,17.03,15.0,6.52,EAST,paypal,Completed
+100071,26-02-2025,Sarah Ahmed,sarah.ahmed@yahoo.com,electronics,Bluetooth Speaker,4,$60.08,0.0,9.47,NORTH,CREDIT CARD,pending
+100595,03-05-2025,  Sara Malik  ,sara.malik@outlook.com,CLOTHING,Cotton T-Shirt,5,$16.09,0.0,8.29,,Cash on Delivery,returned
+100018,2025-05-17,Mariam Ali,mariam.ali@gmail.com,beauty,Makeup Kit,3,39.56,10.0,11.05,,Credit Card,pending
+100324,07/04/2025,Sara Ahmed,sara.ahmedyahoo.com,BEAUTY,Makeup Kit,3,$39.92,20.0,7.23,W,credit card,pending
+100820,2025/01/23,Rabia Malik,rabia.malikoutlook.com,HOME & KITCHEN,Knife Set,4,38.78,0.0,2.25,WEST,paypal,Pending
+100547,2025/01/04,Robert Malik,robert.malik@hotmail.com,books,Deep Work,7,18.8,5.0,9.51,SOUTH,credit card,Cancelled
+100773,26/06/2025,Rabia Taylor,,Clothing,Running Shoes,1,$78.84,0.0,14.7,South,Debit Card,COMPLETED
+100705,04-03-2025,Mariam Taylor,mariam.taylor@hotmail.com,Sports and Outdoors,Hiking Backpack,6,,0.0,8.6,East,credit card,completed
+100558,10-04-2025,Omar Moore,omar.moore@gmail.com,sports & outdoors,Water Bottle,3,13.08,0.0,7.32,East,,Returned
+100901,2025-04-28,Rabia Hussain,rabia.hussain@gmail.com,Clothing,Formal Shirt,6,$36.49,0.0,10.51,West ,Credit Card,cancelled
+100513,20/04/2025,Hina Taylor,,books,Deep Work,6,$17.39,20.0,12.55,west,debit card,COMPLETED
+100300,2025-06-27,David Miller,david.miller@outlook.com,Sports,Hiking Backpack,2,67.07,0.0,6.77,West,Cash on Delivery,cancelled
+101314,2025/04/05,  Imran Iqbal  ,imran.iqbal@outlook.com, Electronics,USB-C Hub,1,$36.22,10.0,7.85,WEST,PayPal,COMPLETED
+100585,"May 10, 2025",MARIA MOORE,maria.moore@gmail.com, Books ,Atomic Habits,5,$16.46,0.0,6.3,WEST,PayPal,Pending
+100806,"May 05, 2025",maria iqbal,maria.iqbal@gmail.com, Books ,Sapiens,7,,,1.02,south,PayPal,returned
+101238,2025/02/11,robert anderson,robert.anderson@outlook.com,BEAUTY,Shampoo 500ml,5,$12.04,0.0,5.42,East,Debit Card,completed
+100350,2025/03/11,Ayesha Sheikh,ayesha.sheikh@hotmail.com, Electronics,USB-C Hub,-1,$33.66,0.0,6.39,EAST,Cash on Delivery,completed
+100236,07-05-2025,RABIA HUSSAIN,rabia.hussain@yahoo.com,beauty,Face Serum,7,$20.32,0.0,5.25,,paypal,cancelled
+101230,2025-01-02,Amna Miller,,BOOKS,Atomic Habits,5,$18.14,0.0,7.74,north,Debit Card,Returned
+100009,2025-06-19,ahmed taylor,ahmed.taylor@outlook.com, Clothing,Wool Sweater,2,,0.0,9.29,south,cash on delivery,cancelled
+100672,2025/05/22,Faisal Sheikh,faisal.sheikh@gmail.com,books,The Pragmatic Programmer,,$38.10,0.0,7.97,West ,cash on delivery,Completed
+100642,12-06-2025,  Hassan Butt  ,hassan.butt@yahoo.com,home & kitchen,Blender,5,$52.56,10.0,11.39,SOUTH,debit card,Cancelled
+100095,2025-05-31,Imran Sheikh,imran.sheikh@hotmail.com,Electronics,Smart Watch,unknown,,0.0,10.78,West ,Debit Card,returned
+100684,23/04/2025,james smith,james.smith@hotmail.com,Electronics ,Wireless Earbuds,4,40.19,0.0,10.3,east,Cash on Delivery,Returned
+100773,"March 04, 2025",Bilal Davis,bilal.davis@yahoo.com,Sports & Outdoors,Water Bottle,1,12.68,5.0,6.47,West ,debit card,completed
+100179,2025-01-23,Kamran Wilson,kamran.wilson@gmail.com,Clothing,Cotton T-Shirt,4,$15.18,0.0,6.91,east,paypal,Returned
+101286,2025-01-20,Omar Wilson,omar.wilson@yahoo.com,Beauty ,Shampoo 500ml,5,11.30,10.0,6.78,west,Credit Card,Pending
+100017,2025/06/01,Nida Taylor,nida.taylor@hotmail.com,Books,Deep Work,7,0.01,5.0,3.63,W,Credit Card,returned
+100606,24/05/2025,Michael Ali,michael.ali@yahoo.com,Beauty ,Makeup Kit,2,40.54,0.0,8.51, North,Credit Card,Returned
+100394,03/01/2025,Mariam Hussain,mariam.hussain@hotmail.com,ELECTRONICS,Smart Watch,1,151.1,0.0,9.25,N,,COMPLETED
+101279,"June 03, 2025",Zainab Brown,zainab.brown@gmail.com,books,Deep Work,8,$16.85,0.0,11.97,South,PayPal,returned
+101073,2025/04/18,  Nida Hussain  ,nida.hussain@gmail.com,ELECTRONICS,Bluetooth Speaker,4,$63.00,20.0,8.26,West,credit card,Pending
+100063,2025/02/01,Emily Hussain,emily.hussain@yahoo.com,BOOKS,Sapiens,6,18.62,0.0,13.17,EAST,paypal,cancelled
+101086,2025/05/14,USMAN BUTT,usman.butt@outlook.com,Clothing,Cotton T-Shirt,4,$14.74,10.0,4.72,SOUTH,Cash on Delivery,Returned
+101117,"February 28, 2025",John Brown,john.brown@gmail.com,Sports & Outdoors,Camping Tent,N/A,143.95,0.0,-0.11,East,PayPal,Completed
+101291,16-05-2025,sana hussain,sana.hussain@yahoo.com,ELECTRONICS,Wireless Earbuds,N/A,$37.57,,9.21,N,cash on delivery,cancelled
+100791,05-02-2025,  Faisal Raza  ,faisal.raza@hotmail.com,BOOKS,Python Crash Course,1,$29.82,0.0,6.94,N,cash on delivery,Completed
+100977,2025/01/23,Amna Brown,amna.brown@hotmail.com,clothing,Cotton T-Shirt,,$15.59,0.0,3.95,East,paypal,Cancelled
+100933,"June 14, 2025",RABIA MOORE,rabia.moore@outlook.com,Books,Sapiens,2,$20.55,0.0,9.72,EAST,PayPal,pending
+100474,2025-04-26,zain raza,,electronics,Bluetooth Speaker,3,$0.01,5.0,7.37,EAST,credit card,cancelled
+101139,2025-02-05,Amna Davis,amna.davis@gmail.com,home & kitchen,Air Fryer,3,$90.60,,8.02,S,debit card,Pending
+100313,30-06-2025,Omar Johnson,omar.johnson@outlook.com,Sports,Camping Tent,3,,0.0,12.94,E,PayPal,Cancelled
+100118,2025/01/14,Bilal Hussain,bilal.hussain@yahoo.com,Sports,Water Bottle,8,$13.95,5.0,10.54,east,credit card,Pending
+100013,07/02/2025,ANNA SHEIKH,anna.sheikh@outlook.com,BEAUTY,Perfume 50ml,3,56.49,5.0,6.17,South,paypal,pending
+100021,27/04/2025,emily smith,emily.smith@gmail.com,Sports & Outdoors,Water Bottle,3,13.12,0.0,8.92,E,Cash on Delivery,Returned
+101182,2025/03/31,Nida Butt,nida.butt@outlook.com,Beauty,Sunscreen SPF50,6,16.83,0.0,9.71, North,Debit Card,Cancelled
+100186,"March 21, 2025",kamran iqbal,kamran.iqbal@outlook.com, Electronics,Smart Watch,-3,$154.96,10.0,9.67,N,Cash on Delivery,Returned
+100562,"June 08, 2025",  Faisal Malik  ,faisal.malik@gmail.com,clothing,Wool Sweater,2 units,43.55,0.0,6.39,south,Credit Card,Completed
+100777,2025-05-27,  Kamran Smith  ,kamran.smith@gmail.com,ELECTRONICS,Smart Watch,N/A,$157.49,10.0,3.34,EAST,Cash on Delivery,completed
+100348,25/01/2025,Robert Ahmed,robert.ahmed@gmail.com, Books ,Deep Work,1,19.75,10.0,5.14,West,paypal,Completed
+100972,21/04/2025,  Robert Khan  ,robert.khan@outlook.com,Electronic,Webcam HD,6,50.33,10.0,1.29,East,credit card,returned
+101027,"June 22, 2025",kamran wilson,kamran.wilson@yahoo.com,Electronic,Smart Watch,-3,140.55,65.6,4.67,,paypal,Pending
+100740,04-02-2025,Robert Shah,robert.shah@yahoo.com,Beauty ,Shampoo 500ml,5,$12.00,0.0,6.05,South,Cash on Delivery,Completed
+100043,04/06/2025,sarah smith,sarah.smith@gmail.com,BEAUTY,Face Serum,unknown,21.92,0.0,3.87,north,PayPal,COMPLETED
+100467,03/06/2025,  Emily Ahmed  ,emily.ahmed@outlook.com,BOOKS,Atomic Habits,8,17.48,,11.55,E,debit card,completed
+101039,2025/02/16,nida smith,nida.smith@hotmail.com, Books ,The Pragmatic Programmer,7,33.82,76.6,4.25,north,Credit Card,returned
+100415,"January 14, 2025",Hina Ahmed,hina.ahmed@outlook.com,home & kitchen,Cookware Set,8,140.08,10.0,5.0,South,credit card,pending
+100111,10/06/2025,SANA SHEIKH,sana.sheikh@gmail.com,Electronic,Webcam HD,4,43.29,10.0,12.53,S,debit card,Cancelled
+100285,05-06-2025,  Bilal Hussain  ,bilal.hussain@gmail.com,Home&Kitchen,Blender,6,49.76,0.0,,WEST,PayPal,Cancelled
+100412,"June 22, 2025",Omar Miller,omar.miller@gmail.com,Beauty,Makeup Kit,8,$37.62,0.0,1.15,South,Cash on Delivery,Pending
+101010,13-03-2025,david raza,david.raza@hotmail.com, Clothing,Denim Jacket,2,62.2,0.0,5.48,S,Credit Card,Pending
+100146,2025/02/24,Amna Taylor,amna.taylor@outlook.com,BEAUTY,Perfume 50ml,4,$56.30,10.0,2.51,WEST,CREDIT CARD,completed
+100410,2025/01/31,Imran Malik,imran.malik@yahoo.com,electronics,Smart Watch,8,155.45,15.0,9.68,,paypal,pending
+100770,"January 05, 2025",  Hassan Taylor  ,,Electronics,Bluetooth Speaker,3 units,65.80,0.0,11.87,south,CREDIT CARD,COMPLETED
+100712,2025-03-20,Faisal Ali,faisal.ali@yahoo.com, Books ,Sapiens,8,$19.61,20.0,5.6,North,paypal,Cancelled
+101130,2025/03/18,John Ali,john.ali@outlook.com,Sports & Outdoors,Dumbbell Set,3,86.41,0.0,9.75,W,cash on delivery,Cancelled
+100946,"February 28, 2025",Hassan Thomas,hassan.thomas@gmail.com,Home & Kitchen,Blender,7,$51.22,0.0,,east,Cash on Delivery,Completed
+100013,02/02/2025,Ali Moore,ali.moore@yahoo.com,BEAUTY,Makeup Kit,7,$41.48,10.0,4.49,NORTH,paypal,pending
+100638,2025-02-12,Anna Shah,anna.shah@yahoo.com,CLOTHING,Winter Coat,8,,20.0,9.53,South,credit card,Pending
+101113,27-06-2025,  James Khan  ,,ELECTRONICS,Wireless Earbuds,5,$41.52,10.0,10.35,south,debit card,cancelled
+100658,2025/04/11,MARIA HUSSAIN,maria.hussain@yahoo.com,Electronic,USB-C Hub,3,36.38,0.0,7.08,W,Debit Card,returned
+100752,07-01-2025,Usman Anderson,usman.anderson@yahoo.com, Electronics,Laptop Stand,1,25.83,0.0,-11.1,north,debit card,Pending
+100034,30/01/2025,Kamran Brown,kamran.brown@gmail.com,BOOKS,Python Crash Course,5,0.01,5.0,5.2,,paypal,returned
+100867,2025/04/25,Fatima Ali,fatima.ali@gmail.com,books,Deep Work,7,18.47,10.0,318.23,East,CREDIT CARD,pending
+100473,2025-01-18,SANA AHMED,sana.ahmed@yahoo.com,clothing,Running Shoes,4,,0.0,,SOUTH,debit card,pending
+100098,01-06-2025,Laura Moore,laura.moore@gmail.com,BEAUTY,Perfume 50ml,N/A,$54.71,,8.46,EAST,Cash on Delivery,Returned
+100351,2025-02-18,Fatima Raza,fatima.raza@hotmail.com,electronics,Laptop Stand,7,25.67,10.0,9.31,E,paypal,cancelled
+100829,2025/01/04,Laura Malik,laura.malik@gmail.com,Electronics,Wireless Earbuds,unknown,39.79,0.0,8.32,South,CREDIT CARD,cancelled
+100926,15-04-2025,Anna Shah,anna.shah@gmail.com,Sports,Cycling Helmet,3,46.24,5.0,9.4,north,debit card,Pending
+101265,"May 26, 2025",omar malik,omar.malik@hotmail.com,clothing,Winter Coat,2,124.32,0.0,7.49,North,debit card,completed
+101355,04/03/2025,Michael Khan,michael.khan@yahoo.com, Clothing,Formal Shirt,3,$35.72,10.0,7.78,south,Cash on Delivery,Cancelled
+100511,17-04-2025,Robert Moore,robert.moore@yahoo.com,books,Atomic Habits,7,17.25,0.0,4.51, North,credit card,Pending
+100033,"June 25, 2025",Fatima Shah,fatima.shah@gmail.com,Sports,Hiking Backpack,2 units,$70.25,,5.35,EAST,credit card,returned
+100249,"February 22, 2025",Robert Butt,robert.butt@gmail.com,books,Python Crash Course,5,30.23,0.0,10.42,West,CREDIT CARD,completed
+100664,2025/03/17,Zainab Taylor,,BEAUTY,Sunscreen SPF50,2,$15.38,0.0,3.92,east,credit card,Returned
+100363,"February 27, 2025",Sana Ali,sana.ali@gmail.com,electronics,Bluetooth Speaker,4,$60.18,10.0,6.78, North,Cash on Delivery,pending
+100328,26-05-2025,Sana Malik,sana.malik@outlook.com,Sports & Outdoors,Yoga Mat,2,26.37,5.0,3.75,EAST,CREDIT CARD,completed
+100325,2025/02/24,  Faisal Wilson  ,faisal.wilson@hotmail.com,Sports & Outdoors,Dumbbell Set,,$86.65,0.0,8.1,east,credit card,completed
+100197,08/05/2025,Emily Moore,emily.moore@hotmail.com,Home & Kitchen,Blender,N/A,57.01,15.0,12.31,east,credit card,completed
+100058,"February 03, 2025",John Sheikh,john.sheikh@hotmail.com,BOOKS,Atomic Habits,5,15.95,20.0,8.52,north,Debit Card,returned
+101088,30-05-2025,usman ahmed,usman.ahmed@hotmail.com,Electronics ,USB-C Hub,4,$35.68,0.0,7.88,south,credit card,Completed
+100660,29-01-2025,  Hina Thomas  ,hina.thomas@gmail.com,Electronics ,Bluetooth Speaker,6,$62.30,0.0,,S,CREDIT CARD,COMPLETED
+100024,19/01/2025,Rabia Malik,rabia.malik@yahoo.com,books,Deep Work,1,$17.91,0.0,,north,paypal,Pending
+100110,2025/04/16,  Ahmed Taylor  ,ahmed.taylor@hotmail.com,BEAUTY,Face Serum,5,23.83,15.0,7.8,W,Debit Card,pending
+100015,2025/06/06,Bilal Khan,bilal.khan@gmail.com,Sports & Outdoors,Cycling Helmet,4,$45.25,0.0,10.61,S,Debit Card,Pending
+100602,10/03/2025,Mariam Smith,mariam.smith@hotmail.com, Clothing,Formal Shirt,-1,34.92,0.0,7.09,WEST,paypal,COMPLETED
+100294,"April 09, 2025",Mariam Taylor,mariam.taylor@hotmail.com,HOME & KITCHEN,Vacuum Cleaner,2,,5.0,2.32,west,,Returned
+101288,28/02/2025,LAURA SHAH,laura.shah@outlook.com,clothing,Running Shoes,6,$1337.71,89.7,9.25,West ,Credit Card,Pending
+100683,2025/06/06,Sarah Brown,sarah.brown@hotmail.com, Clothing,Winter Coat,8,114.02,0.0,9.49,north,Debit Card,Completed
+100101,2025-01-04,Bilal Ali,bilal.ali@hotmail.com,Electronics,Bluetooth Speaker,6,$54.72,0.0,13.18,east,CREDIT CARD,completed
+100830,2025/02/12,Ahmed Ahmed,ahmed.ahmed@hotmail.com,clothing,Formal Shirt,,$36.47,0.0,7.99,North,Cash on Delivery,COMPLETED
+100172,2025/01/08,Sara Iqbal,sara.iqbal@hotmail.com,ELECTRONICS,Laptop Stand,1,25.53,0.0,9.4,,paypal,returned
+100927,18-05-2025,James Anderson,james.anderson@yahoo.com, Books ,The Pragmatic Programmer,6,$33.22,0.0,6.02,S,Cash on Delivery,cancelled
+100005,"March 13, 2025",NIDA AHMED,nida.ahmed@yahoo.com,CLOTHING,Running Shoes,8,$83.01,0.0,8.18,east,Debit Card,Completed
+101085,2025/02/11,Kamran Malik,kamran.malik@yahoo.com,Books,Atomic Habits,2,$16.44,0.0,5.37,West,CREDIT CARD,Cancelled
+101324,2025-05-03,Emily Wilson,emily.wilson@yahoo.com,Home and Kitchen,Blender,8,54.24,15.0,8.89,E,Credit Card,Pending
+101145,"May 28, 2025",Zain Johnson,zain.johnson@outlook.com,Home&Kitchen,Cookware Set,1,125.76,5.0,7.15,EAST,Debit Card,Completed
+100782,"June 11, 2025",Zain Brown,zain.brown@gmail.com,sports & outdoors,Dumbbell Set,,$85.63,0.0,5.92,,paypal,COMPLETED
+100416,10-05-2025,MARIAM ANDERSON,mariam.anderson@gmail.com,electronics,Laptop Stand,8,27.09,0.0,11.13,west,CREDIT CARD,Returned
+100099,2025/01/22,Omar Khan,omar.khan@outlook.com,HOME & KITCHEN,Blender,1,,0.0,7.29,South,Debit Card,Pending
+100318,2025-06-14,James Brown,james.brown@yahoo.com,home & kitchen,Vacuum Cleaner,3,$162.68,20.0,9.15,S,,Completed
+100046,15-06-2025,Omar Ali,omar.ali@outlook.com, Electronics,USB-C Hub,3,38.48,0.0,9.24,West,cash on delivery,completed
+101104,24/05/2025,KAMRAN TAYLOR,kamran.taylor@outlook.com,CLOTHING,Running Shoes,5,$80.54,,10.59,west,Credit Card,cancelled
+101332,22-03-2025,Amna Hussain,amna.hussain@hotmail.com, Books ,The Pragmatic Programmer,5,$34.56,10.0,4.24,South,cash on delivery,Pending
+100771,15/04/2025,Anna Taylor,anna.taylor@yahoo.com,Sports & Outdoors,Cycling Helmet,1,$45.58,10.0,8.84,South,Cash on Delivery,returned
+101127,29-06-2025,omar taylor,omar.taylor@outlook.com,Home and Kitchen,Air Fryer,6,$86.98,0.0,9.28,EAST,Debit Card,Pending
+100586,08-02-2025,James Shah,james.shah@gmail.com, Electronics,Bluetooth Speaker,2,63.29,0.0,13.13,West,cash on delivery,pending
+100885,20/05/2025,Faisal Davis,faisal.davis@hotmail.com, Clothing,Formal Shirt,1 units,37.24,0.0,7.94, North,debit card,Pending
+100038,"February 04, 2025",Fatima Davis,fatima.davis@hotmail.com,Sports & Outdoors,Water Bottle,3 units,$13.24,0.0,6.9,E,Cash on Delivery,Completed
+100755,2025-01-23,Rabia Davis,rabia.davis@outlook.com,Beauty,Sunscreen SPF50,3,15.36,0.0,7.42,East,Cash on Delivery,cancelled
+100113,18-03-2025,Sara Brown,sara.brown@yahoo.com,Beauty ,Sunscreen SPF50,7,$16.02,0.0,5.99,WEST,PayPal,COMPLETED
+100051,2025-04-28,  Laura Ali  ,laura.ali@gmail.com,Books,Sapiens,6,19.50,0.0,8.84,EAST,CREDIT CARD,completed
+100760,06-04-2025,Maria Anderson,maria.anderson@outlook.com,sports & outdoors,Dumbbell Set,8,84.24,0.0,6.36,south,Cash on Delivery,COMPLETED
+100204,29/01/2025,  John Sheikh  ,, Books ,Sapiens,2,$19.36,10.0,9.62,South,Credit Card,Cancelled
+100503,2025/03/08,MARIA RAZA,maria.raza@gmail.com,Clothing,Running Shoes,-3,79.82,0.0,8.4,west,Debit Card,Pending
+100707,2025-05-09,Laura Butt,laura.butt@gmail.com,Sports and Outdoors,Dumbbell Set,1,$90.47,10.0,10.32,south,cash on delivery,Returned
+100210,2025/06/23,Nida Malik,nida.malik@yahoo.com,clothing,Winter Coat,4,$120.18,0.0,6.14,SOUTH,Cash on Delivery,pending
+100262,01-04-2025,RABIA WILSON,,CLOTHING,Running Shoes,1,,0.0,,S,Cash on Delivery,completed
+100492,"June 09, 2025",Ayesha Johnson,ayesha.johnson@gmail.com,Electronic,USB-C Hub,1 units,34.66,0.0,14.29,EAST,credit card,Returned
+100510,2025-01-01,HASSAN DAVIS,hassan.davis@outlook.com,Beauty ,Perfume 50ml,3,$49.12,0.0,9.67,S,Debit Card,Returned
+101044,2025-04-28,Omar Taylor,omar.taylor@gmail.com, Books ,Python Crash Course,1,$30.07,0.0,6.42,east,CREDIT CARD,pending
+101106,2025-01-25,Rabia Ali,rabia.ali@gmail.com,books,The Pragmatic Programmer,2 units,36.34,0.0,7.06,E,Credit Card,Completed
+100986,2025/01/01,Hassan Smith,hassan.smith@yahoo.com, Clothing,Formal Shirt,7,30.59,0.0,4.95,West,cash on delivery,Pending
+101350,29/01/2025,zainab khan,zainab.khan@outlook.com, Electronics,Smart Watch,2,152.98,5.0,9.72, North,Cash on Delivery,Cancelled
+101082,12-03-2025,Zain Ahmed,zain.ahmedgmail.com,Home and Kitchen,Cookware Set,6,$121.22,10.0,,NORTH,paypal,Pending
+101124,"May 07, 2025",Fatima Johnson,fatima.johnson@yahoo.com, Clothing,Winter Coat,6,119.94,0.0,9.88,East,Cash on Delivery,Pending
+100817,"March 24, 2025",Mariam Raza,mariam.raza@hotmail.com,Beauty ,Shampoo 500ml,3,12.45,10.0,6.39,SOUTH,cash on delivery,Cancelled
+100207,2025-04-17,Kamran Taylor,kamran.taylor@hotmail.com,Sports and Outdoors,Dumbbell Set,3,$83.58,5.0,5.58,S,CREDIT CARD,Completed
+100185,08/02/2025,Emily Thomas,emily.thomas@gmail.com,home & kitchen,Knife Set,1,$40.40,0.0,10.12,,credit card,cancelled
+100020,08-01-2025,John Miller,john.miller@outlook.com,Clothing,Formal Shirt,6,0.01,0.0,7.0,West ,debit card,Returned
+100377,2025/03/14,Maria Iqbal,maria.iqbal@yahoo.com,CLOTHING,Cotton T-Shirt,2,16.32,0.0,-7.27,,,Cancelled
+100462,"June 11, 2025",Ali Butt,ali.butt@gmail.com,Sports,Camping Tent,2,148.76,,8.28,north,CREDIT CARD,Pending
+100611,2025/01/30,Hina Hussain,hina.hussain@yahoo.com,BOOKS,The Pragmatic Programmer,3,1386.52,15.0,10.24, North,Credit Card,completed
+100259,2025-04-15,AYESHA SMITH,ayesha.smith@outlook.com,sports & outdoors,Yoga Mat,unknown,,0.0,6.33,north,Cash on Delivery,pending
+100825,"May 28, 2025",Amna Wilson,amna.wilson@hotmail.com, Books ,The Pragmatic Programmer,4,$35.56,15.0,5.28,West,debit card,completed
+101306,17/06/2025,Ali Johnson,ali.johnson@gmail.com,Beauty ,Perfume 50ml,2 units,$55.88,0.0,4.7,SOUTH,cash on delivery,returned
+100024,27/02/2025,  Faisal Ali  ,faisal.ali@gmail.com,beauty,Shampoo 500ml,4,,0.0,13.98,east,credit card,completed
+100797,11/05/2025,  Zainab Anderson  ,zainab.anderson@gmail.com,Sports and Outdoors,Dumbbell Set,3,$81.17,0.0,3.02,NORTH,debit card,completed
+100655,2025-02-04,sara shah,sara.shah@outlook.com,Home & Kitchen,Cookware Set,6,131.06,0.0,7.19,EAST,PayPal,Completed
+100263,2025/05/07,faisal khan,, Clothing,Running Shoes,4,$81.58,0.0,4.09,EAST,Credit Card,cancelled
+100833,02/04/2025,James Smith,james.smith@hotmail.com, Books ,The Pragmatic Programmer,6,34.78,15.0,6.36,East,Credit Card,cancelled
+100918,2025/04/15,  Robert Davis  ,robert.davis@outlook.com,CLOTHING,Denim Jacket,,$61.16,0.0,3.14,W,credit card,COMPLETED
+100650,07/02/2025,Zain Anderson,zain.anderson@yahoo.com,CLOTHING,Wool Sweater,2,$40.93,5.0,-5.27,E,cash on delivery,COMPLETED
+101137,2025/03/31,  Sara Ahmed  ,sara.ahmed@gmail.com,Electronic,Wireless Earbuds,8,40.25,10.0,4.68,EAST,,COMPLETED
+100389,23/02/2025,Maria Hussain,maria.hussain@yahoo.com,Clothing,Running Shoes,7,$78.97,5.0,5.04,south,paypal,Pending
+100943,2025/04/20,AYESHA MOORE,ayesha.moore@outlook.com, Clothing,Wool Sweater,2,$44.73,20.0,13.77,west,PayPal,Pending
+101232,2025/06/19,Sarah Ali,sarah.ali@outlook.com,Sports,Yoga Mat,2,$24.00,0.0,7.5,West ,Credit Card,Pending
+100128,2025/04/28,Sara Shah,sara.shah@hotmail.com,beauty,Face Serum,2,$22.46,0.0,,S,credit card,Pending
+100252,2025/05/11,Faisal Raza,faisal.raza@hotmail.com,BEAUTY,Perfume 50ml,7,0.01,10.0,13.39,WEST,PayPal,completed
+100633,09/05/2025,  Sara Ahmed  ,sara.ahmed@gmail.com,HOME & KITCHEN,Blender,8,49.28,0.0,8.67,east,cash on delivery,completed
+100002,23/05/2025,  Maria Khan  ,maria.khan@gmail.com,sports & outdoors,Yoga Mat,8,26.37,20.0,8.23,west,credit card,returned
+100385,22/01/2025,Faisal Iqbal,,books,Sapiens,2,20.17,20.0,8.82,S,Cash on Delivery,Cancelled
+101150,01/03/2025,usman johnson,,Sports & Outdoors,Dumbbell Set,4,$93.16,5.0,10.16, North,Cash on Delivery,Returned
+100883,"June 01, 2025",Robert Brown,robert.brown@hotmail.com,books,The Pragmatic Programmer,2,34.09,0.0,15.18, North,Cash on Delivery,pending
+100241,2025-01-15,Faisal Wilson,faisal.wilson@gmail.com,Beauty,Makeup Kit,,$41.39,10.0,7.96,N,paypal,Returned
+100531,"January 22, 2025",Imran Butt,imran.butt@gmail.com,home & kitchen,Air Fryer,2,83.65,,5.81,EAST,,Completed
+101046,2025-02-22,Faisal Moore,faisal.moore@gmail.com,BOOKS,Atomic Habits,-1,17.45,0.0,7.43,East,CREDIT CARD,Completed
+101179,2025-01-15,AYESHA RAZA,ayesha.raza@outlook.com,beauty,Perfume 50ml,2,$57.36,10.0,8.53,SOUTH,credit card,Pending
+100651,28-03-2025,ayesha iqbal,ayesha.iqbal@hotmail.com, Clothing,Running Shoes,5,76.51,0.0,8.17,S,debit card,Returned
+101334,"March 15, 2025",Usman Wilson,usman.wilson@yahoo.com,clothing,Running Shoes,4,88.94,5.0,288.51,west,Cash on Delivery,Cancelled
+100383,2025-01-20,Imran Brown,,Home and Kitchen,Cookware Set,2,$130.08,,9.42,east,paypal,completed
+101342,2025/04/22,Laura Smith,laura.smith@hotmail.com,Sports,Dumbbell Set,5,89.23,0.0,-4.33,,Cash on Delivery,COMPLETED
+100151,2025-03-22,Sana Shah,sana.shah@outlook.com,Books,Sapiens,5,21.06,0.0,11.34,S,cash on delivery,Pending
+100340,2025-04-06,Usman Hussain,usman.hussain@outlook.com,BEAUTY,Makeup Kit,3,37.90,5.0,8.16,S,PayPal,Returned
+100880,01-01-2025,zainab thomas,zainab.thomas@yahoo.com,sports & outdoors,Dumbbell Set,8,$92.98,5.0,9.77,N,Cash on Delivery,Pending
+101165,2025/06/18,  John Raza  ,john.raza@hotmail.com,BOOKS,Deep Work,2,$19.94,0.0,7.31,,paypal,cancelled
+100673,"January 08, 2025",Laura Thomas,laura.thomas@gmail.com,Beauty ,Perfume 50ml,4,$59.36,0.0,7.92,S,paypal,pending
+100548,2025/06/20,maria malik,maria.malik@outlook.com,Sports & Outdoors,Hiking Backpack,6,61.54,0.0,3.52,SOUTH,Credit Card,Completed
+100409,"February 03, 2025",rabia iqbal,rabia.iqbal@gmail.com,HOME & KITCHEN,Vacuum Cleaner,,166.25,0.0,9.57,N,PayPal,Returned
+100108,2025/03/28,  Fatima Taylor  ,fatima.taylor@yahoo.com,Electronics ,Wireless Earbuds,7,$37.63,5.0,7.43,North,cash on delivery,completed
+100666,2025-02-25,Rabia Davis,rabia.davis@yahoo.com,CLOTHING,Winter Coat,2,125.78,5.0,,S,paypal,pending
+100746,"May 14, 2025",David Anderson,david.anderson@gmail.com,BOOKS,The Pragmatic Programmer,6,33.37,0.0,7.88,South,Cash on Delivery,pending
+100432,06/04/2025,james moore,james.moore@yahoo.com,CLOTHING,Cotton T-Shirt,7,14.66,5.0,1.61,SOUTH,cash on delivery,COMPLETED
+100346,07-02-2025,David Sheikh,david.sheikh@gmail.com,beauty,Makeup Kit,6,$38.99,0.0,6.42,S,paypal,completed
+100275,28/05/2025,Sana Iqbal,sana.iqbal@hotmail.com,Books,Sapiens,4,19.49,0.0,8.93,West,Debit Card,COMPLETED
+100652,10-06-2025,bilal thomas,bilal.thomas@gmail.com,home & kitchen,Air Fryer,2,91.09,0.0,6.04,East,Debit Card,Returned
+100360,2025-01-17,Hina Smith,hina.smith@hotmail.com,Home and Kitchen,Blender,4,$47.70,15.0,-12.43,EAST,paypal,COMPLETED
+100905,2025-01-05,David Brown,david.brown@gmail.com,Clothing,Winter Coat,3,119.54,0.0,7.58,SOUTH,Debit Card,Cancelled
+100037,25-04-2025,Mariam Miller,mariam.miller@hotmail.com,Home and Kitchen,Air Fryer,8,83.61,0.0,7.91,West ,PayPal,completed
+101340,2025-06-19,Kamran Moore,kamran.moore@hotmail.com,Beauty ,Shampoo 500ml,4,$11.18,10.0,,W,paypal,Returned
+100668,23/05/2025,Nida Khan,nida.khan@yahoo.com,Home & Kitchen,Air Fryer,4,$99.95,0.0,6.0,South,PayPal,COMPLETED
+101215,16-01-2025,Omar Shah,,Home & Kitchen,Knife Set,4,39.44,0.0,12.27,WEST,Credit Card,Completed
+100731,2025/05/10,James Davis,james.davis@outlook.com,Electronic,Bluetooth Speaker,3,$61.64,0.0,5.21,West ,Cash on Delivery,Completed
+101050,24-03-2025,Hina Thomas,hina.thomas@gmail.com,beauty,Sunscreen SPF50,1,$16.21,5.0,,WEST,PayPal,Cancelled
+100748,12-04-2025,Omar Ahmed,omar.ahmedhotmail.com,electronics,Laptop Stand,5,$26.53,5.0,3.82,S,PayPal,Completed
+100919,01-02-2025,Ali Davis,ali.davis@hotmail.com,BOOKS,The Pragmatic Programmer,2,35.19,0.0,4.41,West,paypal,COMPLETED
+101302,2025/02/23,Robert Miller,robert.miller@hotmail.com,Sports and Outdoors,Camping Tent,1 units,,70.7,12.06,WEST,Credit Card,cancelled
+100506,"June 23, 2025",Ahmed Ali,,clothing,Formal Shirt,2,$33.74,0.0,7.05,West,paypal,Returned
+100127,2025-04-26,James Ali,james.ali@outlook.com,Sports and Outdoors,Camping Tent,1,$148.45,0.0,12.81,S,Cash on Delivery,Returned
+101226,2025/01/12,Ayesha Johnson,ayesha.johnson@hotmail.com,home & kitchen,Cookware Set,8,$133.96,5.0,8.24,North,paypal,Completed
+100999,06/01/2025,Michael Shah,michael.shah@gmail.com,CLOTHING,Winter Coat,7,$119.64,0.0,6.54,east,debit card,returned
+100962,2025-03-24,NIDA JOHNSON,nida.johnson@yahoo.com,sports & outdoors,Yoga Mat,3,$26.42,10.0,8.91,WEST,cash on delivery,Returned
+100547,2025/01/04,Robert Malik,robert.malik@hotmail.com,books,Deep Work,7,18.8,5.0,9.51,SOUTH,credit card,Cancelled
+100468,05-03-2025,Zainab Raza,zainab.raza@outlook.com,CLOTHING,Winter Coat,7,$118.05,0.0,6.53,West ,PayPal,Cancelled
+100838,2025/02/17,NIDA JOHNSON,nida.johnson@hotmail.com,Home and Kitchen,Air Fryer,,$97.67,5.0,10.41,north,,Completed
+100284,06-04-2025,AHMED SMITH,ahmed.smith@hotmail.com,Beauty ,Shampoo 500ml,8,$13.13,0.0,13.26,South,Credit Card,COMPLETED
+100004,21/05/2025,Rabia Smith,rabia.smith@outlook.com,BEAUTY,Sunscreen SPF50,1,16.04,10.0,9.4,east,CREDIT CARD,Pending
+100170,2025/02/23,sara iqbal,sara.iqbal@gmail.com,Beauty,Perfume 50ml,8,57.45,0.0,3.49, North,Credit Card,Returned
+100060,25-01-2025,Bilal Hussain,bilal.hussain@outlook.com, Clothing,Formal Shirt,7,35.49,0.0,8.66,north,credit card,COMPLETED
+100992,01-02-2025,hassan anderson,hassan.anderson@hotmail.com,Home&Kitchen,Knife Set,N/A,$39.88,0.0,6.25,West,CREDIT CARD,completed
+101025,2025-01-01,Bilal Taylor,bilal.taylor@outlook.com,Sports,Hiking Backpack,5,64.49,5.0,11.8,E,,Pending
+100828,2025/06/29,fatima khan,fatima.khanhotmail.com,Home&Kitchen,Knife Set,7,$38.23,5.0,7.89,NORTH,paypal,Completed
+100895,20/03/2025,Omar Ali,omar.ali@gmail.com, Electronics,USB-C Hub,4,36.73,,3.54,S,Credit Card,COMPLETED
+100454,2025/03/14,FATIMA AHMED,fatima.ahmedyahoo.com,Clothing,Denim Jacket,6,$59.23,0.0,10.75,N,Cash on Delivery,returned
+100189,"May 17, 2025",Hina Sheikh,hina.sheikh@gmail.com,Beauty,Sunscreen SPF50,2 units,$15.00,0.0,,West,CREDIT CARD,Pending
+100564,2025-02-04,Sarah Hussain,sarah.hussain@hotmail.com, Clothing,Cotton T-Shirt,6,$14.59,5.0,7.53,EAST,Debit Card,Completed
+100735,12-03-2025,Zain Shah,zain.shah@gmail.com,Sports and Outdoors,Dumbbell Set,N/A,$89.19,0.0,9.81,West,CREDIT CARD,returned
+101196,08/03/2025,Ahmed Moore,ahmed.moore@hotmail.com,Electronics,Wireless Earbuds,5,$38.90,10.0,12.04,E,cash on delivery,COMPLETED
+101224,2025-03-16,HINA KHAN,hina.khan@outlook.com,sports & outdoors,Hiking Backpack,3,,0.0,2.2,north,PayPal,completed
+100488,2025/01/17,  Emily Johnson  ,emily.johnson@yahoo.com,clothing,Wool Sweater,4,$43.36,0.0,9.38,S,Credit Card,returned
+100370,2025/01/12,Bilal Thomas,bilal.thomas@gmail.com,Electronic,Bluetooth Speaker,3,62.09,10.0,,West,Debit Card,pending
+100430,24-02-2025,John Ahmed,john.ahmed@gmail.com,Home and Kitchen,Coffee Maker,7,70.87,0.0,7.93,north,debit card,Pending
+100501,"June 09, 2025",  Ahmed Johnson  ,ahmed.johnsonyahoo.com,Sports and Outdoors,Yoga Mat,8,24.21,0.0,8.99, North,Cash on Delivery,Returned
+100990,2025/06/08,Emily Anderson,emily.anderson@outlook.com,Clothing,Wool Sweater,5,$41.39,20.0,5.96,South,Credit Card,cancelled
+101080,"May 19, 2025",Hassan Wilson,hassan.wilson@yahoo.com,Books,Python Crash Course,5,28.71,,8.77,NORTH,PayPal,Pending
+100372,"March 04, 2025",Ahmed Iqbal,ahmed.iqbal@hotmail.com,CLOTHING,Running Shoes,2,$78.90,0.0,7.28, North,PayPal,Returned
+101188,2025/02/13,Ahmed Shah,ahmed.shah@gmail.com,Clothing,Winter Coat,2,130.05,0.0,4.43,north,Debit Card,Returned
+101246,"June 24, 2025",Imran Johnson,imran.johnson@yahoo.com,BEAUTY,Face Serum,1,$24.77,0.0,6.58,east,Cash on Delivery,returned
+101278,"January 14, 2025",Omar Moore,omar.moore@outlook.com,books,Python Crash Course,8,29.72,0.0,12.29,east,Debit Card,Pending
+100783,2025-04-16,Sana Johnson,sana.johnson@hotmail.com,Electronics ,Laptop Stand,7,26.87,,9.95,N,debit card,cancelled
+100027,30-01-2025,John Miller,john.miller@yahoo.com,Sports & Outdoors,Hiking Backpack,8,71.59,0.0,6.91,W,credit card,Cancelled
+100713,2025/01/21,rabia johnson,rabia.johnsonyahoo.com,Sports and Outdoors,Water Bottle,5,12.76,0.0,10.54,WEST,cash on delivery,pending
+100832,25/01/2025,Hina Ali,hina.aliyahoo.com,CLOTHING,Cotton T-Shirt,-1,14.42,0.0,14.63,S,credit card,COMPLETED
+100330,2025-05-26,Ayesha Brown,ayesha.brown@outlook.com,Beauty,Perfume 50ml,3 units,57.01,10.0,9.9,E,PayPal,Returned
+100534,2025-02-02,Sarah Ahmed,,Home and Kitchen,Vacuum Cleaner,7,159.55,0.0,11.79,west,cash on delivery,COMPLETED
+100975,04-01-2025,Ahmed Moore,ahmed.moore@hotmail.com,Sports & Outdoors,Cycling Helmet,6,43.37,0.0,4.18,North,cash on delivery,Completed
+100213,08/05/2025,HINA IQBAL,hina.iqbal@yahoo.com,HOME & KITCHEN,Blender,3,54.02,10.0,6.78,East,Credit Card,returned
+100565,07-06-2025,Bilal Malik,bilal.malik@gmail.com,electronics,Webcam HD,N/A,42.81,5.0,8.54,East,cash on delivery,pending
+100899,15/04/2025,John Taylor,john.taylor@gmail.com,sports & outdoors,Dumbbell Set,2,$96.29,5.0,9.49,SOUTH,PayPal,cancelled
+100463,2025/02/17,Ali Davis,ali.davis@gmail.com, Electronics,Wireless Earbuds,2,42.49,0.0,9.01,West ,Credit Card,Pending
+101075,2025-03-26,Maria Moore,maria.moore@gmail.com,beauty,Sunscreen SPF50,8,$15.52,0.0,7.81,North,Credit Card,COMPLETED
+100199,22-04-2025,Ahmed Anderson,ahmed.anderson@gmail.com, Books ,Atomic Habits,,$16.28,5.0,12.83,South,Cash on Delivery,Pending
+100860,"March 28, 2025",emily butt,,Home and Kitchen,Coffee Maker,8,74.79,,10.9,north,Credit Card,pending
+100677,2025-02-16,Nida Brown,nida.brown@outlook.com,CLOTHING,Running Shoes,7,$82.25,10.0,8.62,west,CREDIT CARD,COMPLETED
+101276,2025/06/23,OMAR MILLER,omar.miller@outlook.com, Electronics,Webcam HD,6,$47.95,5.0,8.71,WEST,paypal,cancelled
+101333,"January 23, 2025",ZAIN ANDERSON,zain.anderson@hotmail.com,CLOTHING,Running Shoes,2,75.69,10.0,9.8,W,Debit Card,COMPLETED
+100216,2025/05/07,Ahmed Anderson,ahmed.anderson@hotmail.com,Beauty ,Makeup Kit,6,$41.04,5.0,10.1,E,paypal,cancelled
+101138,"January 29, 2025",Anna Khan,anna.khan@outlook.com,Electronics,Webcam HD,,46.14,0.0,10.83,North,PayPal,Pending
+100253,"March 31, 2025",Imran Malik,imran.malik@outlook.com,clothing,Denim Jacket,7,$61.54,,5.32,East,cash on delivery,Cancelled
+100431,07/02/2025,Fatima Shah,fatima.shah@outlook.com,Sports & Outdoors,Camping Tent,6,$152.87,0.0,9.05,west,debit card,Cancelled
+100194,2025-03-29,Hassan Butt,hassan.buttoutlook.com,Books,The Pragmatic Programmer,5,$35.45,5.0,8.57, North,cash on delivery,Completed
+100798,12/01/2025,ANNA MALIK,anna.malik@yahoo.com,Electronics ,Webcam HD,1,46.7,0.0,4.52,south,paypal,Pending
+100068,30-05-2025,David Iqbal,david.iqbal@gmail.com,Home&Kitchen,Blender,4,51.6,0.0,7.85,East,credit card,Cancelled
+100020,"January 29, 2025",Usman Smith,usman.smith@hotmail.com,Beauty,Perfume 50ml,3,$52.10,0.0,12.15,South,Cash on Delivery,cancelled
+100035,2025/01/02,john butt,john.butt@outlook.com,beauty,Shampoo 500ml,8,12.24,0.0,1.7,S,paypal,Completed
+101156,2025-06-25,Bilal Iqbal,,electronics,Wireless Earbuds,3,41.86,0.0,7.09,north,paypal,Pending
+101140,"March 03, 2025",Robert Davis,,Sports and Outdoors,Hiking Backpack,6,$69.59,5.0,5.06,North,PayPal,COMPLETED
+101198,28/06/2025,FATIMA IQBAL,fatima.iqbal@outlook.com,home & kitchen,Air Fryer,2,101.21,0.0,6.29,,debit card,Completed
+100665,2025/06/13,ROBERT KHAN,robert.khan@outlook.com,Electronics ,4K Monitor,5,295.66,15.0,8.69,NORTH,Cash on Delivery,Pending
+100802,28/02/2025,Fatima Miller,fatima.miller@yahoo.com,BOOKS,Sapiens,8,18.34,0.0,6.94,S,paypal,COMPLETED
+100240,"January 07, 2025",AYESHA JOHNSON,ayesha.johnson@yahoo.com,Sports & Outdoors,Cycling Helmet,3,44.49,0.0,7.96,east,credit card,Returned
+101304,2025-06-17,  James Shah  ,james.shahoutlook.com,Sports & Outdoors,Cycling Helmet,,39.96,0.0,7.05,west,Debit Card,cancelled
+100187,03-05-2025,Emily Miller,emily.miller@yahoo.com,Beauty,Makeup Kit,2 units,$40.58,10.0,7.74,E,credit card,Returned
+100657,2025/06/19,HASSAN BUTT,hassan.butt@hotmail.com,electronics,Bluetooth Speaker,4,60.71,0.0,6.71,north,debit card,cancelled
+101021,2025/02/12,MARIA DAVIS,maria.davis@yahoo.com,books,Python Crash Course,1 units,,5.0,15.42,S,cash on delivery,Pending
+100980,11-03-2025,Ali Khan,ali.khan@outlook.com,Electronic,Bluetooth Speaker,1,$51.77,5.0,12.26,east,debit card,Returned
+100925,2025/06/10,Kamran Johnson,kamran.johnson@hotmail.com,ELECTRONICS,Laptop Stand,4,$24.79,0.0,15.9,NORTH,cash on delivery,returned
+101153,"May 18, 2025",  Laura Raza  ,laura.raza@outlook.com, Electronics,Bluetooth Speaker,,$60.30,0.0,4.05,east,Credit Card,pending
+100283,2025/01/25,ZAIN SMITH,zain.smith@yahoo.com,books,Deep Work,1,$20.35,5.0,6.99,EAST,CREDIT CARD,cancelled
+100431,"May 21, 2025",Hassan Smith,hassan.smith@hotmail.com, Books ,Python Crash Course,3,$32.99,0.0,8.51,EAST,credit card,completed
+101062,2025/05/12,Amna Ali,amna.ali@outlook.com,Beauty ,Perfume 50ml,2,52.29,0.0,6.93,EAST,debit card,cancelled
+100447,"June 19, 2025",ZAINAB JOHNSON,zainab.johnson@hotmail.com, Clothing,Winter Coat,6,$136.25,0.0,5.61,West,cash on delivery,completed
+100728,"January 25, 2025",Mariam Hussain,mariam.hussain@yahoo.com,Electronic,Wireless Earbuds,2,$44.23,-10.0,2.41,S,cash on delivery,Completed
+100109,2025-01-25,Usman Davis,usman.davis@outlook.com,Sports & Outdoors,Cycling Helmet,1 units,$47.62,0.0,-13.46,East,Cash on Delivery,Cancelled
+101251,2025-04-02,Sana Miller,sana.miller@hotmail.com,Books,Atomic Habits,7,16.84,5.0,7.32,WEST,paypal,Cancelled
+100122,30-06-2025,Amna Malik,amna.malik@yahoo.com,Sports & Outdoors,Water Bottle,,$13.24,15.0,4.82, North,PayPal,Returned
+100367,2025/03/09,Sara Hussain,sara.hussain@gmail.com,Sports & Outdoors,Yoga Mat,2,26.52,0.0,9.48,west,Credit Card,Returned
+100280,2025-01-18,USMAN MOORE,,Books,The Pragmatic Programmer,5,$37.11,,9.19,W,Cash on Delivery,Pending
+101159,2025-02-11,imran malik,imran.malik@gmail.com, Electronics,Webcam HD,5,$48.61,0.0,6.5,E,,completed
+100581,"March 21, 2025",Maria Hussain,maria.hussain@hotmail.com,clothing,Winter Coat,8,$120.66,0.0,12.43,North,debit card,completed
+100016,20-01-2025,Sana Sheikh,sana.sheikh@outlook.com,books,Python Crash Course,5,28.49,5.0,10.24,E,Debit Card,Cancelled
+100308,06/05/2025,Usman Sheikh,usman.sheikh@gmail.com,HOME & KITCHEN,Air Fryer,7,$94.43,10.0,359.26,West,credit card,returned
+100029,2025/05/26,RABIA MALIK,rabia.malik@yahoo.com,Sports,Dumbbell Set,8,84.0,15.0,9.6,N,cash on delivery,completed
+100546,16/06/2025,Michael Khan,michael.khan@hotmail.com,Home and Kitchen,Blender,,45.58,0.0,8.02,West,Debit Card,Returned
+101041,2025-03-17,Michael Shah,,home & kitchen,Blender,,51.36,0.0,9.67,SOUTH,Cash on Delivery,Completed
+101339,2025/05/10,Omar Anderson,,Sports,Dumbbell Set,8,90.01,5.0,-9.09,west,Debit Card,Pending
+100603,2025-01-05,John Taylor,john.taylor@yahoo.com,books,Deep Work,-1,18.6,5.0,2.24,South,CREDIT CARD,Completed
+101083,06/04/2025,Sarah Anderson,sarah.anderson@outlook.com,Books,Python Crash Course,4,$31.71,,3.78,West,PayPal,Cancelled
+100067,2025/04/05,David Hussain,david.hussain@gmail.com,Beauty,Shampoo 500ml,8,$12.19,0.0,8.27,East,credit card,cancelled
+100871,2025/05/11,John Taylor,john.taylor@hotmail.com,BEAUTY,Sunscreen SPF50,6,$15.68,0.0,5.96,S,Cash on Delivery,Completed
+100392,22-01-2025,Hassan Ahmed,hassan.ahmed@hotmail.com,Clothing,Formal Shirt,5,31.65,0.0,5.01,W,CREDIT CARD,COMPLETED
+101193,2025/03/29,robert thomas,robert.thomasoutlook.com,electronics,Bluetooth Speaker,1,61.92,0.0,8.24,east,Cash on Delivery,Returned
+100541,18-05-2025,Usman Shah,usman.shah@yahoo.com,BOOKS,Atomic Habits,-4,$17.03,5.0,11.53,S,CREDIT CARD,pending
+100587,"February 16, 2025",Laura Anderson,laura.anderson@gmail.com,Sports and Outdoors,Hiking Backpack,1 units,$77.93,0.0,8.21,SOUTH,Cash on Delivery,returned
+100452,2025-06-02,Usman Butt,,BOOKS,Python Crash Course,2 units,$30.52,10.0,9.4,west,CREDIT CARD,Pending
+101320,30/05/2025,Kamran Sheikh,kamran.sheikh@hotmail.com,Beauty,Shampoo 500ml,8,$12.79,0.0,6.63, North,paypal,Returned
+100742,18/06/2025,Sarah Davis,sarah.davis@hotmail.com, Electronics,Bluetooth Speaker,3 units,$60.25,,4.7,West ,Cash on Delivery,returned
+100974,02/06/2025,SARAH ANDERSON,,Sports & Outdoors,Camping Tent,1,$163.72,0.0,10.74,E,credit card,pending
+100409,"February 03, 2025",rabia iqbal,rabia.iqbal@gmail.com,HOME & KITCHEN,Vacuum Cleaner,,166.25,0.0,9.57,N,PayPal,Returned
+100132,"May 23, 2025",James Iqbal,james.iqbal@outlook.com,BEAUTY,Sunscreen SPF50,8,16.03,0.0,9.38,south,debit card,cancelled
+101180,03-01-2025,ali smith,ali.smith@gmail.com,Home&Kitchen,Cookware Set,5,132.28,10.0,9.21,South,Credit Card,returned
+100935,04/05/2025,Kamran Miller,kamran.miller@gmail.com,Books,Sapiens,6,20.86,0.0,5.43,E,paypal,pending
+100354,2025/01/08,Ahmed Sheikh,ahmed.sheikh@yahoo.com,Sports,Water Bottle,5,13.09,0.0,8.36,West ,debit card,Pending
+101020,28-05-2025,Usman Anderson,usman.anderson@gmail.com,Beauty ,Face Serum,,$22.48,15.0,5.98,West,credit card,COMPLETED
+101231,08/01/2025,KAMRAN KHAN,kamran.khan@yahoo.com,Home&Kitchen,Blender,-2,45.14,,11.85,east,Credit Card,Returned
+100378,10-01-2025,SANA HUSSAIN,sana.hussain@outlook.com,sports & outdoors,Cycling Helmet,7,40.27,10.0,7.21,North,credit card,Returned
+100125,2025/05/13,Rabia Khan,rabia.khan@yahoo.com,Home & Kitchen,Coffee Maker,6,70.03,20.0,10.57,W,PayPal,Returned
+100397,2025-05-10,faisal taylor,,electronics,Laptop Stand,3,$24.59,0.0,9.84,W,Credit Card,Cancelled
+101051,2025-03-24,Sara Sheikh,sara.sheikh@gmail.com,beauty,Face Serum,8,22.84,0.0,5.67,,paypal,Completed
+100669,05/06/2025,Robert Taylor,robert.taylor@hotmail.com, Books ,Atomic Habits,2,$17.36,0.0,3.79,W,PayPal,Cancelled
+100517,2025/05/15,Emily Butt,emily.butt@yahoo.com,BEAUTY,Shampoo 500ml,unknown,12.23,0.0,5.83,West ,credit card,COMPLETED
+101292,2025/06/23,  Bilal Iqbal  ,bilal.iqbal@outlook.com,sports & outdoors,Cycling Helmet,,42.46,,8.89,west,CREDIT CARD,pending
+100289,2025/05/09,Hassan Iqbal,hassan.iqbalyahoo.com,ELECTRONICS,USB-C Hub,3,$35.58,5.0,2.19,N,paypal,cancelled
+100913,"February 12, 2025",AHMED HUSSAIN,ahmed.hussain@gmail.com,Clothing,Wool Sweater,3,42.87,5.0,15.37,,cash on delivery,Returned
+100162,"March 06, 2025",David Sheikh,david.sheikh@outlook.com,Home&Kitchen,Vacuum Cleaner,1,160.53,0.0,,West ,debit card,Cancelled
+100922,22-04-2025,Laura Johnson,laura.johnson@outlook.com,Sports & Outdoors,Camping Tent,,$156.66,0.0,5.92,West ,cash on delivery,Returned
+100053,08/01/2025,Mariam Miller,mariam.miller@hotmail.com,Electronic,Smart Watch,5,$146.25,0.0,5.1,NORTH,cash on delivery,COMPLETED
+100744,08/05/2025,ANNA SMITH,anna.smith@gmail.com,BOOKS,Atomic Habits,unknown,18.85,0.0,9.46,West ,paypal,completed
+100621,"May 18, 2025",Ali Brown,ali.brown@yahoo.com,home & kitchen,Vacuum Cleaner,1,163.14,0.0,9.97,NORTH,credit card,Pending
+100039,"March 03, 2025",FAISAL SMITH,faisal.smith@yahoo.com,Beauty,Face Serum,6,$22.15,20.0,11.01,EAST,debit card,Cancelled
+101072,09/01/2025,sana shah,sana.shah@yahoo.com,Beauty ,Shampoo 500ml,4,$11.20,0.0,14.7,S,PayPal,cancelled
+100040,18-04-2025,RABIA HUSSAIN,rabia.hussain@outlook.com,Clothing,Wool Sweater,1,42.69,0.0,,,PayPal,returned
+100339,"January 24, 2025",Imran Hussain,imran.hussain@gmail.com,Beauty,Face Serum,3,$24.65,5.0,3.03,SOUTH,Cash on Delivery,Cancelled
+100948,"March 21, 2025",IMRAN KHAN,imran.khan@yahoo.com,Electronic,Smart Watch,5,148.73,20.0,476.86,EAST,credit card,Pending
+100809,2025-04-02,nida taylor,,beauty,Perfume 50ml,3,60.78,15.0,7.95,west,PayPal,COMPLETED
+101078,13-05-2025,usman shah,usman.shah@outlook.com,sports & outdoors,Cycling Helmet,8,$43.90,0.0,287.57,west,paypal,pending
+100445,2025/06/12,Rabia Ahmed,rabia.ahmed@outlook.com,Home and Kitchen,Knife Set,,37.84,72.1,9.24, North,CREDIT CARD,Cancelled
+100083,2025-04-21,Kamran Brown,kamran.brown@hotmail.com,clothing,Wool Sweater,8,$42.52,10.0,16.72,East,debit card,Returned
+100115,2025-01-06,  Kamran Taylor  ,kamran.taylor@outlook.com, Books ,Python Crash Course,8,26.55,0.0,8.22,N,debit card,pending
+101111,22/03/2025,fatima iqbal,fatima.iqbal@outlook.com,Beauty ,Makeup Kit,6,39.43,0.0,,north,cash on delivery,returned
+100727,22-05-2025,Usman Thomas,usman.thomas@outlook.com,BOOKS,Atomic Habits,6,$16.28,0.0,11.06, North,credit card,COMPLETED
+100640,10/02/2025,laura johnson,laura.johnson@hotmail.com,books,Python Crash Course,4,25.42,0.0,11.08,E,credit card,pending
+100732,14/02/2025,Emily Malik,emily.malik@yahoo.com,Electronic,USB-C Hub,1,33.24,0.0,,South,Credit Card,Cancelled
+100620,10/03/2025,KAMRAN ANDERSON,,BEAUTY,Shampoo 500ml,8,,0.0,11.13,West ,Cash on Delivery,pending
+100270,"February 23, 2025",sara khan,sara.khan@yahoo.com,ELECTRONICS,Wireless Earbuds,6,$42.04,0.0,5.46,south,credit card,Returned
+100881,2025/01/03,Ali Butt,ali.butt@yahoo.com,Clothing,Wool Sweater,3,$44.79,10.0,5.13,NORTH,Credit Card,cancelled
+101201,2025/03/22,Ayesha Thomas,ayesha.thomas@hotmail.com, Books ,The Pragmatic Programmer,5,35.11,0.0,3.06,east,CREDIT CARD,completed
+101178,29-04-2025,FAISAL IQBAL,faisal.iqbal@hotmail.com,electronics,Bluetooth Speaker,1,$55.98,0.0,7.0,WEST,cash on delivery,completed
+100762,13/05/2025,Imran Anderson,imran.anderson@hotmail.com,clothing,Denim Jacket,1 units,$63.30,0.0,,W,CREDIT CARD,Completed
+100869,"June 28, 2025",Laura Wilson,,Home&Kitchen,Vacuum Cleaner,1,158.42,0.0,4.01,south,paypal,Completed
+100096,2025/03/11,SARAH SHAH,sarah.shah@gmail.com,sports & outdoors,Yoga Mat,,$25.56,20.0,6.59,EAST,,returned
+100396,2025-03-24,fatima sheikh,fatima.sheikh@outlook.com,beauty,Face Serum,7,$23.72,0.0,3.87,S,debit card,Completed
+101312,"January 15, 2025",ZAINAB IQBAL,zainab.iqbal@hotmail.com,BEAUTY,Sunscreen SPF50,1,,0.0,8.35,East,,Returned
+100697,20-02-2025,Usman Ahmed,usman.ahmed@hotmail.com,Electronics,Smart Watch,7,146.48,0.0,9.4,south,credit card,Returned
+100048,22/01/2025,Faisal Sheikh,faisal.sheikh@hotmail.com,sports & outdoors,Water Bottle,8,12.46,0.0,6.16,south,credit card,cancelled
+100845,"March 07, 2025",Omar Brown,omar.brown@gmail.com,Clothing,Denim Jacket,7,60.72,10.0,7.48,north,Cash on Delivery,Cancelled
+101074,2025/04/03,Ayesha Johnson,ayesha.johnson@yahoo.com,Books,Sapiens,3,$18.33,0.0,8.77,South,cash on delivery,pending
+100153,06-01-2025,Mariam Hussain,mariam.hussain@hotmail.com,electronics,Laptop Stand,8,27.43,0.0,8.21,SOUTH,paypal,Returned
+100237,2025-01-19,Ali Sheikh,ali.sheikh@hotmail.com,HOME & KITCHEN,Blender,3,49.49,0.0,7.26,E,debit card,cancelled
+100054,"March 09, 2025",Rabia Butt,rabia.butt@outlook.com,Beauty ,Face Serum,1,22.16,0.0,5.54, North,cash on delivery,completed
+100123,"April 03, 2025",Ahmed Malik,ahmed.malik@yahoo.com, Electronics,Laptop Stand,,$24.83,5.0,,North,Credit Card,cancelled
+100451,"May 18, 2025",MICHAEL BROWN,michael.brown@yahoo.com,Sports and Outdoors,Camping Tent,,$148.09,15.0,4.12,South,debit card,cancelled
+100134,"January 12, 2025",Zainab Thomas,zainab.thomas@gmail.com, Books ,Deep Work,8,,0.0,8.69,East,Cash on Delivery,Pending
+100268,"April 19, 2025",  Sara Butt  ,sara.butt@outlook.com,HOME & KITCHEN,Cookware Set,-1,$133.31,5.0,2.64,SOUTH,cash on delivery,Completed
+100097,24/03/2025,David Malik,david.malik@gmail.com,Beauty,Makeup Kit,5,$40.52,0.0,7.12,North,debit card,Cancelled
+100220,2025/02/01,AMNA MALIK,amna.malik@hotmail.com,electronics,Bluetooth Speaker,-1,$59.47,0.0,4.69,,,completed
+100041,02/01/2025,emily ali,emily.ali@hotmail.com,CLOTHING,Winter Coat,-1,128.14,0.0,9.07,West ,debit card,Completed
+100026,05-01-2025,Sana Anderson,sana.anderson@outlook.com,books,Deep Work,8,20.37,10.0,5.48,East,Credit Card,Pending
+100700,2025-05-23,  Kamran Hussain  ,kamran.hussain@hotmail.com,Sports & Outdoors,Dumbbell Set,-1,93.91,15.0,2.58,west,Cash on Delivery,cancelled
+100800,2025-06-04,  Ayesha Ali  ,ayesha.ali@hotmail.com,books,Deep Work,4,$19.55,5.0,10.94,north,debit card,pending
+100768,27-06-2025,david ahmed,david.ahmed@hotmail.com,beauty,Shampoo 500ml,3,$11.70,,-0.29,East,debit card,cancelled
+100997,2025-04-06,  John Sheikh  ,john.sheikh@yahoo.com,Home & Kitchen,Blender,3,51.77,0.0,6.3,E,credit card,cancelled
+100568,25/03/2025,zain taylor,zain.taylor@gmail.com,sports & outdoors,Water Bottle,8,12.26,5.0,8.42,South,CREDIT CARD,Completed
+100012,2025/01/28,Zainab Khan,zainab.khan@outlook.com,Electronic,Webcam HD,4,44.06,0.0,9.95,E,paypal,Completed
+101281,20-03-2025,Omar Taylor,omar.taylor@yahoo.com,BOOKS,Python Crash Course,3,$29.86,0.0,13.55,north,paypal,Completed
+100534,2025-02-02,Sarah Ahmed,,Home and Kitchen,Vacuum Cleaner,7,159.55,0.0,11.79,west,cash on delivery,COMPLETED
+101245,19/06/2025,Amna Khan,amna.khan@outlook.com,Home and Kitchen,Coffee Maker,7,70.24,0.0,6.54,W,debit card,COMPLETED
+100003,"June 16, 2025",David Raza,david.raza@gmail.com,Electronic,Bluetooth Speaker,2 units,58.88,5.0,,,,COMPLETED
+101166,2025/03/25,Nida Khan,nida.khan@outlook.com,sports & outdoors,Camping Tent,4,154.45,0.0,11.97,EAST,PayPal,Completed
+101133,2025/03/19,emily butt,emily.butt@yahoo.com,Beauty,Face Serum,4,$22.17,5.0,3.45,north,debit card,Pending
+100681,2025-04-20,usman hussain,usman.hussain@yahoo.com,BOOKS,Python Crash Course,8,$30.43,0.0,9.98,South,cash on delivery,COMPLETED
+100848,28/06/2025,Bilal Brown,bilal.brown@yahoo.com,home & kitchen,Air Fryer,5,88.55,0.0,7.86,S,Cash on Delivery,completed
+101270,2025-01-11,AMNA DAVIS,amna.davis@hotmail.com,Sports & Outdoors,Yoga Mat,3,$24.87,,8.8, North,Cash on Delivery,Completed
+100478,"January 13, 2025",David Hussain,david.hussain@yahoo.com,Electronics,Laptop Stand,2,$23.83,,3.09,north,Cash on Delivery,Cancelled
+100976,"January 27, 2025",Faisal Butt,faisal.butt@outlook.com,Beauty ,Shampoo 500ml,5,$11.60,,10.7,north,cash on delivery,Returned
+100571,02/04/2025,Sarah Ahmed,sarah.ahmed@gmail.com,books,Atomic Habits,7,$16.85,10.0,1.17,W,Debit Card,pending
+101274,2025-04-17,michael khan,michael.khan@yahoo.com,sports & outdoors,Dumbbell Set,8,$94.30,10.0,7.81,NORTH,Cash on Delivery,pending
+100863,2025/06/08,David Miller,david.miller@yahoo.com,Beauty ,Sunscreen SPF50,5,$16.24,5.0,5.5,,PayPal,Pending
+101257,04-04-2025,Anna Butt,anna.butt@hotmail.com,clothing,Cotton T-Shirt,4,15.55,0.0,3.97,EAST,credit card,Returned
+100426,2025/02/02,Mariam Ali,mariam.ali@outlook.com,Books,Sapiens,2 units,20.36,0.0,,N,CREDIT CARD,Completed
+100702,2025/04/11,FAISAL HUSSAIN,faisal.hussain@hotmail.com,home & kitchen,Coffee Maker,5,,0.0,7.16,North,cash on delivery,Cancelled
+100336,22/05/2025,James Ahmed,james.ahmed@yahoo.com,BOOKS,The Pragmatic Programmer,7,$34.26,0.0,8.01,west,debit card,cancelled
+100232,"February 07, 2025",Laura Iqbal,laura.iqbal@gmail.com,BOOKS,Sapiens,7,19.55,0.0,10.37,EAST,PayPal,cancelled
+100648,26-05-2025,HASSAN SMITH,hassan.smith@outlook.com, Books ,The Pragmatic Programmer,1,33.59,15.0,8.28,South,Debit Card,COMPLETED
+100964,2025-06-23,Mariam Raza,mariam.raza@outlook.com,Sports and Outdoors,Dumbbell Set,5,88.49,0.0,9.26,west,PayPal,pending
+100637,2025-01-17,FAISAL MILLER,faisal.miller@outlook.com,Home & Kitchen,Knife Set,8,40.05,5.0,6.59,South,Cash on Delivery,pending
+100687,"January 04, 2025",James Malik,james.malik@outlook.com,Clothing,Denim Jacket,3,54.56,5.0,4.72,West ,Credit Card,Pending
+100297,"April 11, 2025",Hassan Anderson,hassan.anderson@hotmail.com,clothing,Winter Coat,2,$125.68,20.0,4.48,WEST,CREDIT CARD,Pending
+100795,"June 30, 2025",Zainab Wilson,zainab.wilson@gmail.com,home & kitchen,Knife Set,3,$41.36,15.0,3.17,WEST,Cash on Delivery,Returned
+101021,2025/02/12,MARIA DAVIS,maria.davis@yahoo.com,books,Python Crash Course,1 units,,5.0,15.42,S,cash on delivery,Pending
+101357,2025-05-12,SARA RAZA,sara.raza@yahoo.com,Clothing,Winter Coat,3,119.05,0.0,12.25,West,Debit Card,completed
+100205,"June 23, 2025",Omar Thomas,omar.thomas@gmail.com,Sports and Outdoors,Dumbbell Set,5,93.42,0.0,2.94,north,debit card,Cancelled
+100737,2025/01/29,Maria Anderson,maria.anderson@hotmail.com,Home & Kitchen,Vacuum Cleaner,8,$163.49,0.0,6.7,SOUTH,Debit Card,pending
+100674,2025/05/23,james ahmed,james.ahmed@hotmail.com, Electronics,Bluetooth Speaker,2,$58.01,0.0,9.43,West ,PayPal,Completed
+100000,2025-05-29,Imran Moore,imran.moore@outlook.com,Sports,Water Bottle,4,12.20,5.0,0.16,NORTH,credit card,Returned
+100985,13-01-2025,Ayesha Taylor,ayesha.taylor@outlook.com,Home and Kitchen,Air Fryer,2,$84.73,,7.12,South,,cancelled
+101037,2025/03/22,Zainab Johnson,zainab.johnson@outlook.com,Sports & Outdoors,Camping Tent,7,151.75,0.0,12.85, North,debit card,Completed
+101298,2025-05-21,robert johnson,robert.johnson@gmail.com,Beauty,Sunscreen SPF50,6,$14.71,20.0,13.37,E,paypal,cancelled
+100972,21/04/2025,  Robert Khan  ,robert.khan@outlook.com,Electronic,Webcam HD,6,50.33,10.0,1.29,East,credit card,returned
+100921,2025/06/11,Nida Smith,nida.smith@outlook.com,Sports & Outdoors,Hiking Backpack,5,$67.56,20.0,6.4,west,Credit Card,COMPLETED
+100754,13/01/2025,Ayesha Brown,ayesha.brown@yahoo.com,clothing,Winter Coat,1,126.5,10.0,0.87,north,Credit Card,Pending
+100022,27/01/2025,Ayesha Malik,ayesha.malik@yahoo.com,Beauty,Makeup Kit,2 units,$39.70,10.0,7.37,N,cash on delivery,cancelled
+100660,29-01-2025,  Hina Thomas  ,hina.thomas@gmail.com,Electronics ,Bluetooth Speaker,6,$62.30,0.0,,S,CREDIT CARD,COMPLETED
+101134,"March 08, 2025",Emily Miller,emily.miller@outlook.com,sports & outdoors,Yoga Mat,6,23.43,5.0,13.01,West ,Cash on Delivery,returned
+100893,12/04/2025,Ahmed Thomas,ahmed.thomas@gmail.com,HOME & KITCHEN,Knife Set,2 units,43.12,0.0,2.68,E,credit card,pending
+100471,2025-06-06,  Kamran Butt  ,, Books ,The Pragmatic Programmer,3,34.26,0.0,3.3, North,CREDIT CARD,Returned
+100633,17-01-2025,Zain Anderson,zain.anderson@outlook.com,CLOTHING,Cotton T-Shirt,8,$14.79,0.0,3.35,EAST,cash on delivery,returned
+100617,"January 21, 2025",Omar Hussain,omar.hussain@yahoo.com,Sports and Outdoors,Yoga Mat,4,25.03,0.0,,north,debit card,Completed
+100157,12/04/2025,Fatima Sheikh,,Sports,Camping Tent,3,,0.0,7.12,W,cash on delivery,returned
+100507,25-01-2025,Rabia Khan,rabia.khan@yahoo.com,Electronics,Bluetooth Speaker,1,,20.0,-0.25,West ,CREDIT CARD,pending
+101240,11-06-2025,Ahmed Khan,ahmed.khan@outlook.com,books,Atomic Habits,4,$17.23,0.0,10.09,east,credit card,cancelled
+100140,2025/05/25,fatima brown,fatima.brown@outlook.com, Books ,Deep Work,3,18.72,80.9,11.98, North,CREDIT CARD,COMPLETED
+100160,12-06-2025,Sana Brown,sana.brown@outlook.com,sports & outdoors,Hiking Backpack,4,$70.64,0.0,6.98, North,credit card,Cancelled
+100305,30-06-2025,Fatima Taylor,fatima.taylor@hotmail.com,CLOTHING,Formal Shirt,3,$38.59,10.0,4.17,south,PayPal,returned
+101063,10/06/2025,bilal thomas,bilal.thomas@hotmail.com,Electronics ,USB-C Hub,2,32.61,0.0,5.53,north,paypal,COMPLETED
+101287,2025/05/25,Fatima Khan,fatima.khan@gmail.com,Electronics ,Laptop Stand,1,$25.48,15.0,10.14,east,credit card,COMPLETED
+100401,2025/06/25,Omar Miller,omar.miller@yahoo.com,Beauty ,Sunscreen SPF50,1,$15.43,0.0,9.64,west,debit card,returned
+100395,2025/06/14,  Mariam Ahmed  ,mariam.ahmed@outlook.com,Sports & Outdoors,Hiking Backpack,3,65.37,0.0,5.6,east,Debit Card,Returned
+101054,"March 17, 2025",Omar Moore,omar.moore@hotmail.com,beauty,Shampoo 500ml,3 units,,0.0,6.07,North,cash on delivery,Pending
+100399,2025-05-17,Nida Brown,nida.brown@hotmail.com,beauty,Shampoo 500ml,8,12.44,0.0,13.88,South,debit card,returned
+101034,"March 15, 2025",Amna Khan,amna.khan@hotmail.com,electronics,4K Monitor,4,"$4,641.16",10.0,,West,paypal,pending
+100556,"June 05, 2025",Hina Butt,,BEAUTY,Shampoo 500ml,,12.12,10.0,8.85,east,CREDIT CARD,cancelled
+100609,"May 22, 2025",Kamran Brown,kamran.brown@yahoo.com,Home & Kitchen,Air Fryer,3 units,$93.45,0.0,9.93,West ,CREDIT CARD,completed
+100955,2025-02-28,mariam raza,mariam.raza@yahoo.com,electronics,Smart Watch,3,$144.11,0.0,4.74,south,debit card,cancelled
+100953,22-04-2025,  Bilal Shah  ,bilal.shah@outlook.com, Clothing,Wool Sweater,8,44.85,0.0,6.98,East,debit card,Completed
+100224,2025/01/20,BILAL MILLER,bilal.miller@hotmail.com,CLOTHING,Winter Coat,5,117.94,10.0,2.88,,paypal,completed
+100287,09/02/2025,Ali Brown,ali.brown@outlook.com, Clothing,Cotton T-Shirt,8,14.72,0.0,10.73,south,Cash on Delivery,Cancelled
+101202,26-01-2025,Michael Hussain,michael.hussain@outlook.com,Electronic,USB-C Hub,,$37.56,0.0,-7.88,WEST,PayPal,completed
+100862,2025/02/01,SARA BROWN,sara.brown@hotmail.com,electronics,Smart Watch,5,153.33,0.0,12.36,West,Debit Card,Completed
+100876,2025-02-10,Emily Smith,emily.smith@hotmail.com,Books,Sapiens,2,$19.17,0.0,8.27,SOUTH,Cash on Delivery,returned
+100902,2025-05-30,Usman Hussain,usman.hussain@hotmail.com,books,Python Crash Course,8,$31.77,0.0,7.47,West ,Credit Card,returned
+100649,18-06-2025,hina moore,hina.moore@yahoo.com,Home & Kitchen,Knife Set,2,,20.0,6.86,SOUTH,paypal,returned
+100858,23/05/2025,AHMED SMITH,ahmed.smith@gmail.com,CLOTHING,Cotton T-Shirt,2,$15.13,0.0,9.14,South,Debit Card,Pending
+100504,2025-02-09,Zainab Khan,zainab.khan@outlook.com,BEAUTY,Perfume 50ml,4,$55.18,0.0,10.69,West ,PayPal,Pending
+101174,2025/02/28,David Taylor,david.taylor@hotmail.com,Beauty,Perfume 50ml,2,$50.63,0.0,12.7,NORTH,Credit Card,returned
+100457,2025-06-23,HINA MILLER,hina.miller@yahoo.com, Books ,Python Crash Course,7,$31.86,5.0,3.46,south,cash on delivery,Completed
+100484,17/06/2025,HASSAN ANDERSON,hassan.anderson@yahoo.com,Sports & Outdoors,Water Bottle,1,12.6,0.0,9.53,East,Credit Card,returned
+100026,"March 22, 2025",Hina Anderson,hina.anderson@gmail.com,Books,The Pragmatic Programmer,5,35.27,5.0,7.07,West,Cash on Delivery,completed
+100028,"April 03, 2025",robert khan,robert.khan@yahoo.com,Home&Kitchen,Vacuum Cleaner,1,170.69,0.0,9.37,S,PayPal,COMPLETED
+100936,"February 05, 2025",Maria Johnson,maria.johnson@hotmail.com, Electronics,Laptop Stand,1,26.8,0.0,7.41,south,Debit Card,Pending
+100278,2025/04/29,Hina Thomas,hina.thomas@yahoo.com,Sports & Outdoors,Cycling Helmet,8,$42.38,0.0,2.41,West,Cash on Delivery,Pending
+100408,2025-02-18,Zainab Brown,zainab.brown@hotmail.com,Clothing,Winter Coat,7,$119.72,10.0,9.23,South,debit card,returned
+101328,04/04/2025,Sara Miller,sara.miller@gmail.com,Home&Kitchen,Blender,unknown,48.44,0.0,9.32,NORTH,PayPal,returned
+100003,2025/02/15,  Rabia Ali  ,rabia.ali@hotmail.com,HOME & KITCHEN,Coffee Maker,7,$67.00,0.0,10.33,North,paypal,pending
+100023,23-05-2025,Sana Wilson,sana.wilson@gmail.com, Electronics,4K Monitor,5,302.43,0.0,4.17,West,PayPal,completed
+100019,2025/03/30,David Shah,david.shah@gmail.com,Home&Kitchen,Knife Set,2,$39.44,0.0,5.4,west,credit card,Completed
+101167,"March 02, 2025",Ali Thomas,ali.thomas@gmail.com,Clothing,Formal Shirt,2,36.1,-15.0,8.48,WEST,CREDIT CARD,COMPLETED
+100347,2025/02/15,Hassan Malik,hassan.malik@hotmail.com,Beauty,Shampoo 500ml,6,11.99,0.0,6.33,West ,PayPal,returned
+100530,"March 08, 2025",Zain Anderson,zain.anderson@gmail.com,Electronics ,Bluetooth Speaker,2 units,57.04,0.0,3.84,south,cash on delivery,completed
+101045,2025-03-15,  Fatima Wilson  ,fatima.wilson@outlook.com,Sports,Water Bottle,5,12.26,0.0,11.2,NORTH,cash on delivery,Returned
+100956,"January 03, 2025",  Bilal Moore  ,bilal.moore@gmail.com,clothing,Running Shoes,2,74.96,0.0,12.59,WEST,credit card,pending
+100432,06/04/2025,james moore,james.moore@yahoo.com,CLOTHING,Cotton T-Shirt,7,14.66,5.0,1.61,SOUTH,cash on delivery,COMPLETED
+100747,2025/06/05,robert davis,robert.davis@hotmail.com,Sports & Outdoors,Cycling Helmet,6,44.79,0.0,7.09,W,Debit Card,pending
+100446,04/06/2025,Michael Shah,michael.shah@hotmail.com,books,The Pragmatic Programmer,8,38.24,0.0,9.97,North,Cash on Delivery,Cancelled
+100930,"March 25, 2025",Hassan Khan,hassan.khan@outlook.com,BEAUTY,Makeup Kit,1,$38.84,10.0,12.44,NORTH,credit card,Returned
+100610,2025/02/15,Sana Khan,, Clothing,Denim Jacket,-3,57.35,0.0,10.58,N,paypal,Pending
+101309,2025/03/24,James Taylor,james.taylor@outlook.com,Beauty,Shampoo 500ml,,11.54,0.0,10.27,East,cash on delivery,Completed
+100379,2025-04-22,Zainab Butt,zainab.butt@yahoo.com,BEAUTY,Shampoo 500ml,1,$11.58,0.0,7.51,E,PayPal,Completed
+101015,28/04/2025,Zainab Raza,zainab.raza@outlook.com,books,Sapiens,1,19.87,0.0,6.52,East,PayPal,COMPLETED
+100374,2025/06/28,ayesha davis,ayesha.davis@hotmail.com,books,Deep Work,3,$18.65,0.0,5.03,S,CREDIT CARD,returned
+101244,13/03/2025,Kamran Wilson,kamran.wilson@yahoo.com,Home&Kitchen,Knife Set,8,$41.39,,6.88,,Debit Card,Completed
+100572,"May 31, 2025",Ali Hussain,ali.hussain@hotmail.com, Books ,Python Crash Course,,30.95,0.0,4.96,East,CREDIT CARD,COMPLETED
+101013,"May 10, 2025",Kamran Malik,,Home&Kitchen,Knife Set,6,$40.96,0.0,7.71,east,debit card,Returned
+100878,"March 26, 2025",Fatima Thomas,fatima.thomas@outlook.com,Books,The Pragmatic Programmer,-2,$36.98,10.0,10.06,south,credit card,completed
+100498,"January 01, 2025",BILAL SHAH,bilal.shah@yahoo.com,ELECTRONICS,Webcam HD,7,44.56,5.0,6.94,EAST,debit card,COMPLETED
+101247,25/03/2025,omar ali,omar.ali@outlook.com, Clothing,Running Shoes,3,73.64,15.0,2.87,N,paypal,returned
+100231,2025/05/14,LAURA KHAN,laura.khan@outlook.com,clothing,Denim Jacket,8,$58.43,10.0,6.5,N,cash on delivery,completed
+100147,15/03/2025,ahmed ali,ahmed.ali@gmail.com,Clothing,Running Shoes,7,83.7,0.0,6.4,West ,,pending
+100382,12/04/2025,Bilal Thomas,bilal.thomas@gmail.com,ELECTRONICS,Laptop Stand,6,$22.09,0.0,6.37,NORTH,CREDIT CARD,pending
+100167,"January 15, 2025",HASSAN SHEIKH,hassan.sheikh@yahoo.com,books,Python Crash Course,4,29.56,0.0,7.07,east,debit card,completed
+101089,2025/06/27,Bilal Ahmed,bilal.ahmed@gmail.com, Books ,Deep Work,2,,5.0,11.24,West,cash on delivery,completed
+100072,16/05/2025,John Brown,john.brown@hotmail.com, Electronics,Smart Watch,6,146.36,0.0,,E,debit card,pending
+100070,19-06-2025,Nida Brown,nida.brown@yahoo.com,Sports and Outdoors,Yoga Mat,3,$24.57,5.0,4.02,N,credit card,Completed
+101126,2025-04-05,Omar Khan,omar.khan@hotmail.com,HOME & KITCHEN,Cookware Set,4,$131.46,5.0,13.64,North,credit card,cancelled
+100866,"April 10, 2025",Omar Thomas,omar.thomas@gmail.com,Home and Kitchen,Vacuum Cleaner,7,162.28,0.0,11.11,SOUTH,Cash on Delivery,completed
+100171,2025/04/08,KAMRAN MOORE,kamran.moore@outlook.com,BOOKS,Deep Work,,$16.18,15.0,15.26,East,debit card,Cancelled
+100130,2025-05-14,Emily Johnson,emily.johnson@yahoo.com,BEAUTY,Sunscreen SPF50,5,$15.36,0.0,9.57,EAST,debit card,Completed
+100168,11/04/2025,DAVID BROWN,david.brown@outlook.com,Sports and Outdoors,Yoga Mat,,$26.16,5.0,6.99,south,debit card,cancelled
+100493,26/02/2025,Ali Taylor,ali.taylor@yahoo.com,home & kitchen,Blender,3,$46.35,0.0,13.12,West ,PayPal,returned
+100264,2025-04-20,AHMED ANDERSON,ahmed.anderson@outlook.com,Home&Kitchen,Air Fryer,3,$89.76,0.0,13.39,SOUTH,Cash on Delivery,Completed
+100540,2025/06/13,john wilson,john.wilson@gmail.com,Sports & Outdoors,Water Bottle,8,$13.20,0.0,9.73,West ,credit card,pending
+100525,2025/06/24,  Sara Smith  ,sara.smith@outlook.com,Beauty ,Sunscreen SPF50,6,$15.98,10.0,4.21,West,credit card,completed
+101212,12/06/2025,Hina Brown,hina.brown@yahoo.com,Sports,Cycling Helmet,2,42.09,0.0,12.01,south,paypal,Cancelled
+100272,26/02/2025,  Hina Moore  ,hina.moore@outlook.com,clothing,Formal Shirt,2,$37.24,0.0,7.6,WEST,Credit Card,Cancelled
+101076,2025/04/01,Sana Ali,sana.ali@hotmail.com,Sports and Outdoors,Hiking Backpack,7,$72.14,-5.0,6.65,East,credit card,Returned
+100420,"May 31, 2025",Zainab Hussain,zainab.hussain@gmail.com, Clothing,Winter Coat,8,116.22,0.0,7.88,EAST,CREDIT CARD,COMPLETED
+100094,20/05/2025,Mariam Ahmed,mariam.ahmed@yahoo.com,BOOKS,Python Crash Course,7,28.32,,8.79, North,debit card,Returned
+101313,"March 06, 2025",Usman Butt,usman.butt@gmail.com, Books ,The Pragmatic Programmer,-3,34.46,0.0,8.59,S,Debit Card,Pending
+100635,2025/01/08,John Taylor,john.taylor@yahoo.com,Clothing,Wool Sweater,5,$43.74,0.0,9.81,NORTH,credit card,Completed
+101143,2025/06/10,FAISAL MILLER,faisal.miller@gmail.com,Beauty,Face Serum,4,21.14,20.0,6.98,NORTH,PayPal,Cancelled
+100042,2025/02/13,Imran Taylor,imran.taylor@gmail.com,home & kitchen,Cookware Set,-2,139.50,0.0,6.08,N,Credit Card,Returned
+100056,2025/04/21,Mariam Brown,mariam.brown@hotmail.com,ELECTRONICS,Smart Watch,2,$152.88,0.0,7.88,NORTH,CREDIT CARD,COMPLETED
+101146,"May 31, 2025",Kamran Shah,kamran.shah@hotmail.com,Electronic,Smart Watch,2,164.43,0.0,8.14,N,Credit Card,completed
+100789,2025-02-19,MARIA SHEIKH,maria.sheikh@yahoo.com,CLOTHING,Denim Jacket,8,$63.35,0.0,5.35,W,PayPal,returned
+100038,"April 20, 2025",Zain Thomas,zain.thomas@hotmail.com,Sports & Outdoors,Yoga Mat,6,$25.08,5.0,8.7, North,credit card,Returned
+100306,04-02-2025,Mariam Ali,mariam.ali@outlook.com, Clothing,Formal Shirt,4,35.11,10.0,5.74,north,debit card,pending
+101016,30-01-2025,Zainab Hussain,zainab.hussain@hotmail.com,BEAUTY,Face Serum,3,$23.22,0.0,9.46,east,Credit Card,returned
+101261,25/03/2025,LAURA ALI,laura.ali@gmail.com,Home and Kitchen,Coffee Maker,5,$63.51,0.0,12.06,north,debit card,Cancelled
+100408,2025-02-18,Zainab Brown,zainab.brown@hotmail.com,Clothing,Winter Coat,7,$119.72,10.0,9.23,South,debit card,returned
+100166,"January 06, 2025",Zain Taylor,zain.taylor@hotmail.com,CLOTHING,Cotton T-Shirt,4,$15.49,,,,PayPal,Returned
+100801,21/04/2025,  Laura Hussain  ,laura.hussain@outlook.com, Books ,Sapiens,5,$20.27,5.0,5.4,WEST,Credit Card,completed
+101121,24-04-2025,MARIA MOORE,maria.moore@outlook.com,Clothing,Denim Jacket,7,56.15,10.0,7.15,North,cash on delivery,Returned
+101317,25-04-2025,Sana Wilson,sana.wilson@gmail.com,Beauty ,Makeup Kit,5,39.86,0.0,8.08,North,credit card,pending
+101356,10-02-2025,Kamran Sheikh,kamran.sheikh@hotmail.com,Home&Kitchen,Coffee Maker,2,69.66,0.0,7.34,West ,Debit Card,Pending
+100643,2025-04-09,Ali Wilson,ali.wilson@outlook.com,Home & Kitchen,Knife Set,4,39.88,0.0,6.25,East,Cash on Delivery,Returned
+101277,2025/01/03,Ayesha Malik,ayesha.malik@hotmail.com,clothing,Winter Coat,6,113.24,10.0,14.43,SOUTH,debit card,pending
+100316,02/04/2025,John Iqbal,john.iqbalgmail.com,books,The Pragmatic Programmer,1,35.36,0.0,9.47,EAST,Credit Card,Completed
+100874,22-05-2025,James Iqbal,james.iqbal@outlook.com,ELECTRONICS,Bluetooth Speaker,4,64.60,0.0,6.34,north,paypal,COMPLETED
+101235,"May 17, 2025",Michael Wilson,michael.wilson@yahoo.com,sports & outdoors,Cycling Helmet,6,$46.17,0.0,7.46,,debit card,cancelled
+100971,2025/03/01,Laura Anderson,laura.anderson@gmail.com,Clothing,Denim Jacket,1,$56.39,5.0,6.55,SOUTH,CREDIT CARD,Returned
+100593,"January 13, 2025",  Usman Davis  ,usman.davis@yahoo.com,Sports & Outdoors,Camping Tent,7,162.78,,8.89,East,paypal,COMPLETED
+100533,2025-05-25,Imran Davis,,electronics,Bluetooth Speaker,1,$60.71,0.0,4.8,,debit card,returned
+100671,24-03-2025,  Nida Sheikh  ,nida.sheikh@gmail.com,Sports and Outdoors,Yoga Mat,4,26.48,0.0,4.21,S,credit card,COMPLETED
+101326,29-04-2025,Michael Butt,michael.butt@hotmail.com,Home & Kitchen,Blender,6,51.93,0.0,7.23,WEST,PayPal,cancelled
+100736,11/03/2025,FAISAL IQBAL,faisal.iqbal@yahoo.com,Beauty ,Perfume 50ml,2,$57.96,0.0,6.63,east,Debit Card,completed
+100961,2025/05/08,Sara Ali,sara.ali@yahoo.com, Books ,Atomic Habits,7,17.25,0.0,,WEST,credit card,returned
+100981,2025-04-03,Omar Butt,omar.butt@hotmail.com,HOME & KITCHEN,Vacuum Cleaner,3,$156.78,0.0,12.93,South,credit card,COMPLETED
+100598,2025/05/18,LAURA HUSSAIN,laura.hussain@hotmail.com,Home and Kitchen,Blender,6,50.74,0.0,3.02,E,Cash on Delivery,cancelled
+100061,2025-06-22,Laura Wilson,laura.wilson@yahoo.com,CLOTHING,Running Shoes,-3,$78.35,0.0,9.29,EAST,,Returned
+101197,04/05/2025,Laura Moore,laura.moore@yahoo.com,Sports & Outdoors,Camping Tent,2,$163.50,0.0,6.87,south,Debit Card,returned
+100536,"February 28, 2025",  Usman Malik  ,usman.malik@gmail.com,BEAUTY,Makeup Kit,-4,41.01,5.0,7.35,NORTH,CREDIT CARD,returned
+101215,16-01-2025,Omar Shah,,Home & Kitchen,Knife Set,4,39.44,0.0,12.27,WEST,Credit Card,Completed
+100941,2025/02/06,Laura Johnson,laura.johnson@outlook.com,electronics,USB-C Hub,4,$36.47,0.0,8.9,South,paypal,completed
+100244,29/03/2025,HASSAN ANDERSON,hassan.anderson@gmail.com, Electronics,Wireless Earbuds,6,39.8,0.0,1.16,west,Cash on Delivery,cancelled
+100025,24/01/2025,Hina Sheikh,hina.sheikh@outlook.com,beauty,Makeup Kit,-1,$40.27,5.0,6.72,W,paypal,Completed
+100222,2025/02/27,Amna Raza,amna.raza@outlook.com,Sports,Hiking Backpack,7,$70.61,0.0,7.03,N,paypal,Pending
+101144,2025-03-05,  Fatima Ahmed  ,fatima.ahmed@yahoo.com,Electronic,USB-C Hub,8,$35.18,0.0,9.58,,cash on delivery,Cancelled
+100105,06/01/2025,James Wilson,james.wilson@gmail.com,BEAUTY,Sunscreen SPF50,4,$16.93,-5.0,13.23,South,Debit Card,Completed
+100693,"February 21, 2025",NIDA MILLER,nida.miller@hotmail.com, Clothing,Wool Sweater,6,42.1,0.0,8.16,,paypal,Completed
+100509,"February 04, 2025",Maria Raza,maria.raza@outlook.com,Beauty ,Makeup Kit,5,$42.15,0.0,7.49,South,Debit Card,Pending
+100297,10-04-2025,michael sheikh,michael.sheikh@outlook.com,Electronics ,Wireless Earbuds,1,$40.54,0.0,1.07, North,Credit Card,returned
+101090,"May 05, 2025",KAMRAN JOHNSON,kamran.johnson@outlook.com,ELECTRONICS,Wireless Earbuds,5,39.34,0.0,6.87,north,Debit Card,Completed
+101141,"June 24, 2025",Imran Sheikh,imran.sheikh@gmail.com,HOME & KITCHEN,Blender,5,,10.0,9.14,West,CREDIT CARD,returned
+100508,"March 27, 2025",Mariam Brown,mariam.brown@outlook.com,BEAUTY,Face Serum,5,22.72,15.0,6.73,south,credit card,cancelled
+101113,27-06-2025,  James Khan  ,,ELECTRONICS,Wireless Earbuds,5,$41.52,10.0,10.35,south,debit card,cancelled
+100075,05/02/2025,Faisal Shah,faisal.shah@yahoo.com,sports & outdoors,Cycling Helmet,8,45.39,0.0,8.27,West ,Credit Card,returned
+100036,2025-02-03,bilal anderson,bilal.anderson@yahoo.com,Electronic,Wireless Earbuds,4,$41.67,0.0,9.3,south,credit card,Completed
+101267,23/04/2025,Maria Anderson,maria.anderson@gmail.com,Beauty ,Makeup Kit,6,$39.89,0.0,,E,cash on delivery,Completed
+100057,2025-01-21,anna ali,anna.ali@outlook.com,Electronics,Smart Watch,5,145.08,0.0,6.64,East,Credit Card,Completed
+100196,28/03/2025,Maria Taylor,maria.taylor@hotmail.com,ELECTRONICS,Webcam HD,,$45.41,15.0,0.77,EAST,PayPal,pending
+101189,01-01-2025,Usman Iqbal,usman.iqbal@hotmail.com,Home&Kitchen,Coffee Maker,5,$71.71,0.0,10.18,south,,returned
+100779,2025/06/08,Anna Butt,anna.butt@hotmail.com,Electronics ,Wireless Earbuds,4,40.16,20.0,10.5,S,Cash on Delivery,returned
+101118,2025/05/07,Mariam Hussain,mariam.hussain@gmail.com, Clothing,Running Shoes,,$77.50,0.0,4.94,S,credit card,returned
+100477,17-01-2025,Ayesha Khan,ayesha.khanyahoo.com,Beauty,Perfume 50ml,4,$56.79,0.0,7.19,N,CREDIT CARD,Cancelled
+100086,19/04/2025,  Kamran Malik  ,kamran.malik@yahoo.com,Home&Kitchen,Air Fryer,7,$91.95,0.0,7.6,East,CREDIT CARD,returned
+100561,2025/02/20,Omar Wilson,omar.wilson@outlook.com,Electronics ,Laptop Stand,,$23.71,0.0,11.69,South,CREDIT CARD,Completed
+100334,18/04/2025,Anna Davis,anna.davis@gmail.com,Clothing,Running Shoes,5,$83.06,0.0,8.39,North,Credit Card,cancelled
+100963,2025/03/18,  James Miller  ,james.miller@outlook.com,HOME & KITCHEN,Knife Set,6,$41.01,0.0,6.81,E,credit card,COMPLETED
+100758,2025-02-07,  Sara Johnson  ,sara.johnson@hotmail.com,Sports and Outdoors,Yoga Mat,5,$25.51,0.0,9.89,N,cash on delivery,pending
+100835,2025-06-03,Omar Khan,omar.khan@yahoo.com,sports & outdoors,Hiking Backpack,3,73.52,0.0,11.65,EAST,PayPal,returned
+101115,09/01/2025,amna ali,amna.ali@outlook.com, Clothing,Cotton T-Shirt,1,15.12,0.0,5.25,E,CREDIT CARD,returned
+101120,2025/01/24,Fatima Hussain,fatima.hussain@gmail.com,Sports and Outdoors,Dumbbell Set,7,$90.96,0.0,9.46,NORTH,Debit Card,Cancelled
+100538,07/05/2025,Kamran Smith,kamran.smith@yahoo.com,ELECTRONICS,Bluetooth Speaker,5,59.86,0.0,5.97, North,credit card,Cancelled
+101186,2025/03/20,Zainab Thomas,zainab.thomas@outlook.com,home & kitchen,Cookware Set,5,124.62,0.0,8.34,WEST,paypal,Returned
+100418,22-03-2025,David Brown,david.brown@yahoo.com, Clothing,Denim Jacket,4,$59.48,0.0,10.9,W,Debit Card,Returned
+100879,"April 10, 2025",  Robert Thomas  ,robert.thomas@gmail.com,BEAUTY,Perfume 50ml,7,$58.31,0.0,7.36,S,Cash on Delivery,COMPLETED
+101344,28-03-2025,Kamran Ahmed,kamran.ahmed@yahoo.com,beauty,Perfume 50ml,4,$53.00,15.0,14.6,east,debit card,returned
+101169,"May 21, 2025",Nida Moore,nida.moore@gmail.com,sports & outdoors,Yoga Mat,1,$25.67,0.0,9.53,EAST,debit card,cancelled
+100573,30/04/2025,Maria Khan,maria.khan@gmail.com,ELECTRONICS,Bluetooth Speaker,4,$60.37,15.0,6.41,West,Cash on Delivery,returned
+100619,30/03/2025,  Ali Hussain  ,ali.hussain@yahoo.com,Sports,Hiking Backpack,2,$68.94,0.0,9.43,EAST,cash on delivery,Returned
+101128,2025-04-09,Ali Moore,ali.moore@outlook.com, Electronics,Webcam HD,2,,5.0,3.35,WEST,debit card,pending
+100332,01-01-2025,James Khan,james.khan@yahoo.com,Sports and Outdoors,Cycling Helmet,7,43.90,88.4,13.38,SOUTH,paypal,pending
+100765,17-05-2025,Kamran Raza,kamran.raza@hotmail.com, Electronics,Webcam HD,2,$48.61,5.0,6.72,EAST,Credit Card,Pending
+100574,27/01/2025,Faisal Butt,faisal.butt@hotmail.com,Books,Python Crash Course,-1,$30.90,0.0,11.14,south,paypal,pending
+101299,"April 19, 2025",James Smith,james.smith@hotmail.com,Clothing,Running Shoes,-3,$75.74,20.0,,West ,credit card,Pending
+101222,2025/03/06,Ayesha Sheikh,ayesha.sheikh@gmail.com,home & kitchen,Cookware Set,2 units,119.71,5.0,4.7,W,CREDIT CARD,cancelled
+101123,27/05/2025,  Sarah Thomas  ,sarah.thomas@hotmail.com,Books,The Pragmatic Programmer,-4,32.3,5.0,6.25,,Credit Card,pending
+101063,10/06/2025,bilal thomas,bilal.thomas@hotmail.com,Electronics ,USB-C Hub,2,32.61,0.0,5.53,north,paypal,COMPLETED
+101128,2025-04-09,Ali Moore,ali.moore@outlook.com, Electronics,Webcam HD,2,,5.0,3.35,WEST,debit card,pending
+100008,12/04/2025,ANNA SHAH,anna.shah@yahoo.com,Clothing,Denim Jacket,2,$58.71,0.0,9.6,South,PayPal,cancelled
+100856,27-04-2025,  Usman Ahmed  ,usman.ahmed@hotmail.com,Home & Kitchen,Air Fryer,8,$91.97,0.0,9.41,N,debit card,returned
+101236,11/06/2025,Michael Iqbal,michael.iqbal@hotmail.com,Beauty ,Shampoo 500ml,3,12.35,5.0,7.17,west,,returned
+100738,2025/05/15,Usman Iqbal,usman.iqbal@hotmail.com,ELECTRONICS,Webcam HD,4,$47.81,20.0,,East,cash on delivery,Returned
+100936,"June 03, 2025",  Mariam Malik  ,mariam.malik@outlook.com, Clothing,Formal Shirt,8,$35.18,0.0,2.25,east,Debit Card,Pending
+101087,2025-06-14,Robert Davis,robert.davis@gmail.com,Home&Kitchen,Cookware Set,3,$132.14,0.0,6.53, North,debit card,Completed
+100074,09/02/2025,Imran Wilson,imran.wilson@hotmail.com,sports & outdoors,Water Bottle,6,$12.54,0.0,-8.73,EAST,debit card,cancelled
+100788,19-01-2025,Fatima Malik,fatima.malik@hotmail.com,CLOTHING,Cotton T-Shirt,8,$15.35,0.0,12.44,,Credit Card,Returned
+100522,2025/01/17,amna ahmed,amna.ahmed@yahoo.com,home & kitchen,Coffee Maker,5,$66.70,0.0,4.51, North,,pending
+100335,2025/04/06,MARIA BROWN,maria.brown@yahoo.com,Sports and Outdoors,Yoga Mat,7,26.02,0.0,-5.81,EAST,Credit Card,COMPLETED
+100569,26/02/2025,john sheikh,john.sheikh@yahoo.com,books,Sapiens,2,17.67,0.0,13.71,east,Cash on Delivery,Pending
+100590,"June 28, 2025",HINA IQBAL,hina.iqbal@gmail.com,home & kitchen,Knife Set,,37.56,0.0,5.25,NORTH,Credit Card,Cancelled
+100088,2025/02/12,Nida Raza,nida.raza@yahoo.com, Electronics,Wireless Earbuds,8,40.45,0.0,9.41,NORTH,Debit Card,returned
+101354,06-02-2025,Zain Ali,zain.ali@hotmail.com,Clothing,Running Shoes,6,$77.38,0.0,-8.54,NORTH,CREDIT CARD,Returned
+100217,2025/05/12,Amna Shah,amna.shahyahoo.com,Home & Kitchen,Air Fryer,-3,$99.23,0.0,6.99,East,credit card,Returned
+101275,23-04-2025,David Ahmed,david.ahmed@yahoo.com,Sports and Outdoors,Cycling Helmet,3,44.52,0.0,7.23,W,Credit Card,returned
+100173,21/04/2025,Amna Iqbal,amna.iqbal@outlook.com,home & kitchen,Cookware Set,4,119.84,0.0,8.3,east,cash on delivery,COMPLETED
+101285,2025/05/11,Mariam Moore,,sports & outdoors,Dumbbell Set,,$88.42,,-2.38,West,Debit Card,Cancelled
+101135,2025/06/11,amna johnson,amna.johnson@outlook.com,clothing,Cotton T-Shirt,5,,0.0,3.36,North,Debit Card,completed
+100319,17/04/2025,anna ali,anna.ali@hotmail.com,ELECTRONICS,Bluetooth Speaker,6,$49.05,0.0,,east,credit card,pending
+101253,"February 13, 2025",Ayesha Davis,ayesha.davis@yahoo.com,ELECTRONICS,USB-C Hub,3,32.76,5.0,2.64,E,Debit Card,Pending
+100739,"February 16, 2025",ZAIN WILSON,zain.wilson@yahoo.com,beauty,Perfume 50ml,5,59.88,0.0,8.04,SOUTH,credit card,pending
+100266,2025-04-24,James Ahmed,james.ahmed@yahoo.com, Electronics,Webcam HD,6,$46.09,0.0,4.75,W,CREDIT CARD,Completed
+100006,2025-01-26,Amna Miller,amna.miller@gmail.com, Books ,Atomic Habits,7,$17.74,0.0,7.45,East,Cash on Delivery,pending
+100138,2025/05/25,JOHN TAYLOR,john.taylor@outlook.com,Home & Kitchen,Blender,8,52.06,0.0,4.11,WEST,paypal,COMPLETED
+100163,28-01-2025,Emily Taylor,emily.taylor@hotmail.com,Beauty ,Shampoo 500ml,2,$12.04,15.0,7.83,SOUTH,Credit Card,Cancelled
+101183,2025/03/09,Anna Wilson,anna.wilson@hotmail.com,Home and Kitchen,Knife Set,1,38.51,0.0,11.1,EAST,paypal,returned
+100594,19/04/2025,HASSAN SHAH,hassan.shah@outlook.com,Sports,Hiking Backpack,7,65.28,0.0,4.64,E,cash on delivery,Completed
+101269,2025/04/01,Hassan Brown,hassan.brown@yahoo.com, Clothing,Wool Sweater,,39.08,0.0,8.48,East,PayPal,Completed
+101049,2025-06-08,Hassan Moore,hassan.moore@yahoo.com, Electronics,Smart Watch,4,149.14,5.0,8.72,W,Credit Card,COMPLETED
+100010,"February 10, 2025",michael johnson,michael.johnson@outlook.com, Clothing,Denim Jacket,8,58.94,10.0,0.74, North,paypal,completed
+100523,2025/06/18,Zainab Miller,,clothing,Cotton T-Shirt,8,15.11,0.0,3.24,S,credit card,cancelled
+100786,11-03-2025,maria butt,maria.butt@hotmail.com,beauty,Perfume 50ml,3,55.88,0.0,12.71,East,Cash on Delivery,pending
+100800,2025-04-29,Sana Raza,sana.raza@yahoo.com,home & kitchen,Air Fryer,1,95.23,15.0,7.75, North,PayPal,Cancelled
+100743,2025-05-12,Fatima Miller,fatima.miller@outlook.com,Sports and Outdoors,Water Bottle,2,12.93,0.0,,west,Credit Card,completed
+100708,2025-05-25,  Maria Iqbal  ,maria.iqbal@gmail.com,BEAUTY,Shampoo 500ml,3,12.32,0.0,5.57,south,Debit Card,Returned
+100019,2025/03/30,David Shah,david.shah@gmail.com,Home&Kitchen,Knife Set,2,$39.44,0.0,5.4,west,credit card,Completed
+100691,2025-02-24,Sara Malik,sara.malik@outlook.com,clothing,Formal Shirt,2,34.65,0.0,3.78,SOUTH,CREDIT CARD,Pending
+100704,05-02-2025,Faisal Iqbal,faisal.iqbal@gmail.com,Electronics,Wireless Earbuds,7,$38.39,-5.0,9.17,North,CREDIT CARD,Cancelled
+100618,2025-06-20,sara miller,sara.miller@hotmail.com,home & kitchen,Cookware Set,6,$134.29,0.0,8.69,west,,Cancelled
+100716,12-06-2025,David Taylor,david.taylor@gmail.com,Home and Kitchen,Coffee Maker,2 units,67.47,0.0,,west,credit card,cancelled
+101252,09-04-2025,rabia butt,rabia.butt@gmail.com,electronics,Laptop Stand,,$24.37,,, North,debit card,Completed
+100137,2025/02/26,Ali Taylor,ali.taylorgmail.com,Beauty ,Sunscreen SPF50,6,16.41,0.0,7.65,West,CREDIT CARD,COMPLETED
+100557,2025/05/07,MICHAEL MILLER,michael.miller@yahoo.com,Books,Python Crash Course,1,28.94,0.0,3.21,W,credit card,Pending
+101177,09-05-2025,Ahmed Moore,ahmed.moore@yahoo.com,ELECTRONICS,Wireless Earbuds,8,$42.60,0.0,9.41,SOUTH,Credit Card,completed
+100841,30/05/2025,bilal butt,bilal.butt@hotmail.com,Electronics ,USB-C Hub,1,$34.61,10.0,7.36,,cash on delivery,Returned
+101069,"March 20, 2025",Zain Smith,zain.smith@hotmail.com,sports & outdoors,Water Bottle,6,$13.20,0.0,,east,Credit Card,Cancelled
+101098,"January 27, 2025",Maria Brown,maria.brown@hotmail.com,beauty,Sunscreen SPF50,7,16.49,0.0,7.82,west,Debit Card,Cancelled
+100368,22/01/2025,Laura Malik,laura.malik@outlook.com,ELECTRONICS,USB-C Hub,1,36.69,0.0,11.39,West ,paypal,cancelled
+101353,"April 22, 2025",Bilal Khan,bilal.khan@yahoo.com,Books,Atomic Habits,7,$16.91,15.0,11.19,west,credit card,cancelled
+100715,2025-03-12,ZAINAB WILSON,zainab.wilson@hotmail.com,Electronics,USB-C Hub,,34.41,0.0,9.18,North,credit card,completed
+100782,2025/02/09,Robert Raza,robert.raza@yahoo.com,Sports & Outdoors,Camping Tent,4,$154.62,0.0,4.88,east,PayPal,completed
+100317,07/05/2025,Sarah Brown,sarah.brown@yahoo.com,clothing,Wool Sweater,2,47.69,0.0,6.93,south,Cash on Delivery,completed
+100348,2025-06-05,ZAIN RAZA,zain.raza@gmail.com, Clothing,Running Shoes,4,90.95,0.0,5.57,East,debit card,cancelled
+101064,2025/01/17,Anna Brown,anna.brown@gmail.com,clothing,Formal Shirt,6,35.14,15.0,7.65,N,cash on delivery,COMPLETED
+100528,2025-04-17,Fatima Sheikh,fatima.sheikh@gmail.com, Clothing,Denim Jacket,4,$61.64,0.0,7.64,South,credit card,COMPLETED
+100526,19/05/2025,KAMRAN DAVIS,kamran.davis@hotmail.com,home & kitchen,Knife Set,,,0.0,1.36,north,Cash on Delivery,cancelled
+100087,25-05-2025,ALI WILSON,ali.wilson@hotmail.com,books,Deep Work,6,17.68,,7.2,W,CREDIT CARD,Pending
+100479,02-04-2025,Omar Johnson,omar.johnson@outlook.com,BOOKS,Sapiens,3,20.23,0.0,6.68,east,CREDIT CARD,Returned
+100338,2025-03-18,Ahmed Wilson,ahmed.wilson@yahoo.com,Books,Python Crash Course,2,$31.12,0.0,4.3,W,CREDIT CARD,COMPLETED
+100699,03/04/2025,Sarah Davis,sarah.davis@gmail.com,Beauty ,Makeup Kit,5,$41.63,5.0,10.35,North,CREDIT CARD,COMPLETED
+100148,2025/04/14,  David Brown  ,david.brown@yahoo.com,books,Deep Work,-3,$17.97,0.0,9.28, North,PayPal,Pending
+101164,27/04/2025,Laura Moore,laura.moore@yahoo.com,beauty,Sunscreen SPF50,3,$16.18,,,S,PayPal,Returned
+101327,2025-01-05,Emily Brown,emily.brown@hotmail.com,Beauty ,Face Serum,4,$22.58,0.0,5.58,WEST,debit card,Cancelled
+100028,2025/04/25,Zainab Miller,zainab.miller@yahoo.com,beauty,Makeup Kit,8,39.23,5.0,248.38,E,Cash on Delivery,COMPLETED
+100246,10-01-2025,Sarah Miller,sarah.miller@hotmail.com,sports & outdoors,Yoga Mat,3,$25.34,-20.0,4.58,S,cash on delivery,cancelled
+100365,"June 30, 2025",JAMES AHMED,james.ahmed@yahoo.com,Home&Kitchen,Knife Set,4,$39.44,0.0,8.03,east,PayPal,Pending
+100995,"April 03, 2025",Emily Brown,emily.brown@hotmail.com,Home & Kitchen,Air Fryer,5,89.59,0.0,7.41,south,PayPal,returned
+101084,2025-04-09,  Hina Anderson  ,hina.anderson@yahoo.com,Sports and Outdoors,Yoga Mat,1,26.2,0.0,9.03,North,cash on delivery,Completed
+100198,15-02-2025,David Davis,david.davis@outlook.com,Home & Kitchen,Knife Set,5,$41.42,5.0,4.47,North,PayPal,returned
+100720,2025-02-26,USMAN JOHNSON,usman.johnson@outlook.com,Electronic,4K Monitor,4,,0.0,10.03,south,cash on delivery,completed
+100851,2025/06/05,Ayesha Brown,ayesha.brown@outlook.com,beauty,Makeup Kit,1,$39.77,10.0,1.74,W,credit card,returned
+100404,2025/04/06,Omar Sheikh,,electronics,Smart Watch,2,167.10,0.0,10.66,East,PayPal,Completed
+100734,31/01/2025,Fatima Anderson,fatima.anderson@yahoo.com,home & kitchen,Blender,-1,$49.45,0.0,6.38,East,CREDIT CARD,Completed
+100483,2025-06-01,NIDA ALI,nida.ali@gmail.com,BOOKS,Sapiens,2 units,22.31,0.0,7.08,E,,COMPLETED
+100158,"March 14, 2025",Mariam Taylor,mariam.taylor@gmail.com,Beauty ,Makeup Kit,5,43.86,0.0,,E,CREDIT CARD,completed
+100315,31/01/2025,Nida Brown,nida.brownyahoo.com,beauty,Makeup Kit,7,$39.81,0.0,10.6,South,paypal,pending
+100256,26-04-2025,HINA WILSON,hina.wilson@gmail.com,Sports & Outdoors,Dumbbell Set,4,85.85,0.0,9.92,WEST,cash on delivery,Pending
+100007,2025/05/29,robert ahmed,,Books,Python Crash Course,7,28.97,20.0,7.54,W,PayPal,Completed
+100947,2025-04-13,Usman Brown,usman.brown@hotmail.com,Beauty,Sunscreen SPF50,2,16.17,20.0,8.23,north,Debit Card,COMPLETED
+100384,"May 04, 2025",Usman Thomas,usman.thomas@hotmail.com,Beauty ,Face Serum,7,$22.55,0.0,11.09,N,cash on delivery,cancelled
+100177,2025-01-24,David Anderson,david.anderson@yahoo.com,Books,Deep Work,3,$20.26,0.0,12.21,east,CREDIT CARD,completed
+100718,2025-05-09,David Malik,david.malik@yahoo.com,home & kitchen,Blender,8,49.83,-10.0,5.46,West,Debit Card,Pending
+100314,2025/01/12,Bilal Raza,bilal.raza@outlook.com, Electronics,Smart Watch,1,$152.31,0.0,,West,CREDIT CARD,cancelled
+100357,19/04/2025,john khan,john.khan@yahoo.com,home & kitchen,Vacuum Cleaner,-2,$159.51,0.0,9.37,SOUTH,Cash on Delivery,returned
+100298,28-06-2025,Ahmed Moore,ahmed.moore@yahoo.com,beauty,Face Serum,7,21.73,0.0,11.73,WEST,CREDIT CARD,Pending
+100455,13/04/2025,Faisal Taylor,faisal.taylor@outlook.com,beauty,Makeup Kit,3,36.52,0.0,6.86,S,cash on delivery,Cancelled
+100543,2025-05-22,imran taylor,imran.taylor@hotmail.com,beauty,Face Serum,unknown,$24.82,0.0,11.23,West ,PayPal,cancelled
+100662,22/01/2025,Zain Davis,zain.davis@outlook.com,BOOKS,Python Crash Course,3,$29.15,0.0,7.24,E,Debit Card,pending
+101008,"June 29, 2025",Maria Johnson,maria.johnson@gmail.com,electronics,Wireless Earbuds,,37.54,0.0,9.21,West ,PayPal,Returned
+100781,02-02-2025,MICHAEL SMITH,michael.smith@hotmail.com,books,Deep Work,2 units,$455.38,-5.0,10.44,north,debit card,COMPLETED
+100527,20/02/2025,zainab anderson,zainab.anderson@outlook.com,Beauty,Makeup Kit,3 units,$40.68,0.0,7.54,west,Credit Card,COMPLETED
+101203,"March 26, 2025",Maria Johnson,maria.johnson@hotmail.com,BEAUTY,Perfume 50ml,7,56.76,,6.26,E,debit card,cancelled
+100159,05-03-2025,Fatima Miller,,Sports & Outdoors,Dumbbell Set,8,0.01,5.0,7.15,north,Credit Card,completed
+101134,"March 08, 2025",Emily Miller,emily.miller@outlook.com,sports & outdoors,Yoga Mat,6,23.43,5.0,13.01,West ,Cash on Delivery,returned
+100360,2025/01/23,David Johnson,david.johnson@yahoo.com,Home&Kitchen,Coffee Maker,8,$66.80,0.0,11.96,West ,cash on delivery,Cancelled
+101266,"June 28, 2025",Sarah Smith,sarah.smith@hotmail.com,Beauty,Shampoo 500ml,5,11.0,10.0,-10.52,north,Credit Card,completed
+100202,2025/01/31,Ali Shah,ali.shah@gmail.com,Electronics ,Bluetooth Speaker,3,$0.01,0.0,2.68,South,debit card,Returned
+100840,2025/01/07,Rabia Sheikh,rabia.sheikh@gmail.com,Books,The Pragmatic Programmer,2,37.5,0.0,2.87,W,credit card,COMPLETED
+100717,07-06-2025,MICHAEL MALIK,michael.malik@hotmail.com,CLOTHING,Denim Jacket,3,$62.80,0.0,8.38,N,cash on delivery,completed
+100112,30-03-2025,Imran Miller,,CLOTHING,Winter Coat,5,123.81,5.0,4.96,west,paypal,pending
+101070,"February 28, 2025",Anna Brown,anna.brown@outlook.com,Home & Kitchen,Blender,N/A,50.09,0.0,10.11,east,Credit Card,returned
+100307,"January 29, 2025",Zainab Moore,,Beauty,Makeup Kit,6,$40.78,0.0,,West ,CREDIT CARD,Returned
+101114,"April 11, 2025",  Hassan Malik  ,hassan.malik@gmail.com,Beauty,Shampoo 500ml,8,11.11,5.0,8.77,East,Debit Card,completed
+100422,2025/01/23,Ali Anderson,,Beauty ,Makeup Kit,6,40.18,0.0,6.66,E,CREDIT CARD,pending
+100920,03/02/2025,James Thomas,james.thomas@yahoo.com,sports & outdoors,Dumbbell Set,7,92.86,0.0,216.22,S,Debit Card,Pending
+101067,18-02-2025,Bilal Taylor,bilal.taylor@yahoo.com,Home&Kitchen,Coffee Maker,1,$74.06,0.0,11.31,SOUTH,Credit Card,Completed
+100872,28/04/2025,Rabia Smith,,Home&Kitchen,Vacuum Cleaner,7,$159.93,0.0,5.69,NORTH,Credit Card,Completed
+100459,2025-04-05,AYESHA AHMED,ayesha.ahmed@hotmail.com, Books ,The Pragmatic Programmer,-4,$34.95,5.0,9.67,NORTH,Debit Card,completed
+100903,"February 22, 2025",  Ayesha Smith  ,ayesha.smith@hotmail.com, Clothing,Denim Jacket,8,61.19,20.0,8.91,,paypal,COMPLETED
+100023,2025-02-27,Imran Smith,imran.smith@hotmail.com,beauty,Shampoo 500ml,4,,5.0,12.26,East,CREDIT CARD,completed
+100756,2025/03/25,ZAIN BROWN,zain.brown@yahoo.com,Electronic,Smart Watch,2 units,153.57,0.0,9.83,S,paypal,Cancelled
+101316,16-05-2025,Sarah Brown,sarah.brown@outlook.com,Sports & Outdoors,Hiking Backpack,3,69.85,15.0,,EAST,PayPal,completed
+100449,08/04/2025,James Davis,james.davis@yahoo.com,BEAUTY,Face Serum,1,$21.80,15.0,8.98,North,Credit Card,Completed
+100679,13/02/2025,maria wilson,maria.wilson@yahoo.com,HOME & KITCHEN,Air Fryer,1 units,"$1,419.75",0.0,10.21,W,cash on delivery,Returned
+100692,2025/02/14,Faisal Malik,faisal.malik@outlook.com,Sports and Outdoors,Dumbbell Set,5,$81.09,0.0,8.17, North,Credit Card,COMPLETED
+101296,16/02/2025,Amna Thomas,amna.thomas@gmail.com,Beauty,Face Serum,6,$22.16,0.0,3.76,S,cash on delivery,Pending
+100080,"March 10, 2025",AYESHA KHAN,ayesha.khan@outlook.com,ELECTRONICS,Laptop Stand,7,$24.79,0.0,6.41,N,CREDIT CARD,COMPLETED
+101256,"April 09, 2025",Sara Sheikh,sara.sheikh@gmail.com,beauty,Makeup Kit,1,41.84,10.0,10.78,W,CREDIT CARD,completed
+100286,30-03-2025,Zain Wilson,zain.wilson@yahoo.com,electronics,USB-C Hub,-4,34.6,0.0,10.95,south,credit card,Completed
+100215,"April 24, 2025",  Usman Wilson  ,usman.wilson@gmail.com,clothing,Denim Jacket,7,59.42,0.0,9.74,E,Cash on Delivery,returned
+100882,26/01/2025,Zainab Davis,zainab.davis@gmail.com,Home and Kitchen,Coffee Maker,3,$75.05,10.0,12.92,South,CREDIT CARD,Completed
+100030,"January 12, 2025",Omar Wilson,,CLOTHING,Formal Shirt,7,36.15,0.0,6.73,NORTH,paypal,Completed
+100242,2025/03/10,Hina Brown,hina.brown@yahoo.com, Books ,Python Crash Course,1 units,29.67,0.0,3.31,WEST,debit card,Pending
+100907,22-06-2025,Nida Ali,nida.ali@yahoo.com,HOME & KITCHEN,Cookware Set,2,136.75,0.0,8.53,West,debit card,COMPLETED
+100641,07/02/2025,Robert Taylor,robert.taylor@yahoo.com,Electronics,Laptop Stand,4,24.59,5.0,4.72,W,paypal,COMPLETED
+100696,27/06/2025,Bilal Hussain,bilal.hussain@hotmail.com,HOME & KITCHEN,Knife Set,3,$42.03,15.0,7.71,West ,Credit Card,cancelled
+100209,2025/04/30,Robert Smith,robert.smith@outlook.com,sports & outdoors,Camping Tent,7,,0.0,6.68,South,debit card,Returned
+101018,2025/02/19,Laura Smith,laura.smith@hotmail.com,CLOTHING,Cotton T-Shirt,6,15.74,0.0,5.29,E,Cash on Delivery,returned
+100435,2025-01-15,amna anderson,amna.anderson@hotmail.com,Electronics ,4K Monitor,8,259.77,10.0,10.26,South,debit card,returned
+101002,2025-06-22,hina miller,hina.miller@outlook.com,sports & outdoors,Dumbbell Set,2,93.08,,3.36,east,Cash on Delivery,cancelled
+101346,2025-04-20,SARA MOORE,sara.mooregmail.com, Clothing,Running Shoes,3,80.36,0.0,7.91,East,,completed
+101054,"March 17, 2025",Omar Moore,omar.moore@hotmail.com,beauty,Shampoo 500ml,3 units,,0.0,6.07,North,cash on delivery,Pending
+101311,"May 24, 2025",Hina Sheikh,hina.sheikh@hotmail.com,Home & Kitchen,Air Fryer,-1,$90.93,0.0,9.41,south,paypal,pending
+100688,"March 14, 2025",ANNA TAYLOR,anna.taylor@hotmail.com,Beauty ,Face Serum,N/A,21.33,0.0,8.82,east,credit card,Completed
+100551,04/06/2025,usman miller,usman.miller@outlook.com,Books,The Pragmatic Programmer,4,$37.22,5.0,6.84,S,credit card,completed
+100544,"April 26, 2025",amna ahmed,amna.ahmed@gmail.com,sports & outdoors,Camping Tent,3,$140.84,0.0,8.44,East,CREDIT CARD,Completed
+100982,25/03/2025,Omar Ali,omar.ali@gmail.com,Books,The Pragmatic Programmer,1,37.2,5.0,7.12,S,debit card,completed
+100985,02/02/2025,Mariam Malik,mariam.malik@hotmail.com,Home and Kitchen,Cookware Set,7,$130.26,15.0,, North,debit card,Completed
+101058,2025-04-26,Zain Khan,zain.khan@outlook.com,ELECTRONICS,Laptop Stand,3,$25.96,20.0,10.59,east,PayPal,Pending
+100401,2025/06/25,Omar Miller,omar.miller@yahoo.com,Beauty ,Sunscreen SPF50,1,$15.43,0.0,9.64,west,debit card,returned
+100403,2025-01-11,sarah brown,sarah.brown@gmail.com,Sports & Outdoors,Cycling Helmet,,43.47,0.0,5.36,S,cash on delivery,Pending
+101097,"March 28, 2025",  James Butt  ,james.butt@yahoo.com,clothing,Cotton T-Shirt,-4,14.62,10.0,,East,PayPal,cancelled
+100362,"February 21, 2025",Anna Shah,anna.shah@yahoo.com,BOOKS,Python Crash Course,2,$30.36,0.0,9.3,East,debit card,cancelled
+100271,2025-03-05,Ayesha Butt,ayesha.butt@yahoo.com,CLOTHING,Winter Coat,2,$113.49,0.0,9.14,WEST,CREDIT CARD,Returned
+100466,"February 10, 2025",  Bilal Smith  ,bilal.smith@yahoo.com,Sports and Outdoors,Cycling Helmet,,49.18,0.0,7.45,north,Cash on Delivery,returned
+101282,14/02/2025,AHMED RAZA,ahmed.raza@outlook.com, Books ,The Pragmatic Programmer,3,$35.14,0.0,7.72,West ,cash on delivery,pending
+101162,11-01-2025,Ali Sheikh,ali.sheikh@yahoo.com,clothing,Wool Sweater,7,$45.59,5.0,7.29,W,CREDIT CARD,completed
+100277,29/01/2025,Michael Thomas,michael.thomas@gmail.com, Clothing,Winter Coat,,$113.15,0.0,-12.31,west,debit card,COMPLETED
+101280,"February 17, 2025",David Shah,david.shah@yahoo.com,home & kitchen,Knife Set,8,$39.35,0.0,3.85,SOUTH,Credit Card,returned
+100006,2025-03-09,Kamran Ahmed,kamran.ahmed@yahoo.com, Books ,The Pragmatic Programmer,,33.65,,9.66,NORTH,debit card,returned
+100888,13/02/2025,DAVID THOMAS,david.thomas@hotmail.com,sports & outdoors,Cycling Helmet,3,$43.42,0.0,3.71,west,cash on delivery,Pending
+100531,"January 22, 2025",Imran Butt,imran.butt@gmail.com,home & kitchen,Air Fryer,2,83.65,,5.81,EAST,,Completed
+101293,"March 05, 2025",  Sana Miller  ,sana.miller@hotmail.com,ELECTRONICS,Bluetooth Speaker,6,$58.52,0.0,8.97,East,cash on delivery,completed
+100012,2025-01-08,ROBERT AHMED,robert.ahmed@hotmail.com,Electronic,Laptop Stand,3 units,,0.0,6.07,South,paypal,Completed
+100442,2025/03/12,Faisal Hussain,faisal.hussain@hotmail.com, Books ,Deep Work,4,18.97,0.0,8.69,west,Debit Card,completed
+100299,2025-01-09,  Emily Butt  ,emily.butt@yahoo.com,home & kitchen,Blender,2,48.91,0.0,2.89,N,debit card,Cancelled
+100868,16/02/2025,ALI MALIK,ali.malik@outlook.com,Sports,Hiking Backpack,-2,$74.12,0.0,5.02,N,Debit Card,COMPLETED
+100375,22-06-2025,Ahmed Johnson,ahmed.johnson@hotmail.com,Clothing,Wool Sweater,1,$46.00,0.0,5.75,W,Credit Card,Returned
+101225,"April 07, 2025",sara malik,sara.malik@gmail.com,Home & Kitchen,Blender,3,$46.59,0.0,-4.86,S,credit card,Pending
+101077,19/06/2025,maria thomas,maria.thomas@outlook.com,Home&Kitchen,Cookware Set,6,$139.80,0.0,10.61,E,credit card,Completed
+100861,2025-01-30,Zainab Smith,zainab.smith@yahoo.com,Home&Kitchen,Air Fryer,4,89.6,,9.38,South,Cash on Delivery,pending
+100912,28/05/2025,MICHAEL THOMAS,michael.thomas@yahoo.com, Clothing,Winter Coat,3,117.22,0.0,6.79,EAST,,COMPLETED
+100472,23-02-2025,ayesha moore,ayesha.moore@gmail.com,Clothing,Formal Shirt,N/A,$37.20,0.0,5.44,E,cash on delivery,completed
+101171,25/06/2025,Anna Ahmed,anna.ahmedhotmail.com,Beauty ,Perfume 50ml,2,$55.97,0.0,9.34,North,Cash on Delivery,COMPLETED
+100563,23-05-2025,Zain Thomas,zain.thomas@hotmail.com,Home & Kitchen,Cookware Set,8,,0.0,10.62,South,CREDIT CARD,Returned
+101303,2025-02-10,  Bilal Johnson  ,bilal.johnson@hotmail.com,Electronic,USB-C Hub,1,$39.23,0.0,,SOUTH,Cash on Delivery,pending
+100750,24-06-2025,Zain Khan,zain.khan@outlook.com,Home and Kitchen,Knife Set,8,36.83,0.0,7.84,east,cash on delivery,returned
+100388,2025/03/31,Hina Moore,hina.moore@outlook.com,BOOKS,Deep Work,3,$17.64,0.0,6.91,South,CREDIT CARD,completed
+100022,"February 02, 2025",Sarah Taylor,sarah.taylor@yahoo.com,BOOKS,The Pragmatic Programmer,2,$36.38,0.0,6.61,West ,Credit Card,pending
+101217,"April 25, 2025",  James Moore  ,james.moore@hotmail.com,Beauty ,Shampoo 500ml,2,$12.85,5.0,10.56,West ,PayPal,Cancelled
+100124,2025-02-03,Robert Miller,robert.miller@gmail.com,Electronics,Webcam HD,6,$44.10,5.0,10.53,E,CREDIT CARD,completed
+100423,17-05-2025,JOHN SMITH,john.smith@outlook.com,books,Python Crash Course,3,29.92,-5.0,5.49,W,PayPal,Returned
+101290,2025-05-07,Usman Iqbal,usman.iqbal@outlook.com,HOME & KITCHEN,Vacuum Cleaner,1,160.13,,6.53,east,paypal,pending
+100470,10-06-2025,imran moore,imran.moore@hotmail.com,books,Atomic Habits,4,17.54,0.0,9.54,north,CREDIT CARD,Pending
+100219,2025-03-25,  Bilal Malik  ,bilal.malik@hotmail.com,Beauty ,Sunscreen SPF50,1,,0.0,5.17,W,credit card,Completed
+100954,23/04/2025,Robert Miller,robert.miller@outlook.com,beauty,Makeup Kit,8,38.21,0.0,9.9,S,credit card,Completed
+100559,26/02/2025,anna johnson,anna.johnson@hotmail.com, Clothing,Formal Shirt,6,32.16,0.0,9.09,WEST,paypal,returned
+100142,2025-03-04,faisal shah,faisal.shah@outlook.com,HOME & KITCHEN,Coffee Maker,3,74.73,0.0,5.49,South,debit card,Completed
+100050,"May 15, 2025",ZAINAB SHEIKH,zainab.sheikh@hotmail.com,Electronics,4K Monitor,5,$287.69,0.0,-2.98,West,CREDIT CARD,completed
+100100,2025/02/19,Zain Moore,zain.moore@hotmail.com,Electronics,4K Monitor,8,297.29,10.0,9.82,EAST,Credit Card,completed
+100983,28/06/2025,Hina Hussain,hina.hussain@hotmail.com,BOOKS,Deep Work,,$18.86,5.0,12.8,N,cash on delivery,Completed
+100623,"April 28, 2025",Omar Anderson,omar.anderson@hotmail.com,home & kitchen,Vacuum Cleaner,8,162.31,0.0,7.37,S,Credit Card,COMPLETED
+101048,"March 25, 2025",Laura Ali,laura.ali@outlook.com,sports & outdoors,Camping Tent,3,,,10.51,SOUTH,PayPal,COMPLETED
+100081,2025/03/24,Sarah Wilson,sarah.wilson@gmail.com,Home & Kitchen,Blender,4,$47.80,5.0,2.73,NORTH,CREDIT CARD,cancelled
+100703,01/01/2025,sara moore,sara.moore@hotmail.com,beauty,Shampoo 500ml,8,$11.68,0.0,4.86,West,Debit Card,Returned
+100482,2025-05-18,EMILY BROWN,emily.brown@outlook.com,electronics,Bluetooth Speaker,2 units,64.31,0.0,8.87,S,Cash on Delivery,returned
+100321,05/02/2025,  David Butt  ,david.butt@hotmail.com,Sports,Camping Tent,3,$160.27,5.0,14.73,NORTH,debit card,Returned
+101199,2025-04-24,sarah taylor,sarah.taylor@hotmail.com,Clothing,Running Shoes,7,$72.89,0.0,10.9,West,PayPal,Cancelled
+101023,2025/04/13,nida taylor,nida.taylor@outlook.com,BEAUTY,Perfume 50ml,8,55.70,0.0,14.23,West,paypal,COMPLETED
+100009,"January 21, 2025",Bilal Shah,bilal.shah@hotmail.com,CLOTHING,Denim Jacket,1,$60.50,0.0,13.55,N,Cash on Delivery,cancelled
+100066,"May 12, 2025",Robert Butt,robert.butt@yahoo.com,Clothing,Denim Jacket,8,$58.81,,7.51,E,debit card,returned
+101229,2025-03-23,Ahmed Wilson,ahmed.wilson@outlook.com,Sports,Dumbbell Set,5,,5.0,15.88,North,,Returned
+101271,2025-02-06,John Sheikh,john.sheikh@hotmail.com,Books,Python Crash Course,4,$29.53,5.0,7.26,South,cash on delivery,Cancelled
+100019,19/04/2025,ROBERT TAYLOR,robert.taylor@yahoo.com,Home & Kitchen,Air Fryer,3,86.54,,7.79,N,debit card,completed
+100031,13-06-2025,Ahmed Thomas,ahmed.thomas@yahoo.com,CLOTHING,Wool Sweater,3,$44.81,0.0,3.66,SOUTH,Debit Card,cancelled
+100417,"February 24, 2025",Ayesha Shah,ayesha.shah@hotmail.com,BEAUTY,Perfume 50ml,8,$55.18,15.0,2.58,S,credit card,Cancelled
+100632,"January 08, 2025",Faisal Shah,faisal.shah@outlook.com, Books ,The Pragmatic Programmer,5,33.62,0.0,1.53,south,Cash on Delivery,returned
+101325,10-04-2025,Sana Hussain,sana.hussain@hotmail.com,beauty,Sunscreen SPF50,1,$16.24,0.0,10.23,WEST,PayPal,Returned
+100064,"April 16, 2025",Maria Miller,maria.miller@yahoo.com,Sports and Outdoors,Camping Tent,6,$148.64,0.0,12.38,EAST,Credit Card,completed
+100139,2025/01/05,Bilal Smith,bilal.smith@outlook.com, Clothing,Running Shoes,6,2898.46,0.0,10.25,west,credit card,completed
+101157,2025-03-06,KAMRAN JOHNSON,kamran.johnson@yahoo.com,Electronic,Wireless Earbuds,unknown,42.18,5.0,4.07,North,Debit Card,returned
+101151,"April 21, 2025",Hassan Wilson,hassan.wilson@yahoo.com,clothing,Cotton T-Shirt,8,$16.09,0.0,8.71,SOUTH,Cash on Delivery,pending
+100077,11/01/2025,Emily Ali,emily.ali@gmail.com,CLOTHING,Cotton T-Shirt,5,$14.35,-15.0,3.61,W,credit card,pending
+100491,26-05-2025,NIDA SMITH,nida.smith@outlook.com,clothing,Winter Coat,8,120.65,78.8,1.22,W,paypal,pending
+101005,"April 15, 2025",hassan johnson,hassan.johnson@gmail.com,Sports and Outdoors,Water Bottle,1,,5.0,6.74,West ,credit card,Pending
+100577,2025-01-16,AMNA ANDERSON,amna.anderson@yahoo.com, Books ,The Pragmatic Programmer,7,34.06,5.0,-8.11,NORTH,Credit Card,Cancelled
+100532,2025/05/06,SARA THOMAS,sara.thomas@outlook.com,Beauty,Face Serum,6,23.42,0.0,8.96, North,Cash on Delivery,cancelled
+100065,07/05/2025,Sana Raza,sana.raza@outlook.com,Electronics ,Webcam HD,8,$43.44,0.0,9.93,north,Credit Card,returned
+101211,2025-04-12,Ali Miller,ali.miller@yahoo.com, Books ,Python Crash Course,3 units,29.01,0.0,7.49,east,paypal,Pending
+100837,2025-05-02,Hina Malik,hina.malik@yahoo.com,Clothing,Running Shoes,8,$83.61,0.0,6.2,N,debit card,Cancelled
+101206,2025/04/19,Amna Thomas,amna.thomas@hotmail.com,CLOTHING,Running Shoes,N/A,$77.18,0.0,7.2,S,Debit Card,returned
+100296,08-05-2025,Sara Anderson,sara.anderson@hotmail.com,Beauty,Sunscreen SPF50,,$15.91,10.0,8.68,east,paypal,Cancelled
+100591,09/06/2025,DAVID MOORE,david.moore@gmail.com, Books ,Sapiens,2,22.8,0.0,7.07,N,PayPal,Returned
+100419,2025-01-28,FAISAL HUSSAIN,faisal.hussain@yahoo.com, Books ,Sapiens,3,530.64,5.0,5.82,EAST,Cash on Delivery,cancelled
+100709,05/01/2025,Zainab Thomas,zainab.thomas@gmail.com,Books,Python Crash Course,6,28.87,0.0,7.08,,cash on delivery,cancelled
+100438,09-06-2025,Sarah Brown,sarah.brown@yahoo.com,ELECTRONICS,Laptop Stand,6,$23.52,5.0,5.97, North,debit card,Returned
+100261,11/03/2025,Sara Shah,sara.shah@outlook.com,Sports,Water Bottle,5,13.87,10.0,12.05, North,paypal,Pending
+100724,"May 13, 2025",Mariam Ali,mariam.ali@outlook.com,Beauty,Shampoo 500ml,8,11.55,0.0,5.45,south,CREDIT CARD,pending
+101330,22-01-2025,hina ali,hina.ali@outlook.com,Home & Kitchen,Blender,1,47.41,0.0,5.93,west,Debit Card,returned
+100281,"April 10, 2025",Mariam Malik,mariam.malik@gmail.com,Home&Kitchen,Blender,3,53.89,0.0,6.86,north,cash on delivery,completed
+100626,2025-03-06,Omar Sheikh,omar.sheikh@yahoo.com, Electronics,Laptop Stand,5,23.50,15.0,2.51,West,CREDIT CARD,Completed
+100939,15-01-2025,Ayesha Johnson,ayesha.johnson@hotmail.com,Sports and Outdoors,Hiking Backpack,3,$68.12,0.0,6.39,south,Credit Card,Pending
+101331,"February 19, 2025",Nida Wilson,nida.wilson@hotmail.com,CLOTHING,Formal Shirt,-3,36.04,0.0,11.03,south,credit card,Returned
+100034,"March 06, 2025",David Shah,david.shah@hotmail.com,Sports and Outdoors,Dumbbell Set,4,$86.63,10.0,6.47,NORTH,cash on delivery,COMPLETED
+100188,27/06/2025,John Ali,john.ali@hotmail.com,CLOTHING,Formal Shirt,3 units,34.45,0.0,4.9,south,Debit Card,pending
+101345,2025/06/10,Mariam Malik,mariam.malik@hotmail.com,Sports and Outdoors,Cycling Helmet,6,44.95,0.0,7.48,South,credit card,Completed
+100251,18-04-2025,Michael Moore,michael.moore@outlook.com,Sports and Outdoors,Cycling Helmet,1,47.66,0.0,2.42,S,cash on delivery,cancelled
+100583,2025/05/30,Ayesha Davis,ayesha.davis@yahoo.com,sports & outdoors,Hiking Backpack,5,$67.28,0.0,8.94,E,cash on delivery,cancelled
+100967,19-03-2025,Hina Shah,hina.shah@outlook.com,HOME & KITCHEN,Blender,5,52.44,0.0,,W,debit card,COMPLETED
+101300,2025-01-18,Ayesha Thomas,ayesha.thomas@hotmail.com,Home and Kitchen,Cookware Set,-3,134.3,0.0,7.31,E,PayPal,Pending
+100892,"May 04, 2025",Sana Shah,sana.shah@outlook.com,BOOKS,The Pragmatic Programmer,4,$35.84,0.0,9.1,EAST,credit card,COMPLETED
+100514,"January 24, 2025",Anna Khan,anna.khan@outlook.com,Clothing,Wool Sweater,2,$44.40,0.0,8.71,NORTH,credit card,Returned
+101132,31-05-2025,Zainab Ali,zainab.ali@hotmail.com,Sports and Outdoors,Hiking Backpack,6,63.49,88.0,10.47,SOUTH,debit card,cancelled
+100877,13/03/2025,Ahmed Davis,ahmed.davis@outlook.com,Electronic,Smart Watch,6,$142.59,0.0,8.02,east,CREDIT CARD,Cancelled
+100706,"May 29, 2025",David Anderson,david.anderson@gmail.com, Electronics,Wireless Earbuds,3,40.97,0.0,8.19,East,paypal,cancelled
+100487,10-06-2025,laura raza,laura.raza@hotmail.com,BEAUTY,Sunscreen SPF50,8,$17.42,5.0,10.89,South,CREDIT CARD,Cancelled
+100663,21-04-2025,maria davis,maria.davis@outlook.com,Home & Kitchen,Knife Set,2 units,$38.42,0.0,8.6,west,CREDIT CARD,Completed
+101223,15/06/2025,Rabia Smith,rabia.smith@outlook.com,Clothing,Running Shoes,7,73.05,0.0,9.46,south,credit card,COMPLETED
+100273,2025-06-15,bilal ali,bilal.ali@yahoo.com,Home&Kitchen,Blender,2,46.88,0.0,8.65,WEST,PayPal,cancelled
+100685,2025-04-29,JAMES ANDERSON,james.anderson@hotmail.com, Clothing,Wool Sweater,2,$42.24,0.0,16.57,West ,Cash on Delivery,completed
+101195,22-03-2025,Anna Anderson,anna.anderson@hotmail.com,BEAUTY,Makeup Kit,4,$37.94,0.0,5.6, North,Debit Card,pending
+100993,12-04-2025,mariam brown,mariam.brownhotmail.com,Electronic,USB-C Hub,7,35.2,-5.0,5.65,EAST,credit card,pending
+101295,22-02-2025,Nida Ali,nida.ali@hotmail.com,Home&Kitchen,Coffee Maker,8,$66.56,5.0,7.21,E,,Pending
+100448,2025/05/31,  Zain Davis  ,zain.davis@hotmail.com, Books ,Deep Work,7,19.4,0.0,6.42,WEST,credit card,cancelled
+100411,"February 23, 2025",Fatima Brown,fatima.brown@hotmail.com,Books,Sapiens,1,20.56,0.0,4.63,NORTH,PayPal,Pending
+100458,2025/05/17,Usman Butt,usman.butt@gmail.com,Electronics,Wireless Earbuds,6,$41.65,10.0,3.18,E,debit card,completed
+100376,"March 30, 2025",Kamran Moore,kamran.moore@hotmail.com,sports & outdoors,Water Bottle,1,$12.84,0.0,7.19,west,Debit Card,completed
+101255,07-04-2025,Hina Sheikh,hina.sheikh@hotmail.com,Sports,Camping Tent,6,,0.0,11.51,E,credit card,cancelled
+100667,28/03/2025,KAMRAN MOORE,kamran.moore@yahoo.com,Sports & Outdoors,Yoga Mat,5,25.37,0.0,,N,CREDIT CARD,pending
+101190,2025/05/02,laura smith,laura.smith@outlook.com,Home & Kitchen,Cookware Set,7,135.09,-5.0,7.78,West,Debit Card,Completed
+100358,2025/04/01,Michael Miller,michael.miller@yahoo.com,Sports & Outdoors,Water Bottle,5,12.87,0.0,9.09,West ,Debit Card,returned
+100857,2025-06-09,Bilal Shah,bilal.shah@yahoo.com, Books ,Deep Work,6,$21.15,0.0,12.42,WEST,paypal,Cancelled
+101022,09-03-2025,Hina Davis,hina.davis@outlook.com,Electronic,Bluetooth Speaker,2,$60.50,5.0,8.01,West ,Credit Card,returned
+100733,27/06/2025,  Robert Smith  ,robert.smith@gmail.com,home & kitchen,Blender,-3,$45.35,0.0,8.04,SOUTH,cash on delivery,cancelled
+100531,"May 29, 2025",AMNA JOHNSON,amna.johnson@gmail.com,HOME & KITCHEN,Air Fryer,unknown,89.35,0.0,2.81,south,credit card,pending
+100239,11-02-2025,Rabia Hussain,rabia.hussain@yahoo.com,electronics,Laptop Stand,5,23.77,0.0,,west,Cash on Delivery,cancelled
+101042,26/06/2025,  Zainab Moore  ,zainab.moore@outlook.com,Sports & Outdoors,Camping Tent,8,$149.67,15.0,5.82,NORTH,CREDIT CARD,completed
+100725,2025/05/13,Ahmed Raza,ahmed.raza@hotmail.com,Sports and Outdoors,Cycling Helmet,8,0.01,0.0,4.35,south,Credit Card,cancelled
+100192,2025-05-13,michael moore,michael.moore@outlook.com,Sports and Outdoors,Camping Tent,4,,15.0,9.65,NORTH,paypal,Pending
+101017,2025-06-17,AYESHA SHAH,ayesha.shah@gmail.com,Home&Kitchen,Cookware Set,7,$133.39,0.0,12.27,South,cash on delivery,Cancelled
+100191,11-05-2025,MARIAM BUTT,mariam.butt@gmail.com,books,Atomic Habits,3,16.34,0.0,10.22,west,CREDIT CARD,Pending
+100862,22/01/2025,Nida Thomas,nida.thomas@gmail.com,Clothing,Running Shoes,6,$83.97,10.0,12.23,SOUTH,Credit Card,pending
+100887,"January 08, 2025",usman davis,,Beauty,Perfume 50ml,7,54.50,10.0,4.98,E,PayPal,Completed
+101024,20-01-2025,Hassan Malik,,books,Deep Work,7,18.19,,8.62,South,,Cancelled
+100644,02/04/2025,Fatima Ali,fatima.ali@gmail.com, Clothing,Denim Jacket,2,$56.94,0.0,10.2,EAST,cash on delivery,Pending
+100359,2025-03-02,Kamran Moore,kamran.moore@yahoo.com,BEAUTY,Makeup Kit,3,37.76,0.0,3.22,E,Debit Card,Cancelled
+101028,18/02/2025,  Fatima Butt  ,fatima.butt@outlook.com, Books ,The Pragmatic Programmer,3,$35.39,0.0,6.59,South,Debit Card,completed
+100036,"January 12, 2025",Nida Moore,,Sports,Water Bottle,-3,12.48,5.0,8.24,W,Cash on Delivery,pending
+100016,22-02-2025,john iqbal,john.iqbal@outlook.com, Books ,Atomic Habits,8,$17.18,0.0,8.2,East,debit card,Completed
+100333,2025/04/01,rabia brown,rabia.brown@yahoo.com,Home&Kitchen,Knife Set,3,42.62,0.0,9.06,NORTH,debit card,Returned
+101158,2025/03/19,Imran Smith,imran.smith@gmail.com,CLOTHING,Denim Jacket,3,61.82,0.0,7.33,WEST,Debit Card,COMPLETED
+100582,2025/04/12,Ali Hussain,ali.hussain@gmail.com,Electronics,Webcam HD,1,47.15,0.0,10.01,EAST,paypal,Pending
+100007,"January 25, 2025",Hina Khan,hina.khan@yahoo.com,ELECTRONICS,Laptop Stand,6,22.79,0.0,10.45,West ,credit card,returned
+101033,08-03-2025,Laura Butt,laura.butt@hotmail.com,Home & Kitchen,Cookware Set,6,125.72,5.0,9.77,West ,Debit Card,pending
+100839,09-04-2025,Ahmed Moore,ahmed.mooreoutlook.com,Sports & Outdoors,Cycling Helmet,8,45.27,,8.03,West ,PayPal,completed
+100627,2025-06-28,Fatima Anderson,fatima.anderson@gmail.com,Sports,Hiking Backpack,2 units,72.54,0.0,12.28,north,Debit Card,COMPLETED
+101335,24-01-2025,Ali Thomas,ali.thomas@hotmail.com,Home & Kitchen,Vacuum Cleaner,-4,$163.75,0.0,11.5, North,credit card,pending
+100323,01/05/2025,Zain Khan,zain.khan@gmail.com, Books ,Atomic Habits,3,$17.10,0.0,7.67, North,CREDIT CARD,COMPLETED
+100824,2025-01-24,Ayesha Raza,ayesha.raza@gmail.com, Books ,Python Crash Course,2 units,30.01,15.0,6.7,East,credit card,cancelled
+100031,"May 13, 2025",Ahmed Iqbal,ahmed.iqbal@gmail.com,Beauty ,Makeup Kit,1,$37.72,,7.72, North,Debit Card,cancelled
+100631,2025-03-21,Emily Butt,emily.butt@outlook.com,Home&Kitchen,Blender,7,46.09,5.0,11.07,South,CREDIT CARD,Cancelled
+100968,2025/04/13,Amna Sheikh,amna.sheikh@outlook.com,Home&Kitchen,Cookware Set,1,$135.25,0.0,3.78,west,PayPal,completed
+101131,2025/06/06,Mariam Hussain,mariam.hussain@yahoo.com,Home and Kitchen,Blender,7,$51.49,0.0,7.22,S,paypal,cancelled
+100778,2025/01/23,Zain Malik,zain.malik@outlook.com, Books ,Sapiens,6,20.25,,6.53,West ,Cash on Delivery,Pending
+101348,"March 08, 2025",laura brown,laura.brown@outlook.com, Clothing,Winter Coat,4,119.0,0.0,7.47,SOUTH,paypal,COMPLETED
+101148,2025/03/10,KAMRAN SHAH,kamran.shah@gmail.com, Clothing,Denim Jacket,2,59.0,10.0,,E,debit card,Pending
+100437,"March 05, 2025",Zain Davis,,Beauty ,Makeup Kit,1,42.46,0.0,6.96,,Debit Card,Returned
+100119,2025-05-06,ANNA BUTT,anna.butt@hotmail.com,Books,Sapiens,1,19.42,5.0,,west,CREDIT CARD,COMPLETED
+101011,2025/04/12,Faisal Malik,faisal.malik@hotmail.com,Beauty,Shampoo 500ml,3,12.15,0.0,9.72,S,cash on delivery,pending
+101275,23-04-2025,David Ahmed,david.ahmed@yahoo.com,Sports and Outdoors,Cycling Helmet,3,44.52,0.0,7.23,W,Credit Card,returned
+100790,"March 11, 2025",Sarah Ahmed,sarah.ahmed@yahoo.com,CLOTHING,Running Shoes,6,$83.15,0.0,7.28,east,Cash on Delivery,COMPLETED
+100341,2025/03/01,ZAIN KHAN,zain.khan@hotmail.com, Electronics,4K Monitor,6,$286.02,0.0,,east,Cash on Delivery,Returned
+100815,2025/03/27,Amna Miller,amna.miller@yahoo.com, Books ,Sapiens,4,19.02,0.0,10.46,E,debit card,Returned
+100002,03/04/2025,Zainab Ahmed,zainab.ahmed@gmail.com,home & kitchen,Coffee Maker,1,$70.44,5.0,7.95,E,debit card,returned
+100229,14/05/2025,emily taylor,,BEAUTY,Sunscreen SPF50,8,$16.33,5.0,7.5,south,debit card,Completed
+100957,2025-01-09,  Bilal Johnson  ,,CLOTHING,Running Shoes,5,0.01,5.0,2.47,W,credit card,Pending
+100027,2025-04-30,Kamran Ali,kamran.ali@gmail.com,Beauty ,Face Serum,2,22.2,0.0,9.08,east,Cash on Delivery,completed
+100076,2025/02/19,EMILY WILSON,emily.wilsonhotmail.com,Home & Kitchen,Blender,8,$50.56,20.0,13.63,EAST,CREDIT CARD,Cancelled
+101329,18/06/2025,Fatima Sheikh,fatima.sheikh@gmail.com,beauty,Sunscreen SPF50,6,16.95,0.0,8.85,S,Credit Card,Completed
+101160,18/02/2025,Zain Johnson,zain.johnson@yahoo.com,Clothing,Running Shoes,7,83.55,20.0,11.93,N,credit card,Returned
+100371,2025/01/28,Ahmed Davis,ahmed.davis@outlook.com,Electronics,Smart Watch,7,$159.77,0.0,12.46,E,CREDIT CARD,Completed
+100180,2025/04/16,  Sarah Anderson  ,,home & kitchen,Knife Set,8,$38.11,15.0,9.36,E,Debit Card,pending
+101038,23-02-2025,  Robert Ahmed  ,,BOOKS,Atomic Habits,8,17.65,0.0,10.25,north,CREDIT CARD,Completed
+100577,2025-01-16,AMNA ANDERSON,amna.anderson@yahoo.com, Books ,The Pragmatic Programmer,7,34.06,5.0,-8.11,NORTH,Credit Card,Cancelled
+101249,14/05/2025,Mariam Butt,mariam.butt@gmail.com,beauty,Sunscreen SPF50,2,$14.66,0.0,5.82,E,Cash on Delivery,COMPLETED
+101056,11/04/2025,Bilal Iqbal,,home & kitchen,Coffee Maker,4,66.78,0.0,11.19,S,paypal,completed
+101071,2025/02/08,michael taylor,michael.taylor@gmail.com,BOOKS,Atomic Habits,-3,16.12,0.0,9.4,east,paypal,COMPLETED
+101237,2025-04-03,Fatima Brown,fatima.brown@outlook.com,Electronic,Laptop Stand,2,$25.58,0.0,7.56,west,paypal,Returned
+101228,"January 25, 2025",SANA KHAN,sana.khan@hotmail.com,Sports and Outdoors,Water Bottle,7,12.7,20.0,8.8,N,,Returned
+101227,23/01/2025,  Hina Malik  ,hina.malik@gmail.com,Beauty,Sunscreen SPF50,1 units,$15.48,5.0,8.41,South,Credit Card,COMPLETED
+100589,2025/06/19,zain wilson,zain.wilson@hotmail.com,Home and Kitchen,Vacuum Cleaner,5,$151.53,0.0,7.57, North,PayPal,Returned
+100886,"January 25, 2025",james ahmed,james.ahmed@outlook.com,CLOTHING,Cotton T-Shirt,5,14.55,0.0,-5.15,N,Cash on Delivery,returned
+101079,"March 16, 2025",David Taylor,david.taylor@yahoo.com,Beauty,Makeup Kit,8,$41.81,5.0,,EAST,credit card,returned
+100785,"May 08, 2025",  Emily Malik  ,emily.malik@outlook.com,home & kitchen,Vacuum Cleaner,2,$150.51,0.0,8.45,,cash on delivery,cancelled
+101103,13-04-2025,Sana Taylor,sana.taylor@yahoo.com,HOME & KITCHEN,Blender,3,48.72,0.0,7.48,south,Credit Card,returned
+100311,07-02-2025,Michael Iqbal,michael.iqbal@hotmail.com,Sports & Outdoors,Cycling Helmet,5,$44.62,0.0,7.49, North,paypal,Cancelled
+101152,"June 26, 2025",Omar Smith,omar.smith@hotmail.com,electronics,Smart Watch,1,142.92,10.0,10.32,north,credit card,completed
+100301,2025/02/02,  Zain Khan  ,zain.khan@hotmail.com,Home&Kitchen,Coffee Maker,3,$70.13,0.0,11.15,north,credit card,Completed
+100722,"March 29, 2025",  Anna Malik  ,anna.malik@outlook.com, Clothing,Cotton T-Shirt,7,15.97,0.0,9.81,North,cash on delivery,completed
+100689,"April 04, 2025",Usman Brown,usman.brown@hotmail.com,Home and Kitchen,Blender,8,$50.94,0.0,7.48,E,debit card,completed
+100812,2025-05-03,HINA RAZA,hina.raza@hotmail.com,Beauty,Perfume 50ml,,$52.36,0.0,2.97,East,debit card,returned
+100037,2025-06-25,Sana Miller,sana.miller@gmail.com,HOME & KITCHEN,Cookware Set,1 units,131.54,0.0,,South,debit card,returned
+100353,"June 02, 2025",AHMED HUSSAIN,ahmed.hussain@hotmail.com,Beauty,Face Serum,3,25.8,0.0,12.42,North,paypal,cancelled
+101321,2025-05-26,ahmed thomas,ahmed.thomas@hotmail.com,Electronics,USB-C Hub,1,34.57,10.0,5.02,south,Cash on Delivery,Pending
+100714,22/01/2025,Sarah Ali,sarah.ali@hotmail.com,Home & Kitchen,Knife Set,3,$40.63,0.0,7.72,West,PayPal,cancelled
+100236,07-05-2025,RABIA HUSSAIN,rabia.hussain@yahoo.com,beauty,Face Serum,7,$20.32,0.0,5.25,,paypal,cancelled
+101200,15/05/2025,ahmed brown,ahmed.brown@hotmail.com,Clothing,Winter Coat,8,134.5,15.0,12.37,N,debit card,completed
+100729,29-01-2025,Maria Raza,maria.raza@yahoo.com,Sports,Cycling Helmet,1,42.74,5.0,8.05,North,debit card,Cancelled
+101264,2025/05/19,Michael Smith,michael.smith@outlook.com,clothing,Winter Coat,8,$117.13,5.0,6.88,S,paypal,cancelled
+100928,2025/04/23,  Amna Miller  ,amna.miller@gmail.com,Electronics ,Wireless Earbuds,3,$40.99,0.0,9.15,WEST,credit card,returned
+100499,"March 18, 2025",Laura Thomas,laura.thomas@hotmail.com,Sports and Outdoors,Water Bottle,6,12.27,5.0,4.55,W,debit card,returned
+101187,2025-04-10,Michael Sheikh,michael.sheikh@yahoo.com,CLOTHING,Cotton T-Shirt,8,14.05,0.0,12.14,north,CREDIT CARD,Pending
+100553,2025/06/25,emily moore,emily.moore@gmail.com,BEAUTY,Face Serum,8,20.97,5.0,8.39, North,Debit Card,Pending
+100055,05/02/2025,Robert Miller,robert.miller@outlook.com,HOME & KITCHEN,Cookware Set,N/A,$135.44,0.0,10.79,NORTH,credit card,Cancelled
+100302,2025-03-02,amna khan,,Home & Kitchen,Vacuum Cleaner,3,$154.58,5.0,9.44,E,credit card,Completed
+100794,02/03/2025,  Emily Ali  ,emily.ali@gmail.com,clothing,Denim Jacket,4,62.36,0.0,6.45,south,debit card,COMPLETED
+100286,2025-05-04,USMAN BUTT,usman.butt@yahoo.com,Home&Kitchen,Knife Set,3,"$1,180.69",0.0,10.91,N,PayPal,cancelled
+101097,"March 28, 2025",  James Butt  ,james.butt@yahoo.com,clothing,Cotton T-Shirt,-4,14.62,10.0,,East,PayPal,cancelled
+100219,2025-03-19,bilal moore,bilal.moore@gmail.com,electronics,Smart Watch,4,151.22,15.0,13.54,north,Debit Card,COMPLETED
+100900,06-01-2025,robert thomas,,clothing,Running Shoes,7,80.57,5.0,5.41,WEST,Debit Card,Returned
+100945,09-05-2025,  Bilal Thomas  ,bilal.thomas@hotmail.com,Books,Sapiens,7,20.97,,5.01,north,paypal,completed
+100934,2025/01/01,  Ali Johnson  ,ali.johnson@outlook.com,Sports,Cycling Helmet,,$43.54,0.0,10.91,SOUTH,CREDIT CARD,COMPLETED
+100387,2025/03/16,amna wilson,amna.wilson@hotmail.com,electronics,Smart Watch,,150.0,20.0,0.65,WEST,CREDIT CARD,COMPLETED
+100304,31-05-2025,Ahmed Smith,ahmed.smith@outlook.com,Home and Kitchen,Coffee Maker,7,$69.47,0.0,6.13,south,cash on delivery,cancelled
+100474,"June 12, 2025",Bilal Moore,bilal.moore@hotmail.com,Home & Kitchen,Vacuum Cleaner,1,$153.10,10.0,13.41,N,PayPal,COMPLETED
+101297,16/06/2025,Faisal Malik,faisal.malik@hotmail.com,Clothing,Denim Jacket,7,52.97,0.0,9.88,north,cash on delivery,Returned
+100352,2025-03-20,Ali Wilson,ali.wilson@yahoo.com,BEAUTY,Sunscreen SPF50,2,15.0,5.0,8.33,east,Credit Card,Pending
+100193,11-06-2025,Rabia Ahmed,rabia.ahmed@gmail.com,Books,Atomic Habits,5,$17.15,0.0,7.8,WEST,paypal,Completed
+100409,2025/01/06,Anna Thomas,anna.thomas@outlook.com,BEAUTY,Perfume 50ml,3,48.8,0.0,5.65,SOUTH,PayPal,Completed
+101221,"January 15, 2025",Kamran Wilson,kamran.wilson@yahoo.com,Home and Kitchen,Knife Set,3,$39.13,0.0,7.49,south,CREDIT CARD,Pending
+100694,20/05/2025,sarah iqbal,sarah.iqbal@hotmail.com,Books,Deep Work,4,16.94,0.0,9.22,East,Credit Card,COMPLETED
+100480,"June 25, 2025",ANNA ANDERSON,anna.anderson@yahoo.com,books,Python Crash Course,3,$25.56,0.0,11.36,W,CREDIT CARD,Cancelled
+100567,"June 10, 2025",Amna Hussain,amna.hussain@hotmail.com,Home & Kitchen,Knife Set,1 units,$44.74,0.0,8.61,S,Debit Card,pending
+100116,"January 17, 2025",Amna Brown,amna.brown@yahoo.com,home & kitchen,Vacuum Cleaner,5,163.3,0.0,1.81,West,credit card,Pending
+101142,"April 05, 2025",  Robert Ali  ,robert.ali@gmail.com,BOOKS,The Pragmatic Programmer,,$35.91,15.0,10.38,north,Debit Card,Pending
+100653,"February 19, 2025",Usman Hussain,usman.hussain@yahoo.com, Books ,Python Crash Course,5,$30.31,10.0,10.72,SOUTH,Credit Card,Cancelled
+101205,"March 24, 2025",HASSAN IQBAL,hassan.iqbal@yahoo.com,Sports and Outdoors,Dumbbell Set,2,$81.65,0.0,,South,cash on delivery,pending
+101333,"April 09, 2025",Ali Taylor,ali.taylor@hotmail.com,Clothing,Winter Coat,,$121.51,0.0,8.82,WEST,debit card,Cancelled
+100757,2025-04-14,Hina Khan,hina.khan@yahoo.com,beauty,Perfume 50ml,,54.40,0.0,,East,paypal,Pending
+100444,"February 17, 2025",Maria Wilson,maria.wilson@gmail.com,beauty,Shampoo 500ml,,11.92,0.0,2.37,W,Cash on Delivery,completed
+101122,15-06-2025,  Imran Malik  ,imran.malik@yahoo.com,HOME & KITCHEN,Vacuum Cleaner,4,$162.41,5.0,7.23,south,Debit Card,Returned
+100120,2025/06/02,Ali Smith,ali.smith@gmail.com,Sports and Outdoors,Cycling Helmet,6,,5.0,,SOUTH,Cash on Delivery,pending
+101105,07-05-2025,kamran hussain,kamran.hussain@hotmail.com,Clothing,Denim Jacket,6,59.5,5.0,11.41,south,debit card,pending
+101250,26-02-2025,AHMED BROWN,ahmed.brown@yahoo.com,clothing,Winter Coat,8,127.79,0.0,6.1,East,PayPal,completed
+101081,"February 26, 2025",Fatima Ahmed,fatima.ahmed@outlook.com,Sports & Outdoors,Water Bottle,5,13.31,5.0,5.47,NORTH,CREDIT CARD,cancelled
+100062,30/06/2025,Sarah Ahmed,sarah.ahmed@hotmail.com,BOOKS,Python Crash Course,4,32.29,,4.33,,Cash on Delivery,Completed
+100743,19/04/2025,Mariam Ali,mariam.ali@yahoo.com,Beauty,Shampoo 500ml,5,$12.13,0.0,9.74,WEST,debit card,Completed
+100984,2025/04/15,ahmed khan,ahmed.khan@gmail.com,Sports & Outdoors,Camping Tent,,$153.16,5.0,11.51, North,paypal,Pending
+100453,23/05/2025,  Maria Shah  ,maria.shah@gmail.com,books,Atomic Habits,-3,,15.0,6.77,South,cash on delivery,cancelled
+100926,15-04-2025,Anna Shah,anna.shah@gmail.com,Sports,Cycling Helmet,3,46.24,5.0,9.4,north,debit card,Pending
+100515,28-02-2025,  Hina Butt  ,hina.butt@yahoo.com,HOME & KITCHEN,Cookware Set,2,129.31,0.0,7.29,,Cash on Delivery,completed
+100570,2025/02/05,Hina Miller,hina.millerhotmail.com,clothing,Denim Jacket,2,58.63,0.0,11.07,south,Cash on Delivery,Returned
+100223,01-03-2025,Emily Wilson,emily.wilson@gmail.com,sports & outdoors,Yoga Mat,,22.88,5.0,5.29,West ,debit card,completed
+101061,17/03/2025,JAMES MILLER,james.miller@yahoo.com,Sports,Yoga Mat,8,$25.70,0.0,3.9,EAST,debit card,Returned
+100613,02/05/2025,Laura Anderson,laura.anderson@yahoo.com,Beauty,Sunscreen SPF50,3,$16.45,0.0,8.66,West ,cash on delivery,COMPLETED
+100843,11-02-2025,sana taylor,sana.taylor@hotmail.com, Clothing,Cotton T-Shirt,2,14.94,0.0,11.25,NORTH,debit card,Returned
+100221,2025/02/24,Fatima Shah,fatima.shah@yahoo.com,home & kitchen,Knife Set,6,41.16,0.0,5.39, North,,completed
+100997,2025/06/04,Laura Anderson,laura.anderson@yahoo.com,Beauty,Makeup Kit,4,,0.0,8.67,east,Cash on Delivery,cancelled
+100516,2025/01/31,Fatima Khan,fatima.khan@outlook.com,Sports and Outdoors,Camping Tent,,136.64,0.0,9.65,N,cash on delivery,Returned
+100465,30-04-2025,Omar Anderson,omar.anderson@gmail.com,Clothing,Formal Shirt,2,34.04,0.0,2.39,E,Debit Card,returned
+100052,2025-03-10,david raza,david.raza@gmail.com,electronics,Wireless Earbuds,1,43.52,5.0,10.95,EAST,Debit Card,pending
+101318,"January 26, 2025",RABIA BUTT,rabia.butt@hotmail.com,BOOKS,Atomic Habits,4,$15.29,,10.95,SOUTH,CREDIT CARD,completed
+100485,2025-01-18,AYESHA SHAH,ayesha.shah@gmail.com,ELECTRONICS,Bluetooth Speaker,2,59.67,5.0,12.4,E,cash on delivery,returned
+100875,17/04/2025,  Fatima Sheikh  ,fatima.sheikh@hotmail.com,sports & outdoors,Hiking Backpack,6,69.45,5.0,12.4,NORTH,Cash on Delivery,Completed
+100011,2025-01-02,Faisal Ali,faisal.ali@outlook.com,BOOKS,The Pragmatic Programmer,4,$37.22,5.0,8.09,N,PayPal,cancelled
+100818,2025-01-23,  Laura Malik  ,laura.malik@outlook.com,BEAUTY,Makeup Kit,,$39.18,15.0,5.52,South,PayPal,Pending
+100386,2025-06-29,Michael Anderson,michael.anderson@outlook.com,sports & outdoors,Yoga Mat,-3,$24.29,0.0,8.33,WEST,credit card,returned
+100155,17-06-2025,Sarah Iqbal,sarah.iqbal@gmail.com,Sports,Hiking Backpack,,$71.16,0.0,8.94,West,CREDIT CARD,completed
+101172,2025/01/22,Michael Moore,michael.moore@hotmail.com,BOOKS,Sapiens,2,$19.93,0.0,9.97,W,PayPal,pending
+100600,2025-05-12,Hassan Thomas,hassan.thomas@yahoo.com,beauty,Face Serum,3,$20.86,0.0,7.02,,cash on delivery,cancelled
+100017,2025/01/18,Imran Smith,imran.smith@hotmail.com,Clothing,Wool Sweater,2,$44.79,0.0,7.09,NORTH,CREDIT CARD,pending
+100248,"January 17, 2025",bilal shah,bilal.shah@gmail.com,BEAUTY,Makeup Kit,8,$41.09,0.0,8.83,west,cash on delivery,Completed
+100248,2025-06-07,ayesha smith,ayesha.smith@yahoo.com,Home and Kitchen,Vacuum Cleaner,4,$144.12,0.0,8.04,north,debit card,COMPLETED
+100870,2025/04/01,Hassan Ahmed,hassan.ahmed@hotmail.com,Beauty,Perfume 50ml,8,50.40,0.0,6.19,EAST,cash on delivery,returned
+100855,03-01-2025,Nida Shah,nida.shah@hotmail.com, Electronics,Smart Watch,4,$158.49,0.0,8.6, North,,Completed
+101289,14-06-2025,Fatima Ahmed,fatima.ahmed@outlook.com,Books,Atomic Habits,3,18.4,0.0,9.69,south,PayPal,Pending
+100441,2025/05/18,John Anderson,john.anderson@outlook.com, Books ,Sapiens,7,21.18,0.0,6.32,EAST,Debit Card,Cancelled
+101307,2025/03/27,OMAR JOHNSON,omar.johnson@hotmail.com, Clothing,Formal Shirt,3,$36.15,0.0,10.67,east,paypal,cancelled
+101322,2025-01-26,sarah hussain,sarah.hussain@hotmail.com,books,Atomic Habits,,$16.10,0.0,4.9,West,debit card,Pending
+100542,25-06-2025,IMRAN MALIK,imran.malik@gmail.com,ELECTRONICS,USB-C Hub,1,35.33,10.0,0.97,South,,COMPLETED
+100793,28-04-2025,Laura Moore,laura.moore@outlook.com,BEAUTY,Sunscreen SPF50,-3,16.02,,7.18,west,paypal,COMPLETED
+100951,"January 01, 2025",James Ali,james.ali@yahoo.com,CLOTHING,Winter Coat,4,119.06,0.0,12.11,S,Debit Card,completed
+100701,2025/04/20,BILAL MALIK,bilal.malik@outlook.com,beauty,Perfume 50ml,1 units,59.23,5.0,2.86,N,Cash on Delivery,pending
+100117,2025/02/26,Robert Ahmed,robert.ahmed@hotmail.com,BEAUTY,Perfume 50ml,-2,$53.36,0.0,3.26,S,PayPal,Returned
+101047,30/05/2025,SARAH TAYLOR,sarah.taylor@yahoo.com,beauty,Makeup Kit,,46.05,0.0,8.77,east,,COMPLETED
+100628,2025-06-03,hassan brown,hassan.brown@gmail.com,beauty,Face Serum,7,21.12,0.0,12.27,S,Credit Card,COMPLETED
+100150,21-01-2025,  Sana Smith  ,sana.smith@outlook.com,BEAUTY,Shampoo 500ml,3,$12.78,0.0,3.57,south,credit card,completed
+100206,2025-02-04,KAMRAN WILSON,kamran.wilson@yahoo.com,ELECTRONICS,Bluetooth Speaker,8,61.60,0.0,8.71,WEST,Credit Card,cancelled
+100291,2025/01/02,Hassan Davis,hassan.davis@gmail.com,HOME & KITCHEN,Air Fryer,4,$90.37,0.0,10.49,South,Credit Card,cancelled
+101259,27/05/2025,Anna Sheikh,anna.sheikh@hotmail.com, Books ,Python Crash Course,8,28.59,0.0,9.38,E,PayPal,returned
+100381,05/05/2025,James Wilson,james.wilson@gmail.com,Sports & Outdoors,Dumbbell Set,8,$89.59,5.0,13.16,S,Credit Card,cancelled
+100819,"February 17, 2025",Hassan Taylor,hassan.taylor@gmail.com,sports & outdoors,Cycling Helmet,2,44.07,0.0,10.99,SOUTH,Cash on Delivery,returned
+100686,"January 21, 2025",David Shah,david.shah@gmail.com,BOOKS,The Pragmatic Programmer,8,35.63,10.0,6.52,south,Cash on Delivery,pending
+100922,21/05/2025,Mariam Miller,mariam.milleroutlook.com,Home & Kitchen,Cookware Set,8,134.57,5.0,-6.67,N,CREDIT CARD,COMPLETED
+100200,"June 11, 2025",Omar Sheikh,omar.sheikh@gmail.com, Electronics,Bluetooth Speaker,6,"1,332.12",5.0,3.04,E,debit card,completed
+100596,2025/05/28,Fatima Moore,fatima.moore@hotmail.com,Home and Kitchen,Vacuum Cleaner,2,$140.50,15.0,10.06, North,credit card,COMPLETED
+100897,"January 10, 2025",Sarah Moore,sarah.moore@outlook.com,Clothing,Winter Coat,3 units,127.71,5.0,4.16,,PayPal,Pending
+101214,2025-05-31,Sara Brown,sara.brown@outlook.com,Beauty,Perfume 50ml,3,59.57,5.0,6.06,,CREDIT CARD,returned
+100854,30/04/2025,Sana Brown,sana.brown@yahoo.com,Home & Kitchen,Blender,3,"$1,846.48",15.0,13.05,North,,pending
+100008,10-02-2025,Omar Miller,omar.miller@outlook.com,books,Atomic Habits,5,17.36,,9.69,,PayPal,Returned
+101198,28/06/2025,FATIMA IQBAL,fatima.iqbal@outlook.com,home & kitchen,Air Fryer,2,101.21,0.0,6.29,,debit card,Completed
+100804,24/05/2025,Ali Shah,ali.shah@gmail.com,Sports,Hiking Backpack,,$75.50,0.0,3.68,NORTH,Credit Card,cancelled
+101094,2025-06-04,david ali,david.ali@outlook.com,Clothing,Wool Sweater,4,0.01,0.0,11.03,,credit card,Completed
+101026,14-01-2025,SANA SHEIKH,sana.sheikh@hotmail.com,Beauty ,Makeup Kit,1,38.28,0.0,2.82,E,Credit Card,Completed
+101263,2025/01/18,  Rabia Butt  ,rabia.butt@gmail.com,CLOTHING,Running Shoes,3 units,$70.23,0.0,5.9,east,credit card,cancelled
+100769,"May 19, 2025",Mariam Hussain,mariam.hussain@gmail.com,home & kitchen,Knife Set,8,$39.12,0.0,,West ,credit card,completed
+100960,2025/01/04,  David Malik  ,david.malik@hotmail.com,Home & Kitchen,Air Fryer,1,87.57,0.0,9.19,south,PayPal,Cancelled
+101210,2025/02/17,  Sara Wilson  ,sara.wilson@outlook.com,home & kitchen,Coffee Maker,,72.2,10.0,11.57,East,PayPal,Cancelled
+100813,2025/06/19,amna iqbal,amna.iqbal@yahoo.com,ELECTRONICS,4K Monitor,7,,0.0,,South,Credit Card,completed
+101149,16-01-2025,Mariam Wilson,mariam.wilson@outlook.com,sports & outdoors,Camping Tent,8,145.95,0.0,3.26,east,credit card,Cancelled
+100505,14-04-2025,Maria Ali,maria.ali@gmail.com,BOOKS,Sapiens,8,$17.99,0.0,8.63,W,debit card,Cancelled
+100891,31/01/2025,Zain Moore,zain.moore@gmail.com,sports & outdoors,Cycling Helmet,1,46.54,0.0,6.61,South,PayPal,returned
+101264,2025/05/19,Michael Smith,michael.smith@outlook.com,clothing,Winter Coat,8,$117.13,5.0,6.88,S,paypal,cancelled
+100615,2025-04-01,Nida Sheikh,nida.sheikh@yahoo.com,Sports and Outdoors,Dumbbell Set,4,$87.35,0.0,10.64,east,Cash on Delivery,Returned
+100154,04-06-2025,David Miller,david.miller@outlook.com,beauty,Sunscreen SPF50,8,16.12,0.0,5.46,SOUTH,paypal,cancelled
+100918,2025/04/15,  Robert Davis  ,robert.davis@outlook.com,CLOTHING,Denim Jacket,,$61.16,0.0,3.14,W,credit card,COMPLETED
+100322,28/04/2025,Imran Anderson,imran.anderson@yahoo.com, Books ,Deep Work,7,18.99,5.0,,south,CREDIT CARD,cancelled
+101109,2025-01-17,MARIAM THOMAS,mariam.thomas@hotmail.com,Beauty ,Sunscreen SPF50,2 units,$15.45,67.6,7.9,S,cash on delivery,returned
+100082,22-06-2025,omar brown,omar.brown@outlook.com,Home&Kitchen,Cookware Set,4,120.45,0.0,4.14,south,credit card,returned
+100512,2025-06-03,emily anderson,emily.anderson@yahoo.com,books,The Pragmatic Programmer,4,38.5,0.0,10.25,West,cash on delivery,cancelled
+101093,17-01-2025,James Wilson,james.wilson@yahoo.com, Clothing,Running Shoes,-3,$86.96,5.0,-6.33,east,paypal,returned
+100929,2025/04/16,Zain Raza,zain.raza@outlook.com,Home & Kitchen,Air Fryer,N/A,90.42,0.0,7.83,SOUTH,Cash on Delivery,returned
+101170,13/03/2025,AHMED MILLER,ahmed.miller@hotmail.com,Beauty,Face Serum,,21.39,0.0,11.23,west,CREDIT CARD,Completed
+100010,20/01/2025,Usman Hussain,usman.hussain@gmail.com,Home and Kitchen,Air Fryer,6,$99.63,69.8,5.56,West,Credit Card,completed
+100831,2025-05-11,Rabia Miller,,Electronic,4K Monitor,1,301.81,0.0,10.3,North,Debit Card,COMPLETED
+100032,2025-06-10,MICHAEL SHEIKH,michael.sheikh@hotmail.com,Sports,Dumbbell Set,5,84.04,20.0,9.2,N,paypal,COMPLETED
+100413,04-05-2025,BILAL ANDERSON,bilal.anderson@hotmail.com,beauty,Shampoo 500ml,5,$12.04,0.0,5.62,south,Cash on Delivery,COMPLETED
+100580,2025-02-22,sana sheikh,sana.sheikh@gmail.com,beauty,Perfume 50ml,5,51.23,0.0,5.54,,Cash on Delivery,Completed
+101110,2025/03/27,James Raza,james.raza@hotmail.com,BOOKS,Deep Work,5,17.2,5.0,8.17,W,debit card,cancelled
+100004,"June 25, 2025",Faisal Iqbal,faisal.iqbal@yahoo.com,BOOKS,Sapiens,N/A,$19.17,0.0,6.68,S,PayPal,pending
+100614,20-05-2025,Fatima Taylor,fatima.taylor@yahoo.com,Books,Atomic Habits,,$16.77,5.0,5.3,EAST,debit card,cancelled
+101014,2025-06-14,Mariam Ahmed,mariam.ahmed@yahoo.com,Home&Kitchen,Cookware Set,4,124.56,5.0,11.78,West,Debit Card,Completed
+100089,2025/02/06,mariam anderson,mariam.anderson@gmail.com,home & kitchen,Air Fryer,5,$94.55,0.0,9.06,WEST,debit card,Pending
+101216,2025-03-14,Zain Johnson,zain.johnson@yahoo.com,Home and Kitchen,Vacuum Cleaner,5,156.85,20.0,8.15,East,debit card,pending
+100601,2025/04/27,James Taylor,james.taylor@hotmail.com,clothing,Wool Sweater,4,$44.66,15.0,6.67,South,CREDIT CARD,pending
+100133,"April 03, 2025",David Thomas,david.thomas@outlook.com,BOOKS,Python Crash Course,1,$31.04,20.0,6.01,east,Debit Card,Returned
+100555,2025/05/23,EMILY JOHNSON,emily.johnson@hotmail.com,Home & Kitchen,Knife Set,-4,$43.59,20.0,5.91,east,Cash on Delivery,Completed
+101031,18-06-2025,JAMES SHAH,james.shah@hotmail.com, Clothing,Winter Coat,4,116.0,0.0,5.65,S,CREDIT CARD,COMPLETED
+100459,2025-03-31,Sana Shah,sana.shah@outlook.com,electronics,Laptop Stand,2,25.59,0.0,5.86,East,paypal,cancelled
+101262,21-01-2025,Emily Davis,emily.davis@outlook.com,Home and Kitchen,Coffee Maker,1,$76.38,20.0,7.01,West,CREDIT CARD,pending
+101242,2025/04/29,hina wilson,hina.wilson@hotmail.com,Home and Kitchen,Air Fryer,1,$96.23,0.0,9.9,South,Debit Card,Completed
+100634,"April 27, 2025",Kamran Smith,kamran.smith@outlook.com,clothing,Denim Jacket,1,,0.0,4.77,E,PayPal,Completed
+100230,14/01/2025,zain malik,zain.malik@outlook.com,Home&Kitchen,Blender,6,49.40,0.0,9.17,north,paypal,cancelled
+101055,"February 24, 2025",kamran wilson,kamran.wilson@outlook.com,books,Deep Work,,$19.31,0.0,6.14,SOUTH,debit card,Completed
+101116,08-05-2025,hina thomas,hina.thomas@hotmail.com,Electronics ,Laptop Stand,2,25.07,15.0,10.48,south,PayPal,Cancelled
+100796,"May 10, 2025",James Miller,james.miller@gmail.com,Sports and Outdoors,Cycling Helmet,1,46.49,0.0,7.87, North,cash on delivery,Cancelled
+101192,03-04-2025,fatima shah,fatima.shah@outlook.com,Home & Kitchen,Vacuum Cleaner,-3,161.48,5.0,3.99,north,credit card,Pending
+100174,2025-03-01,Sarah Khan,sarah.khan@hotmail.com,books,The Pragmatic Programmer,3,$34.84,0.0,9.03,EAST,PayPal,Cancelled
+100766,2025/04/01,Laura Wilson,laura.wilson@outlook.com,Home and Kitchen,Air Fryer,2,95.23,0.0,15.72,south,credit card,pending
+100245,04/05/2025,Hina Wilson,hina.wilson@hotmail.com,Electronics ,Smart Watch,1,$138.77,5.0,12.38,E,Credit Card,Cancelled
+100861,2025-05-29,Maria Sheikh,maria.sheikh@yahoo.com,Beauty ,Face Serum,8,$24.06,,7.7,N,credit card,Returned
+100145,2025-04-03,Hassan Wilson,hassan.wilson@gmail.com,Sports and Outdoors,Camping Tent,1 units,$139.62,0.0,-4.88,West,Debit Card,returned
+100090,"March 24, 2025",Michael Johnson,michael.johnson@gmail.com,Beauty ,Makeup Kit,5,$40.10,10.0,5.84,N,Cash on Delivery,cancelled
+100682,2025/05/12,James Taylor,james.taylor@gmail.com,books,Deep Work,,20.81,0.0,3.86,NORTH,Credit Card,completed
+100310,22-04-2025,  Laura Butt  ,laura.butt@hotmail.com,electronics,USB-C Hub,8,$33.47,10.0,,West,debit card,Completed
+100093,2025-06-15,Faisal Johnson,faisal.johnson@yahoo.com,Home&Kitchen,Blender,3,$48.08,0.0,8.78,West,PayPal,cancelled
+101125,28-01-2025,Sana Thomas,,Home and Kitchen,Cookware Set,4,128.18,15.0,7.17,WEST,Cash on Delivery,cancelled
+100924,2025/01/19,David Anderson,david.anderson@gmail.com,HOME & KITCHEN,Coffee Maker,2,"$2,495.86",5.0,7.27,NORTH,paypal,cancelled
+100752,07-01-2025,Usman Anderson,usman.anderson@yahoo.com, Electronics,Laptop Stand,1,25.83,0.0,-11.1,north,debit card,Pending
+101035,30/06/2025,NIDA BROWN,nida.brown@yahoo.com,Home&Kitchen,Knife Set,7,39.85,0.0,10.28,N,Credit Card,COMPLETED
+100243,2025-05-26,Emily Iqbal,emily.iqbal@hotmail.com,Electronic,Webcam HD,8,$47.57,5.0,4.93,N,debit card,cancelled
+100214,2025/05/30,David Anderson,david.anderson@hotmail.com,clothing,Denim Jacket,5,$54.18,0.0,7.14,North,Credit Card,Cancelled
+100998,08-05-2025,David Iqbal,david.iqbal@hotmail.com,home & kitchen,Cookware Set,5,$138.98,0.0,12.88,West,Debit Card,pending
+100853,2025/04/20,Zainab Anderson,zainab.anderson@yahoo.com, Electronics,4K Monitor,4,302.16,10.0,12.47,west,paypal,returned
+100425,"May 10, 2025",faisal brown,faisal.brown@gmail.com,Sports & Outdoors,Cycling Helmet,,$48.45,15.0,6.88,South,PayPal,completed
+101319,"May 15, 2025",Nida Moore,nida.moore@gmail.com,Sports & Outdoors,Dumbbell Set,8,87.16,0.0,11.93,east,PayPal,COMPLETED
+100226,"April 20, 2025",Hassan Wilson,hassan.wilson@outlook.com, Books ,Deep Work,7,16.55,0.0,8.82,East,debit card,completed
+101168,2025/03/23,USMAN TAYLOR,usman.taylor@hotmail.com,Beauty ,Sunscreen SPF50,3,$17.31,5.0,9.34,SOUTH,CREDIT CARD,Pending
+100000,24-01-2025,SARA KHAN,sara.khan@gmail.com,Electronics ,4K Monitor,7,294.41,0.0,10.25,West ,Debit Card,completed
+100401,"May 17, 2025",HINA SMITH,hina.smithhotmail.com,Beauty,Makeup Kit,1,$37.87,0.0,6.54,West,Cash on Delivery,Returned
+100529,2025-01-30,Fatima Khan,fatima.khan@gmail.com,HOME & KITCHEN,Knife Set,3,37.65,0.0,9.02,SOUTH,paypal,Completed
+100162,"May 19, 2025",Sana Miller,sana.miller@hotmail.com,BOOKS,Sapiens,1,22.59,0.0,12.3,SOUTH,paypal,cancelled
+100114,"March 12, 2025",David Moore,david.moore@yahoo.com,CLOTHING,Winter Coat,8,$121.86,0.0,9.83,West ,Debit Card,Cancelled
+100670,09/06/2025,Michael Khan,michael.khan@hotmail.com,books,The Pragmatic Programmer,6,36.95,0.0,4.67,NORTH,PayPal,completed
+101095,2025-01-25,Hassan Khan,hassan.khan@hotmail.com,BOOKS,The Pragmatic Programmer,2,32.61,0.0,6.78,east,Credit Card,COMPLETED
+100889,"January 29, 2025",John Ahmed,john.ahmed@hotmail.com, Clothing,Denim Jacket,7,58.72,0.0,6.8,E,Cash on Delivery,completed
+100625,2025/05/17,Omar Taylor,omar.taylor@outlook.com,Beauty,Perfume 50ml,6,57.39,5.0,6.15,W,PayPal,Pending
+100952,2025/05/04,FATIMA BROWN,fatima.brown@outlook.com,Books,Deep Work,2,19.22,5.0,12.73, North,credit card,Completed
+100807,05-03-2025,ayesha hussain,ayesha.hussain@yahoo.com,Electronics,Laptop Stand,7,$22.66,0.0,12.65,EAST,cash on delivery,returned
+100258,2025-03-07,Laura Taylor,laura.taylor@gmail.com,books,Python Crash Course,2,31.1,0.0,9.02,north,CREDIT CARD,COMPLETED
+100624,2025/05/14,MARIA MILLER,maria.miller@yahoo.com,Home & Kitchen,Cookware Set,1,,0.0,8.71,N,cash on delivery,completed
+100826,14-03-2025,Omar Ahmed,omar.ahmed@yahoo.com,beauty,Face Serum,4,$23.03,0.0,8.64,WEST,,Returned
+100234,14/06/2025,Maria Smith,maria.smith@gmail.com,BEAUTY,Makeup Kit,7,40.62,0.0,10.86,EAST,CREDIT CARD,Pending
+100135,28/05/2025,Usman Raza,usman.raza@gmail.com,Home and Kitchen,Vacuum Cleaner,2,164.23,0.0,,West,cash on delivery,completed
+100616,"March 26, 2025",Maria Smith,maria.smith@gmail.com,sports & outdoors,Dumbbell Set,,,0.0,1.89,East,Credit Card,COMPLETED
+100836,15-05-2025,ali shah,ali.shah@gmail.com,CLOTHING,Cotton T-Shirt,7,15.68,5.0,9.08,south,cash on delivery,COMPLETED
+100842,23/02/2025,Ahmed Sheikh,ahmed.sheikhyahoo.com,Home&Kitchen,Knife Set,2,36.39,0.0,10.05,north,PayPal,completed
+100959,2025/03/12,Hina Moore,hina.moore@gmail.com,home & kitchen,Blender,N/A,$50.28,,4.03,north,credit card,returned
+100592,03/04/2025,Michael Thomas,michael.thomas@hotmail.com,Beauty ,Perfume 50ml,7,53.75,5.0,4.11, North,Credit Card,Pending
+100343,2025-06-08,JOHN KHAN,john.khan@hotmail.com,Sports,Dumbbell Set,,92.76,5.0,6.91,EAST,credit card,Returned
+101194,"June 19, 2025",  Hina Iqbal  ,hina.iqbal@hotmail.com, Electronics,4K Monitor,8,$289.10,0.0,14.1,SOUTH,cash on delivery,cancelled
+100293,2025/03/17,JOHN SMITH,john.smith@gmail.com,clothing,Wool Sweater,1,44.89,0.0,4.98,east,credit card,returned
+100364,2025-03-01,Emily Khan,emily.khan@hotmail.com,clothing,Denim Jacket,7,$55.80,10.0,9.96,West ,Credit Card,Cancelled
+100178,2025-02-21,NIDA BROWN,nida.brown@outlook.com,BEAUTY,Face Serum,7,22.48,0.0,8.39,south,credit card,COMPLETED
+100659,13-01-2025,AYESHA BUTT,ayesha.butt@gmail.com,clothing,Running Shoes,N/A,80.41,0.0,3.98,NORTH,credit card,Pending
+100996,2025/04/19,Amna Raza,amna.raza@hotmail.com, Electronics,Bluetooth Speaker,1,60.77,0.0,6.66,North,debit card,Cancelled
+100014,2025-01-07,Faisal Miller,faisal.miller@hotmail.com,sports & outdoors,Water Bottle,6,$13.34,10.0,8.7,SOUTH,PayPal,COMPLETED
+100165,2025/03/22,Kamran Shah,kamran.shah@gmail.com,Clothing,Running Shoes,4,76.58,0.0,9.84,E,Cash on Delivery,Returned
+100059,"May 30, 2025",Anna Thomas,anna.thomas@yahoo.com,ELECTRONICS,Bluetooth Speaker,7,$64.73,10.0,7.64,east,PayPal,Cancelled
+100709,"May 17, 2025",Ahmed Butt,ahmed.butt@hotmail.com,Sports & Outdoors,Yoga Mat,1,$25.07,0.0,8.58,north,Credit Card,cancelled
+100676,"March 01, 2025",Amna Miller,amna.miller@hotmail.com, Electronics,4K Monitor,5,288.98,10.0,3.58, North,credit card,Completed
+100780,2025-06-18,JOHN BUTT,john.buttyahoo.com,clothing,Cotton T-Shirt,6,$15.78,0.0,12.44,North,paypal,Pending
+100424,07/01/2025,HINA MALIK,hina.malik@gmail.com,HOME & KITCHEN,Cookware Set,-3,$134.29,0.0,9.78,EAST,PayPal,Returned
+100292,2025-06-04,Sana Smith,sana.smith@outlook.com,Electronics,Bluetooth Speaker,8,0.01,0.0,6.25,S,CREDIT CARD,Completed
+101065,"February 14, 2025",SARAH ANDERSON,sarah.anderson@gmail.com,Sports & Outdoors,Hiking Backpack,8,73.69,0.0,7.38,W,Debit Card,cancelled
+101279,04-05-2025,John Raza,john.raza@yahoo.com, Clothing,Formal Shirt,,35.48,10.0,7.59,West ,Cash on Delivery,cancelled
+100329,27-02-2025,Fatima Ali,fatima.ali@outlook.com, Clothing,Cotton T-Shirt,6,15.32,15.0,253.17,North,debit card,completed
+100429,"May 28, 2025",ZAINAB MOORE,zainab.moore@yahoo.com,BEAUTY,Sunscreen SPF50,3,14.38,0.0,8.18,NORTH,cash on delivery,pending
+101012,29/05/2025,John Khan,john.khan@outlook.com,BOOKS,Atomic Habits,1,$15.95,0.0,11.27,EAST,Cash on Delivery,returned
+100079,"March 23, 2025",John Hussain,john.hussain@yahoo.com,sports & outdoors,Yoga Mat,1,24.08,5.0,1.56,West ,CREDIT CARD,returned
+101052,31-01-2025,Amna Khan,amna.khan@hotmail.com,beauty,Shampoo 500ml,6,13.59,0.0,3.63,E,debit card,Cancelled
+100937,27/06/2025,John Malik,john.malik@yahoo.com,Clothing,Winter Coat,5,121.66,0.0,6.29,EAST,Cash on Delivery,Pending
+100834,13/03/2025,  David Hussain  ,david.hussain@gmail.com, Books ,Python Crash Course,8,31.84,0.0,,South,Credit Card,pending
+100749,01/05/2025,Hina Shah,hina.shah@hotmail.com,beauty,Face Serum,3,24.07,0.0,6.14,East,Credit Card,returned
+100890,2025/04/18,Amna Ali,amna.ali@outlook.com,Sports,Cycling Helmet,1 units,44.38,0.0,6.03,S,debit card,completed
+100254,12-06-2025,FAISAL MALIK,faisal.malik@hotmail.com,beauty,Makeup Kit,6,$40.01,15.0,4.95,north,paypal,Pending
+100754,13/01/2025,Ayesha Brown,ayesha.brown@yahoo.com,clothing,Winter Coat,1,126.5,10.0,0.87,north,Credit Card,Pending
+101108,"June 20, 2025",KAMRAN BROWN,kamran.brown@yahoo.com,Electronic,Laptop Stand,1,$25.34,15.0,8.19,west,Cash on Delivery,completed
+100136,2025/02/10,JOHN THOMAS,john.thomas@gmail.com,Sports and Outdoors,Cycling Helmet,1,,0.0,6.82, North,Credit Card,Pending
+100852,"March 07, 2025",Ayesha Ali,ayesha.ali@hotmail.com,beauty,Makeup Kit,7,40.77,,1.7,south,Debit Card,Cancelled
+100723,14/06/2025,Amna Johnson,amna.johnson@hotmail.com,Sports & Outdoors,Hiking Backpack,-3,74.35,0.0,2.87,N,Cash on Delivery,pending
+100859,04/04/2025,  James Hussain  ,james.hussain@hotmail.com,clothing,Wool Sweater,2,$43.15,0.0,11.8,west,debit card,returned
+100969,26/02/2025,Mariam Iqbal,mariam.iqbal@gmail.com,Home & Kitchen,Knife Set,4,$42.03,0.0,6.77,south,cash on delivery,completed
+100496,17/03/2025,Maria Hussain,maria.hussain@yahoo.com,Electronic,Laptop Stand,6,$26.09,0.0,8.99,west,Cash on Delivery,COMPLETED
+100950,03-01-2025,Omar Ali,omar.ali@yahoo.com, Books ,Python Crash Course,1,29.06,5.0,10.93,E,debit card,Completed
+100805,07-04-2025,Emily Iqbal,emily.iqbal@gmail.com,Sports,Yoga Mat,5,26.38,0.0,5.77,WEST,PayPal,returned
+100129,2025/04/16,michael anderson,michael.anderson@gmail.com,Home&Kitchen,Air Fryer,3,82.78,0.0,3.2,E,CREDIT CARD,COMPLETED
+100337,2025-02-06,KAMRAN BROWN,kamran.brown@hotmail.com,Home & Kitchen,Air Fryer,2,$0.01,5.0,6.88,east,paypal,completed
+101284,"June 12, 2025",anna ahmed,anna.ahmed@gmail.com, Clothing,Wool Sweater,4,46.32,0.0,3.94,S,Credit Card,pending
+100608,"May 05, 2025",  Zain Khan  ,zain.khan@gmail.com,Electronics,Bluetooth Speaker,3,61.44,0.0,1.68,East,credit card,COMPLETED
+100195,2025/02/07,Usman Anderson,usman.anderson@outlook.com,books,Sapiens,3,$18.54,0.0,11.74,N,Cash on Delivery,cancelled
+100909,"April 15, 2025",FAISAL JOHNSON,faisal.johnson@outlook.com, Books ,The Pragmatic Programmer,7,,0.0,,N,paypal,Completed
+100584,"March 02, 2025",Ali Raza,ali.raza@yahoo.com, Books ,Python Crash Course,3,29.25,0.0,5.68,west,cash on delivery,completed
+100103,2025/05/25,Amna Taylor,amna.taylor@hotmail.com,Home and Kitchen,Cookware Set,8,$129.59,5.0,7.0,south,Cash on Delivery,Returned
+101323,2025-03-26,Emily Shah,emily.shah@outlook.com,Electronics,USB-C Hub,3,32.25,5.0,8.7,west,Cash on Delivery,COMPLETED
+101337,02/02/2025,Bilal Iqbal,bilal.iqbal@hotmail.com,clothing,Wool Sweater,2,$48.87,15.0,7.66, North,cash on delivery,Cancelled
+101333,"January 23, 2025",ZAIN ANDERSON,zain.anderson@hotmail.com,CLOTHING,Running Shoes,2,75.69,10.0,9.8,W,Debit Card,COMPLETED
+100884,"June 14, 2025",Sana Khan,sana.khan@outlook.com,Sports and Outdoors,Dumbbell Set,1,$85.23,0.0,8.49, North,credit card,cancelled
+100776,2025-05-08,David Davis,david.davis@yahoo.com,Sports & Outdoors,Cycling Helmet,3,46.15,10.0,240.14,NORTH,credit card,returned
+100849,"January 28, 2025",fatima davis,fatima.davis@gmail.com,CLOTHING,Formal Shirt,,$34.14,0.0,14.06,SOUTH,Credit Card,completed
+100894,"February 04, 2025",Zain Raza,zain.raza@gmail.com,CLOTHING,Wool Sweater,6,$46.01,0.0,7.34,West ,cash on delivery,Pending
+100227,26/06/2025,ANNA SHEIKH,anna.sheikh@outlook.com,Sports,Yoga Mat,2,$24.10,0.0,10.51,W,Cash on Delivery,completed
+101347,"June 05, 2025",SARA AHMED,sara.ahmed@outlook.com,BEAUTY,Makeup Kit,6,$37.10,5.0,7.55, North,debit card,cancelled
+100126,27-05-2025,Ali Shah,ali.shah@hotmail.com,Books,Sapiens,1,$20.83,0.0,14.98,NORTH,Cash on Delivery,Pending
+100405,31-05-2025,emily sheikh,emily.sheikh@gmail.com,Sports,Hiking Backpack,3,$68.28,10.0,-5.86,S,paypal,Pending
+100775,04/01/2025,Fatima Johnson,fatima.johnson@outlook.com,clothing,Formal Shirt,7,$36.98,0.0,0.85,west,debit card,returned
+100821,18/06/2025,zain malik,zain.malik@gmail.com,Beauty,Makeup Kit,1 units,$37.47,10.0,7.54,SOUTH,debit card,Pending
+100711,2025-03-12,Hina Smith,hina.smith@yahoo.com, Clothing,Running Shoes,3,$84.26,0.0,15.01,South,CREDIT CARD,COMPLETED
+101351,2025-05-07,  Laura Anderson  ,laura.anderson@outlook.com,Home&Kitchen,Air Fryer,3,91.68,0.0,6.84,,credit card,Returned
+101060,2025-05-20,laura moore,laura.moore@gmail.com,beauty,Face Serum,7,21.86,0.0,5.86,E,Debit Card,Completed
+101163,05-05-2025,Ali Thomas,ali.thomas@yahoo.com,Home and Kitchen,Knife Set,2,$37.57,0.0,7.15,west,PayPal,COMPLETED
+100303,04/06/2025,nida hussain,nida.hussain@yahoo.com,clothing,Running Shoes,2,$73.85,0.0,8.31,N,Debit Card,pending
+100267,01/06/2025,Zainab Thomas,zainab.thomas@hotmail.com,Beauty ,Face Serum,7,22.82,0.0,4.25,West ,Credit Card,completed
+100545,14/02/2025,Anna Sheikh,anna.sheikh@hotmail.com,Home&Kitchen,Vacuum Cleaner,7,159.85,5.0,11.25,EAST,paypal,Cancelled
+100212,"April 01, 2025",  Amna Anderson  ,amna.anderson@outlook.com,Beauty,Perfume 50ml,6,58.74,0.0,0.76,West ,Credit Card,COMPLETED
+100896,"February 10, 2025",amna iqbal,amna.iqbal@outlook.com,beauty,Perfume 50ml,1,55.38,0.0,7.28, North,CREDIT CARD,Completed
+100916,2025-02-10,  Kamran Iqbal  ,kamran.iqbal@gmail.com,Books,Sapiens,2,21.15,0.0,6.59,north,CREDIT CARD,cancelled
+100675,"January 05, 2025",Hassan Malik,hassan.malikyahoo.com,Home & Kitchen,Cookware Set,8,$130.09,20.0,8.39,West,Debit Card,Cancelled
+100814,2025-04-20,Fatima Shah,fatima.shah@gmail.com,Electronics,Webcam HD,3,$45.69,10.0,9.71,SOUTH,paypal,Pending
+100342,2025/01/05,Kamran Davis,kamran.davis@outlook.com,clothing,Formal Shirt,2,35.58,15.0,9.23,N,Credit Card,cancelled
+100549,2025/02/20,Emily Raza,emily.raza@gmail.com,Sports and Outdoors,Yoga Mat,2,25.06,0.0,11.51,North,CREDIT CARD,pending
+100966,2025-06-12,Maria Malik,maria.malik@yahoo.com,electronics,Laptop Stand,1,$24.16,20.0,4.37,north,Credit Card,Completed
+100295,2025/03/29,Omar Iqbal,omar.iqbal@gmail.com, Clothing,Winter Coat,3 units,108.24,0.0,7.34,W,credit card,completed
+100695,"March 11, 2025",Robert Ali,robert.ali@outlook.com,CLOTHING,Running Shoes,4,81.54,0.0,8.48,,PayPal,COMPLETED
+100073,2025/03/04,  Sara Hussain  ,sara.hussain@gmail.com,clothing,Wool Sweater,4,$46.20,15.0,-7.54,south,credit card,Pending
+100605,22-04-2025,sara khan,sara.khan@gmail.com,books,Atomic Habits,2,$17.81,20.0,2.08,West,Credit Card,Completed
+100104,2025/03/02,Imran Johnson,imran.johnson@yahoo.com,clothing,Denim Jacket,unknown,63.89,15.0,13.2,South,CREDIT CARD,COMPLETED
+100645,19/01/2025,Ayesha Butt,ayesha.butt@outlook.com,electronics,Wireless Earbuds,8,$36.55,0.0,,S,Cash on Delivery,Cancelled
+101007,2025/05/22,sana brown,sana.brown@yahoo.com,Sports and Outdoors,Hiking Backpack,5,$73.69,15.0,1.87,North,Cash on Delivery,pending
+101040,16/01/2025,  Sana Iqbal  ,sana.iqbal@yahoo.com,Home and Kitchen,Knife Set,6,40.66,,10.06,S,Cash on Delivery,Cancelled
+100439,2025/03/29,HINA SMITH,hina.smith@outlook.com,sports & outdoors,Camping Tent,3,153.02,0.0,13.51,east,paypal,COMPLETED
+101019,2025/04/28,Kamran Brown,kamran.brown@yahoo.com,ELECTRONICS,USB-C Hub,7,$34.86,5.0,4.59,West ,debit card,completed
+100091,"January 22, 2025",JOHN MILLER,john.miller@yahoo.com,books,Deep Work,,19.29,0.0,16.44,N,Debit Card,cancelled
+101112,02/05/2025,  Imran Khan  ,imran.khan@yahoo.com,CLOTHING,Denim Jacket,8,$56.75,0.0,6.96,east,paypal,Completed
+101294,"March 26, 2025",rabia johnson,rabia.johnson@hotmail.com,Sports,Dumbbell Set,4,95.55,0.0,8.17,E,paypal,Pending
+100908,02-05-2025,james wilson,james.wilson@outlook.com,sports & outdoors,Cycling Helmet,8,$47.89,0.0,8.54,EAST,Credit Card,Cancelled
+100102,"February 14, 2025",MARIA ALI,maria.ali@hotmail.com,home & kitchen,Blender,5,$46.16,0.0,7.01,NORTH,debit card,returned
+100238,"February 06, 2025",Ali Hussain,ali.hussain@hotmail.com,ELECTRONICS,Bluetooth Speaker,1,$56.90,0.0,11.15,South,cash on delivery,returned
+100003,2025/02/15,  Rabia Ali  ,rabia.ali@hotmail.com,HOME & KITCHEN,Coffee Maker,7,$67.00,0.0,10.33,North,paypal,pending
+100942,"April 26, 2025",Ahmed Hussain,ahmed.hussain@yahoo.com, Books ,Sapiens,3,$20.67,0.0,8.03, North,debit card,Returned
+100938,"May 27, 2025",FATIMA BROWN,fatima.brown@yahoo.com, Electronics,4K Monitor,5,280.79,,6.74,West,debit card,Pending
+101181,11/03/2025,mariam hussain,mariam.hussain@hotmail.com,Beauty ,Sunscreen SPF50,,$15.78,0.0,12.82,SOUTH,Debit Card,cancelled
+100005,19/05/2025,Faisal Moore,faisal.moore@gmail.com, Books ,Atomic Habits,6,16.26,0.0,5.12,South,Cash on Delivery,Cancelled
+101299,20/03/2025,sara butt,sara.butt@gmail.com,Clothing,Denim Jacket,7,,0.0,9.93,West,cash on delivery,Returned
+100965,"April 04, 2025",Sana Anderson,sana.anderson@gmail.com,Books,Atomic Habits,5,,0.0,6.09,,CREDIT CARD,COMPLETED
+100018,2025/01/06,omar brown,omar.brown@hotmail.com,Electronics ,Laptop Stand,6,24.59,0.0,, North,PayPal,Cancelled
+100121,2025-06-26,ali iqbal,ali.iqbal@yahoo.com,beauty,Perfume 50ml,7,$52.62,0.0,,South,Credit Card,Completed
+100661,2025/04/06,Michael Taylor,michael.taylor@outlook.com,BEAUTY,Perfume 50ml,1,$59.32,0.0,,West,CREDIT CARD,Completed
+101208,03/01/2025,James Malik,james.malik@yahoo.com,HOME & KITCHEN,Blender,6,$52.62,5.0,14.07,North,Debit Card,COMPLETED
+100274,30-03-2025,AHMED JOHNSON,ahmed.johnson@yahoo.com,ELECTRONICS,Webcam HD,2,$45.53,5.0,8.76,EAST,paypal,cancelled
+100433,16/04/2025,Hassan Ahmed,hassan.ahmed@outlook.com,HOME & KITCHEN,Blender,4,50.63,20.0,3.27,W,credit card,Completed
+100811,29/05/2025,SANA TAYLOR,sana.taylor@gmail.com,Clothing,Denim Jacket,1 units,$56.94,0.0,7.27,WEST,CREDIT CARD,returned
+101338,2025-03-05,  Faisal Iqbal  ,faisal.iqbal@outlook.com,Electronics ,Webcam HD,2,$49.46,10.0,7.04,NORTH,PayPal,Cancelled
+101352,2025-03-07,  Ahmed Davis  ,ahmed.davis@outlook.com,ELECTRONICS,Bluetooth Speaker,8,62.59,0.0,9.77,EAST,paypal,Returned
+100181,2025/02/23,Amna Thomas,amna.thomas@outlook.com,HOME & KITCHEN,Air Fryer,5,82.94,0.0,,W,,completed
+100184,2025/01/26,  Usman Moore  ,usman.moore@gmail.com,CLOTHING,Winter Coat,5,$118.91,5.0,7.52,North,Debit Card,COMPLETED
+100406,26-04-2025,anna wilson,anna.wilson@hotmail.com, Clothing,Cotton T-Shirt,8,$0.01,0.0,2.57, North,paypal,Returned
+100865,"April 29, 2025",hina anderson,hina.anderson@hotmail.com,BEAUTY,Face Serum,7,21.14,0.0,11.71,north,cash on delivery,Completed
+100520,21/06/2025,Fatima Butt,fatima.butt@outlook.com,books,Sapiens,5,$20.80,0.0,6.82,NORTH,CREDIT CARD,completed
+101003,04/01/2025,  Rabia Smith  ,rabia.smithgmail.com,beauty,Makeup Kit,3,$39.46,0.0,2.08,East,PayPal,Completed
+100380,"April 25, 2025",Sana Moore,sana.moore@outlook.com,books,Atomic Habits,6,$18.08,0.0,8.11,E,paypal,returned
+100427,2025-03-26,James Shah,james.shah@yahoo.com,Beauty ,Face Serum,7,$22.30,5.0,9.09,South,Credit Card,Completed
+100078,"May 09, 2025",HINA SMITH,hina.smith@yahoo.com,Beauty ,Perfume 50ml,1,53.37,0.0,11.62,WEST,CREDIT CARD,completed
+101009,2025-04-10,Faisal Wilson,faisal.wilson@gmail.com,CLOTHING,Formal Shirt,6,33.66,0.0,8.04,south,credit card,completed
+100037,2025-06-25,Sana Miller,sana.miller@gmail.com,HOME & KITCHEN,Cookware Set,1 units,131.54,0.0,,South,debit card,returned
+100607,2025/01/06,Rabia Miller,rabia.miller@hotmail.com,books,The Pragmatic Programmer,7,$34.18,,10.8,N,Cash on Delivery,returned
+101273,2025-05-16,James Moore,james.moore@gmail.com,Beauty ,Makeup Kit,3,40.36,10.0,7.1,,PayPal,Completed
+100556,"June 05, 2025",Hina Butt,,BEAUTY,Shampoo 500ml,,12.12,10.0,8.85,east,CREDIT CARD,cancelled
+101305,07-04-2025,zainab smith,zainab.smith@hotmail.com,beauty,Perfume 50ml,5,53.2,0.0,9.19,West,credit card,Cancelled
+101057,2025/04/17,ZAIN AHMED,zain.ahmedoutlook.com,electronics,Wireless Earbuds,8,41.37,10.0,8.12,NORTH,credit card,completed
+101091,15-05-2025,Maria Miller,maria.miller@yahoo.com,Clothing,Wool Sweater,8,,0.0,10.88,E,Cash on Delivery,COMPLETED
+101101,11-01-2025,sana thomas,sana.thomas@yahoo.com,Sports and Outdoors,Yoga Mat,3,$28.85,15.0,9.45,West ,paypal,pending
+101129,2025/02/25,John Khan,,books,Python Crash Course,6,29.22,0.0,2.82,east,PayPal,Cancelled
+101260,"February 18, 2025",  Ayesha Wilson  ,ayesha.wilson@gmail.com,Clothing,Cotton T-Shirt,1,$14.94,0.0,-9.13,West,Credit Card,returned
+100958,2025-03-18,Nida Wilson,nida.wilson@yahoo.com,BEAUTY,Sunscreen SPF50,3,$15.45,0.0,2.31,West,debit card,cancelled
+100559,26/02/2025,anna johnson,anna.johnson@hotmail.com, Clothing,Formal Shirt,6,32.16,0.0,9.09,WEST,paypal,returned
+100846,2025/06/16,bilal raza,bilal.raza@gmail.com,electronics,Smart Watch,,157.83,15.0,,E,,Cancelled
+100690,"January 02, 2025",FATIMA MALIK,fatima.malik@hotmail.com,Home & Kitchen,Knife Set,6,$41.92,0.0,9.59, North,debit card,returned
+100030,25/05/2025,james miller,james.miller@gmail.com,Sports,Camping Tent,2,139.9,10.0,8.91,EAST,paypal,Completed
+101336,22/04/2025,Laura Sheikh,laura.sheikh@outlook.com,sports & outdoors,Cycling Helmet,8,45.80,0.0,10.06,east,debit card,completed
+100436,31/01/2025,ayesha wilson,ayesha.wilson@hotmail.com,CLOTHING,Wool Sweater,1,$44.43,20.0,5.01,N,credit card,completed
+100490,2025/02/22,Hassan Thomas,hassan.thomas@yahoo.com,clothing,Formal Shirt,5,$32.61,0.0,2.7,EAST,paypal,Cancelled
+100694,20/05/2025,sarah iqbal,sarah.iqbal@hotmail.com,Books,Deep Work,4,16.94,0.0,9.22,East,Credit Card,COMPLETED
+101315,2025-01-05,Omar Iqbal,omar.iqbal@yahoo.com,Home&Kitchen,Coffee Maker,8,$74.57,0.0,7.83,E,CREDIT CARD,pending
+100069,06-04-2025,  Sarah Khan  ,sarah.khan@yahoo.com, Books ,Python Crash Course,5,$28.73,0.0,5.37,North,CREDIT CARD,returned
+100808,"February 15, 2025",Fatima Anderson,fatima.anderson@hotmail.com,sports & outdoors,Yoga Mat,6,24.45,,11.4,WEST,Debit Card,Completed
+101184,2025-05-30,Zain Sheikh,zain.sheikh@hotmail.com, Clothing,Wool Sweater,3,,10.0,7.24,E,debit card,Completed
+100011,10/03/2025,Usman Iqbal,usman.iqbal@hotmail.com,clothing,Cotton T-Shirt,6,15.45,0.0,7.66,south,debit card,Cancelled
+100144,20/04/2025,James Butt,james.butt@gmail.com, Clothing,Formal Shirt,7,$34.36,,13.16,north,Credit Card,pending
+100917,10/01/2025,Hina Ali,hina.ali@yahoo.com, Clothing,Winter Coat,2,118.99,10.0,4.84,N,Debit Card,Cancelled
+100639,2025/06/29,Rabia Shah,rabia.shah@hotmail.com,Home&Kitchen,Vacuum Cleaner,1,164.40,10.0,11.57,EAST,Cash on Delivery,Cancelled
+100176,29/04/2025,Imran Malik,imran.malik@gmail.com, Electronics,USB-C Hub,1,37.84,0.0,5.34,S,paypal,cancelled
+100994,21/01/2025,  Maria Shah  ,maria.shah@gmail.com,books,The Pragmatic Programmer,,$34.77,15.0,14.9,North,paypal,pending
+100440,17/03/2025,Omar Iqbal,,Home&Kitchen,Air Fryer,2,89.08,0.0,3.54,SOUTH,CREDIT CARD,Completed
+100521,19/06/2025,Kamran Khan,kamran.khan@gmail.com,electronics,Bluetooth Speaker,2,$60.41,5.0,4.56,east,paypal,Pending
+101079,"March 16, 2025",David Taylor,david.taylor@yahoo.com,Beauty,Makeup Kit,8,$41.81,5.0,,EAST,credit card,returned
+101004,2025-02-26,Robert Raza,robert.raza@outlook.com,sports & outdoors,Dumbbell Set,,94.76,0.0,,west,debit card,returned
+101234,"March 02, 2025",Zainab Sheikh,zainab.sheikh@hotmail.com,Sports and Outdoors,Yoga Mat,6,$23.88,5.0,5.66,south,cash on delivery,Pending
+100143,09/03/2025,Imran Brown,imran.brown@gmail.com,books,Atomic Habits,3,$16.49,5.0,5.34,east,CREDIT CARD,pending
+100753,12-06-2025,Hassan Iqbal,hassan.iqbal@outlook.com, Electronics,4K Monitor,3,,0.0,8.74,south,Credit Card,returned
+100519,2025/06/24,Kamran Taylor,kamran.taylor@outlook.com,Books,Python Crash Course,1 units,29.05,0.0,10.31,North,debit card,Completed
+100822,2025/02/08,Anna Davis,anna.davis@gmail.com,Clothing,Wool Sweater,2,$42.32,0.0,,North,CREDIT CARD,Completed
+100428,"May 01, 2025",HINA MALIK,hina.malik@gmail.com,Electronics ,Webcam HD,3,45.49,5.0,1.49,N,,Pending
+100612,"May 04, 2025",Amna Ali,, Electronics,Bluetooth Speaker,1 units,60.16,0.0,9.24,E,Credit Card,Completed
+101032,"May 21, 2025",Maria Taylor,maria.taylor@yahoo.com, Clothing,Winter Coat,8,$0.01,0.0,11.99,EAST,credit card,Pending
+100156,19/05/2025,Anna Wilson,anna.wilson@outlook.com,Home and Kitchen,Coffee Maker,6,$67.07,0.0,1.78,south,Debit Card,Pending
+100539,2025-05-31,Maria Thomas,maria.thomas@outlook.com,BEAUTY,Shampoo 500ml,N/A,,0.0,-2.67, North,Credit Card,Completed
+100461,"March 30, 2025",BILAL THOMAS,bilal.thomas@outlook.com,Sports,Yoga Mat,1,$26.52,0.0,7.05,West,Debit Card,COMPLETED
+100576,07/06/2025,Amna Johnson,amna.johnson@hotmail.com,HOME & KITCHEN,Coffee Maker,-2,73.94,0.0,5.18,South,credit card,Returned
+100255,"March 20, 2025",Michael Raza,,Beauty ,Makeup Kit,-1,44.09,20.0,11.41,SOUTH,credit card,Returned
+100979,03/05/2025,Omar Khan,omar.khan@outlook.com,Home & Kitchen,Air Fryer,6,95.29,10.0,5.73,North,cash on delivery,pending
+101185,25-06-2025,Sara Ali,sara.ali@yahoo.com,ELECTRONICS,Wireless Earbuds,7,39.57,0.0,9.74,E,PayPal,completed
+101006,2025/05/09,John Thomas,john.thomas@hotmail.com,sports & outdoors,Water Bottle,1,297.56,0.0,6.11,south,Credit Card,Returned
+100560,24-05-2025,sarah wilson,sarah.wilson@hotmail.com,Books,The Pragmatic Programmer,6,33.72,0.0,3.5,south,cash on delivery,completed
+100208,29/04/2025,Ahmed Taylor,ahmed.taylor@hotmail.com,Sports & Outdoors,Cycling Helmet,4,42.1,10.0,8.72,south,Credit Card,Pending
+100910,2025-01-18,  John Davis  ,john.davis@yahoo.com,beauty,Shampoo 500ml,6,11.89,10.0,-4.21,S,Credit Card,completed
+100001,05/06/2025,Kamran Raza,,CLOTHING,Denim Jacket,6,62.81,0.0,4.09,South,paypal,completed
+100269,22-02-2025,Anna Anderson,anna.anderson@outlook.com,home & kitchen,Air Fryer,6,89.44,0.0,11.18,South,Debit Card,returned
+100265,08-01-2025,Sara Hussain,sara.hussainoutlook.com, Clothing,Cotton T-Shirt,4,15.66,0.0,8.75,South,credit card,completed
+100914,10/05/2025,Maria Iqbal,maria.iqbal@yahoo.com,clothing,Denim Jacket,3,$64.17,0.0,9.94,N,Debit Card,completed
+100230,2025-06-15,John Raza,john.raza@outlook.com,home & kitchen,Blender,2,52.03,0.0,11.76,east,debit card,returned
+100675,"January 05, 2025",Hassan Malik,hassan.malikyahoo.com,Home & Kitchen,Cookware Set,8,$130.09,20.0,8.39,West,Debit Card,Cancelled
+101119,2025/06/05,Ali Raza,ali.raza@gmail.com,BOOKS,The Pragmatic Programmer,4,$35.28,0.0,1.22,EAST,Credit Card,COMPLETED
+100186,"March 21, 2025",kamran iqbal,kamran.iqbal@outlook.com, Electronics,Smart Watch,-3,$154.96,10.0,9.67,N,Cash on Delivery,Returned
+100864,2025/05/20,Amna Johnson,amna.johnson@gmail.com,Home & Kitchen,Vacuum Cleaner,8,$177.26,0.0,10.14,West,PayPal,returned
+101066,2025/01/08,Zainab Wilson,zainab.wilson@outlook.com,sports & outdoors,Hiking Backpack,3,73.58,5.0,6.28,West,credit card,pending
+100873,06/01/2025,Hassan Johnson,hassan.johnson@gmail.com,books,Deep Work,6,20.56,0.0,5.95,north,,Returned
+100348,2025-06-05,ZAIN RAZA,zain.raza@gmail.com, Clothing,Running Shoes,4,90.95,0.0,5.57,East,debit card,cancelled
+100398,02/03/2025,KAMRAN BUTT,kamran.butt@gmail.com, Clothing,Formal Shirt,4,34.74,0.0,480.66,east,credit card,COMPLETED
+101308,2025-01-01,Zain Hussain,zain.hussain@yahoo.com,Beauty,Sunscreen SPF50,2,$16.62,5.0,3.7,west,cash on delivery,completed
+100045,"June 11, 2025",Faisal Malik,faisal.malik@gmail.com,Beauty,Makeup Kit,1,$37.96,5.0,10.51,,Debit Card,Completed
+100161,05/05/2025,Laura Wilson,laura.wilson@gmail.com,Home and Kitchen,Vacuum Cleaner,,,0.0,8.02,West ,credit card,COMPLETED
+100991,19/06/2025,Zainab Malik,zainab.malik@outlook.com,Sports and Outdoors,Camping Tent,8,165.22,0.0,11.08,S,debit card,Returned
+100727,05-04-2025,zainab moore,zainab.moore@hotmail.com,Sports and Outdoors,Hiking Backpack,1,$71.77,0.0,6.88,west,credit card,Pending
+100629,17-04-2025,ayesha khan,ayesha.khan@outlook.com,Beauty,Makeup Kit,4,39.08,0.0,1.98,west,cash on delivery,Returned
+101025,19/04/2025,JOHN ANDERSON,john.anderson@gmail.com,BEAUTY,Makeup Kit,5,40.05,0.0,8.04,S,Credit Card,returned
+101059,31-05-2025,Emily Davis,,electronics,4K Monitor,6,$292.56,0.0,9.14,South,cash on delivery,returned
+100041,10/04/2025,USMAN JOHNSON,usman.johnson@hotmail.com,Sports & Outdoors,Hiking Backpack,5,$74.46,10.0,8.85,W,credit card,completed
+100575,2025/02/24,Anna Khan,anna.khan@yahoo.com,clothing,Denim Jacket,6,55.80,0.0,13.77,East,credit card,Completed
+100850,2025-06-12,Usman Moore,usman.moore@gmail.com,Electronic,4K Monitor,N/A,264.83,5.0,2.96,North,PayPal,pending
+100911,11-05-2025,James Smith,james.smith@gmail.com,CLOTHING,Cotton T-Shirt,7,14.11,20.0,13.18,E,cash on delivery,returned
+101254,"June 18, 2025",Hina Johnson,hina.johnson@gmail.com,electronics,Bluetooth Speaker,2,$58.66,0.0,8.91,EAST,Debit Card,returned
+101301,26-01-2025,Faisal Malik,faisal.malikhotmail.com,clothing,Formal Shirt,8,$32.16,0.0,3.22,north,credit card,Cancelled
+100932,2025-04-12,Nida Iqbal,nida.iqbal@hotmail.com,Clothing,Running Shoes,4,84.39,5.0,6.28,East,paypal,cancelled
+101100,2025/05/16,Hina Thomas,hina.thomas@gmail.com,Sports & Outdoors,Yoga Mat,8,$27.57,15.0,10.93,NORTH,debit card,completed
+101207,12-06-2025,Ahmed Miller,ahmed.miller@outlook.com,home & kitchen,Vacuum Cleaner,5,162.62,0.0,5.35,West,debit card,cancelled
+100247,17-03-2025,AMNA WILSON,amna.wilson@outlook.com, Books ,Atomic Habits,,$16.04,5.0,8.17,,Cash on Delivery,COMPLETED
+100476,2025-04-06,LAURA IQBAL,laura.iqbal@gmail.com,Beauty ,Perfume 50ml,5,52.48,0.0,,NORTH,PayPal,returned
+100085,18/05/2025,Faisal Iqbal,faisal.iqbal@yahoo.com,Beauty,Shampoo 500ml,7,$13.03,0.0,476.29,West ,credit card,completed
+100469,23-03-2025,RABIA HUSSAIN,rabia.hussain@yahoo.com,ELECTRONICS,Smart Watch,8,$145.64,0.0,8.77,EAST,CREDIT CARD,cancelled
+100225,10-04-2025,David Ahmed,david.ahmed@gmail.com,sports & outdoors,Camping Tent,1,$137.87,15.0,6.43,E,CREDIT CARD,cancelled
+100774,"June 04, 2025",ZAIN AHMED,zain.ahmed@hotmail.com,Sports,Water Bottle,3,$12.81,0.0,11.77,W,paypal,pending
+100331,18/03/2025,david davis,david.davis@gmail.com,Sports & Outdoors,Camping Tent,,$139.46,10.0,7.09,EAST,debit card,Returned
+100233,23/02/2025,michael iqbal,michael.iqbal@outlook.com,CLOTHING,Denim Jacket,1,,5.0,6.73,north,PayPal,cancelled
+100588,2025/01/01,Ali Hussain,ali.hussain@gmail.com, Books ,The Pragmatic Programmer,7,32.93,5.0,6.11,South,cash on delivery,COMPLETED
+100475,27/03/2025,David Anderson,david.anderson@yahoo.com,Beauty ,Shampoo 500ml,4,12.22,0.0,,East,,COMPLETED
+101284,"June 12, 2025",anna ahmed,anna.ahmed@gmail.com, Clothing,Wool Sweater,4,46.32,0.0,3.94,S,Credit Card,pending
+100599,2025-03-05,Zainab Sheikh,zainab.sheikh@yahoo.com,Beauty ,Sunscreen SPF50,4,15.98,0.0,, North,credit card,returned
+100421,2025-06-04,MICHAEL KHAN,michael.khan@outlook.com,Books,Sapiens,5,$21.73,0.0,11.0,E,paypal,cancelled
+100182,10/01/2025,  Laura Ali  ,laura.ali@outlook.com,Sports & Outdoors,Camping Tent,5,$158.60,0.0,5.64,NORTH,Cash on Delivery,Pending
+100988,04/01/2025,MARIA SHEIKH,maria.sheikh@outlook.com, Books ,The Pragmatic Programmer,,$38.40,0.0,7.92,WEST,credit card,Pending
+101000,03/05/2025,Faisal Iqbal,faisal.iqbal@yahoo.com,CLOTHING,Denim Jacket,8,$0.01,0.0,14.99,EAST,credit card,completed
+100049,2025/04/25,Sara Brown,sara.brown@gmail.com,books,Sapiens,7,19.85,10.0,8.47,North,CREDIT CARD,Pending
+101343,2025-02-09,Amna Thomas,amna.thomas@yahoo.com,BOOKS,Python Crash Course,1,$29.30,0.0,9.78,east,Cash on Delivery,pending
+101029,2025/05/13,ZAIN TAYLOR,zain.taylor@hotmail.com,books,Sapiens,8,$20.73,20.0,,NORTH,paypal,returned
+100529,2025-04-30,robert miller,robert.miller@yahoo.com,beauty,Perfume 50ml,6,50.53,0.0,,W,debit card,pending
+101258,11/05/2025,Zain Hussain,,Electronic,Laptop Stand,4,$25.52,5.0,11.27,E,Debit Card,completed
+100486,2025-05-11,ahmed anderson,ahmed.anderson@outlook.com,BEAUTY,Makeup Kit,-2,39.76,,8.27,west,Debit Card,Completed
+100497,17/05/2025,Mariam Taylor,mariam.taylor@yahoo.com,clothing,Running Shoes,3,80.7,0.0,7.93,South,CREDIT CARD,COMPLETED
+100106,"June 26, 2025",  Omar Sheikh  ,omar.sheikh@hotmail.com,Home & Kitchen,Vacuum Cleaner,2,163.5,10.0,7.11,west,debit card,cancelled
+100443,16-05-2025,Mariam Taylor,mariam.taylor@yahoo.com,Beauty,Sunscreen SPF50,8,16.76,0.0,3.23,West ,credit card,completed
+100646,21/03/2025,Faisal Smith,faisal.smith@hotmail.com,sports & outdoors,Yoga Mat,1,26.61,0.0,12.81,west,debit card,Returned
+101036,2025-05-19,Ahmed Taylor,ahmed.taylor@outlook.com,clothing,Running Shoes,8,$80.52,0.0,5.56,East,cash on delivery,Pending
+100726,15-01-2025,Laura Khan,laura.khan@yahoo.com,books,Atomic Habits,,$17.27,0.0,9.44,WEST,debit card,Pending
+100190,08-04-2025,Michael Johnson,michael.johnson@hotmail.com, Books ,Atomic Habits,7,16.23,87.5,,East,debit card,Returned
+100282,2025/03/24,ALI DAVIS,,Books,Python Crash Course,2,28.86,5.0,7.02,South,credit card,Returned
+100029,15/04/2025,Sara Smith,sara.smith@hotmail.com, Clothing,Cotton T-Shirt,7,$15.00,0.0,9.34,South,Credit Card,COMPLETED
+100169,"February 18, 2025",David Butt,david.butt@hotmail.com,Electronic,Smart Watch,3,135.06,10.0,12.09,south,Debit Card,Returned
+101001,2025/06/13,ayesha malik,ayesha.malik@outlook.com,Sports & Outdoors,Dumbbell Set,7,93.68,0.0,11.75,South,CREDIT CARD,cancelled
+101204,"June 25, 2025",  Bilal Miller  ,bilal.miller@yahoo.com,Electronic,4K Monitor,-4,283.27,0.0,8.4,West ,cash on delivery,returned
+100100,"April 26, 2025",Maria Brown,maria.brown@outlook.com,Home&Kitchen,Air Fryer,6,$90.78,0.0,6.88,south,Debit Card,Cancelled
+100197,2025/06/18,sarah sheikh,,Electronics ,Wireless Earbuds,4,$0.01,5.0,4.78, North,CREDIT CARD,returned
+100495,"May 27, 2025",hina brown,hina.brown@hotmail.com, Books ,Sapiens,7,$20.32,,5.57,E,Credit Card,returned
+100647,"April 13, 2025",David Johnson,david.johnson@outlook.com,BOOKS,Atomic Habits,1,$16.96,,5.97,WEST,debit card,Pending
+100987,2025-01-21,ZAIN SHEIKH,zain.sheikh@gmail.com,HOME & KITCHEN,Air Fryer,3 units,$92.38,0.0,8.55,W,credit card,Completed
+100044,09-04-2025,anna smith,anna.smith@hotmail.com,Beauty,Shampoo 500ml,6,$12.37,0.0,3.59,EAST,credit card,pending
+100879,10/06/2025,Sarah Ahmed,sarah.ahmed@yahoo.com,Sports,Dumbbell Set,7,99.92,0.0,9.27,west,,Pending
+100373,2025-01-31,Maria Johnson,maria.johnson@hotmail.com,Clothing,Winter Coat,2,120.60,10.0,11.4,south,Debit Card,Returned
+100678,"March 27, 2025",  Sana Brown  ,sana.brown@outlook.com,clothing,Running Shoes,5,78.08,20.0,6.52,SOUTH,CREDIT CARD,cancelled
+100566,17/01/2025,Sarah Sheikh,sarah.sheikh@gmail.com, Books ,Atomic Habits,8,$15.93,0.0,6.6,SOUTH,CREDIT CARD,Cancelled
+100847,2025-01-02,Faisal Butt,faisal.butt@outlook.com,ELECTRONICS,Laptop Stand,4,25.76,88.5,9.22,W,debit card,Cancelled
+100460,"June 29, 2025",  Mariam Ali  ,mariam.alihotmail.com,BOOKS,Sapiens,6,20.17,10.0,12.42,WEST,Credit Card,Cancelled
+101155,14-03-2025,  Ayesha Ali  ,ayesha.ali@yahoo.com,beauty,Perfume 50ml,2,$58.74,10.0,12.26,East,Debit Card,Returned
+100039,"January 28, 2025",Fatima Butt,fatima.butt@outlook.com,clothing,Winter Coat,3 units,$120.12,0.0,7.28,W,Cash on Delivery,Cancelled
+100434,2025/05/19,ZAINAB HUSSAIN,zainab.hussain@yahoo.com,home & kitchen,Coffee Maker,2,$67.68,77.8,8.16,SOUTH,paypal,completed
+100973,02-04-2025,Emily Taylor,emily.taylor@hotmail.com,books,The Pragmatic Programmer,2,$0.01,0.0,,,debit card,pending
+101239,"February 26, 2025",Hina Hussain,hina.hussain@yahoo.com,Sports,Cycling Helmet,8,46.72,0.0,9.37,West ,credit card,pending
+101007,2025/05/22,sana brown,sana.brown@yahoo.com,Sports and Outdoors,Hiking Backpack,5,$73.69,15.0,1.87,North,Cash on Delivery,pending
+100456,16-06-2025,Omar Smith,omar.smith@yahoo.com,clothing,Cotton T-Shirt,6,15.27,20.0,11.99,SOUTH,credit card,pending
+100260,2025-01-01,Mariam Anderson,mariam.anderson@yahoo.com,sports & outdoors,Yoga Mat,3,$23.39,5.0,,south,paypal,COMPLETED
+100035,"April 12, 2025",Kamran Butt,kamran.butt@hotmail.com,ELECTRONICS,Laptop Stand,7,24.73,0.0,6.98,,Debit Card,Completed
+100827,17/03/2025,Amna Brown,amna.brown@yahoo.com,Electronics ,Laptop Stand,6,25.94,0.0,13.45, North,Debit Card,pending
+100309,12-04-2025,  Fatima Sheikh  ,fatima.sheikh@outlook.com,books,Sapiens,7,$21.35,0.0,7.05,W,Credit Card,COMPLETED
+100276,09/04/2025,david taylor,david.taylor@gmail.com,Beauty,Makeup Kit,7,39.19,5.0,8.82,SOUTH,credit card,pending
+100636,29-01-2025,Sarah Taylor,sarah.taylor@outlook.com,Beauty,Makeup Kit,-3,$39.73,15.0,4.52,SOUTH,Cash on Delivery,Completed
+100654,2025-03-15,Imran Brown,imran.brown@gmail.com,Home and Kitchen,Coffee Maker,7,$65.78,5.0,6.24,east,Cash on Delivery,Pending
+100622,23-01-2025,ANNA MALIK,anna.malik@gmail.com,Electronics ,Bluetooth Speaker,6,$56.74,-5.0,11.07,West,CREDIT CARD,completed
+100844,2025/03/13,  Hina Hussain  ,hina.hussain@yahoo.com,Home&Kitchen,Coffee Maker,8,68.09,0.0,9.63,EAST,CREDIT CARD,COMPLETED
+100393,2025-03-10,John Thomas,john.thomas@outlook.com,Electronics,Laptop Stand,4,24.88,10.0,5.71,SOUTH,cash on delivery,COMPLETED
+100107,2025-03-05,JOHN ANDERSON,john.anderson@outlook.com,Beauty,Sunscreen SPF50,4,$16.04,0.0,10.97,SOUTH,paypal,Cancelled
+100349,05-03-2025,ROBERT MILLER,,Beauty ,Perfume 50ml,6,$57.67,0.0,8.31,West,Credit Card,Pending
+100524,"March 06, 2025",David Taylor,david.taylor@yahoo.com,Beauty ,Face Serum,4,23.02,5.0,-9.02,North,paypal,returned
+100784,"April 22, 2025",Sarah Anderson,sarah.anderson@gmail.com,Sports,Camping Tent,8,154.65,5.0,8.59,,CREDIT CARD,returned
+100047,"June 06, 2025",bilal ali,bilal.ali@gmail.com,ELECTRONICS,4K Monitor,3,275.64,0.0,8.8,south,PayPal,Pending
+100203,22/02/2025,Nida Shah,nida.shah@gmail.com,clothing,Denim Jacket,6,$61.54,,11.82,West,Cash on Delivery,COMPLETED
+100021,30-03-2025,IMRAN RAZA,imran.raza@hotmail.com,Home&Kitchen,Blender,1,$50.40,0.0,10.13,S,cash on delivery,pending
+100402,10/03/2025,Usman Moore,usman.moore@hotmail.com,Home&Kitchen,Vacuum Cleaner,5,$163.35,0.0,6.05,West,Credit Card,pending
+101107,04/05/2025,sana thomas,sana.thomas@gmail.com,Books,The Pragmatic Programmer,5,$35.28,0.0,10.73,W,credit card,Returned
+101154,24/02/2025,ahmed khan,ahmed.khan@hotmail.com,Sports,Dumbbell Set,3 units,$83.78,0.0,14.19,south,debit card,completed
+100989,2025-02-13,  John Wilson  ,john.wilson@yahoo.com,Electronics,Wireless Earbuds,4,40.6,0.0,8.08,North,paypal,Completed
+100741,2025-01-02,Ali Iqbal,,CLOTHING,Denim Jacket,1,$55.53,0.0,5.69,north,PayPal,returned
+101310,12/06/2025,Usman Sheikh,,Books,The Pragmatic Programmer,4,35.60,15.0,9.19,North,debit card,Completed
+101147,2025/06/15,Emily Shah,emily.shah@hotmail.com, Electronics,Wireless Earbuds,7,40.12,0.0,11.32,West,Debit Card,returned
+100033,27-02-2025,sarah davis,sarah.davis@outlook.com,Beauty,Perfume 50ml,6,$52.50,0.0,11.9,EAST,credit card,COMPLETED
+100664,2025/06/25,Ali Thomas,ali.thomas@yahoo.com, Books ,Sapiens,4,$21.56,20.0,6.94, North,Debit Card,Pending
+100923,2025-01-23,Imran Taylor,imran.taylor@hotmail.com,clothing,Denim Jacket,4,54.53,0.0,10.48,West ,CREDIT CARD,Completed
+101043,2025-01-08,zainab thomas,zainab.thomas@outlook.com,BOOKS,The Pragmatic Programmer,3,$35.64,15.0,5.99,W,PayPal,pending
+100025,2025/01/08,Anna Wilson,,BEAUTY,Sunscreen SPF50,,$15.90,10.0,6.81,EAST,credit card,pending
+101243,24-03-2025,JAMES HUSSAIN,james.hussain@hotmail.com,Sports and Outdoors,Water Bottle,5,$13.17,0.0,5.79,West ,paypal,Pending
+100579,27/01/2025,Hina Davis,hina.davis@gmail.com,Electronics ,Webcam HD,8,$42.67,0.0,10.74,east,debit card,Pending
+100481,2025-01-07,michael malik,michael.malik@yahoo.com,CLOTHING,Formal Shirt,7,$33.83,0.0,3.83,South,credit card,Cancelled
+100931,24/04/2025,Maria Brown,maria.brown@yahoo.com,ELECTRONICS,Bluetooth Speaker,5,59.66,15.0,6.45,E,Debit Card,returned
+100356,"February 01, 2025",Mariam Sheikh,mariam.sheikh@hotmail.com,Beauty,Shampoo 500ml,3,$11.72,10.0,,South,debit card,Completed
+101248,2025/06/27,James Iqbal,james.iqbal@gmail.com, Books ,Sapiens,N/A,$20.62,0.0,6.9,North,Debit Card,Cancelled
+100759,07/03/2025,Bilal Iqbal,bilal.iqbal@hotmail.com,Beauty ,Makeup Kit,-2,41.81,0.0,-1.19,West,CREDIT CARD,Completed
+100092,"March 22, 2025",Ali Raza,ali.raza@yahoo.com,beauty,Face Serum,2,$25.40,0.0,9.16,,credit card,completed
+101175,2025/04/30,Faisal Taylor,faisal.taylor@outlook.com,Sports and Outdoors,Yoga Mat,4,$25.47,0.0,3.38,east,debit card,Pending
+101341,2025-05-08,EMILY ALI,emily.ali@yahoo.com,HOME & KITCHEN,Coffee Maker,1,66.61,15.0,9.9,south,Debit Card,returned
+100803,2025-03-14,Kamran Davis,,Electronic,Webcam HD,4,$40.54,5.0,5.3,WEST,Debit Card,pending
+100745,2025/01/01,Hina Johnson,hina.johnson@outlook.com, Clothing,Wool Sweater,1,$42.57,0.0,12.75,west,credit card,Completed
+100279,07-05-2025,amna iqbal,amna.iqbal@hotmail.com,ELECTRONICS,USB-C Hub,3,35.04,0.0,7.65,South,credit card,Cancelled
+100764,2025-03-31,Zainab Sheikh,zainab.sheikh@yahoo.com,sports & outdoors,Hiking Backpack,,73.39,0.0,9.34,N,credit card,Pending
+100604,"May 04, 2025",MICHAEL BROWN,michael.brown@outlook.com,Sports and Outdoors,Cycling Helmet,8,,0.0,8.12,WEST,cash on delivery,Completed
+100682,2025/05/12,James Taylor,james.taylor@gmail.com,books,Deep Work,,20.81,0.0,3.86,NORTH,Credit Card,completed
+100015,2025-04-07,Sana Malik,sana.malik@outlook.com,CLOTHING,Denim Jacket,1 units,$57.79,5.0,10.2,South,Debit Card,Pending
+100040,2025-04-14,emily miller,emily.miller@hotmail.com,Home & Kitchen,Knife Set,1,41.63,0.0,4.99,SOUTH,CREDIT CARD,returned
+100400,18/04/2025,Rabia Thomas,rabia.thomas@yahoo.com,Beauty,Shampoo 500ml,1,11.25,5.0,12.45,SOUTH,Credit Card,cancelled
+100257,2025-01-05,Emily Miller,emily.miller@yahoo.com,BEAUTY,Face Serum,1,$23.50,0.0,9.91,East,Cash on Delivery,pending
+100944,30-04-2025,ali ali,ali.ali@yahoo.com, Electronics,Webcam HD,3,$42.16,20.0,,East,debit card,cancelled
+101096,"April 26, 2025",Imran Malik,imran.malik@hotmail.com,books,Atomic Habits,2,16.12,0.0,8.83,E,cash on delivery,Pending
+101219,2025-03-08,  Rabia Raza  ,rabia.raza@outlook.com,Sports & Outdoors,Water Bottle,-1,$12.84,0.0,5.28,south,CREDIT CARD,pending
+101161,2025-02-10,James Taylor,james.taylor@yahoo.com,Books,Python Crash Course,2 units,$31.30,0.0,10.2,East,credit card,Cancelled
+100494,2025-03-24,faisal raza,faisal.raza@hotmail.com,home & kitchen,Blender,7,0.01,,8.34,W,cash on delivery,Returned
+100772,03-03-2025,SARAH BROWN,sarah.brown@gmail.com,home & kitchen,Cookware Set,3,138.89,80.0,,W,debit card,returned
+100550,13/01/2025,faisal thomas,faisal.thomas@hotmail.com,Beauty ,Shampoo 500ml,8,$11.88,5.0,6.48,W,Cash on Delivery,returned
+100201,29/05/2025,Laura Taylor,laura.taylor@hotmail.com,Beauty ,Shampoo 500ml,2,$11.22,,6.44,,cash on delivery,COMPLETED
+100408,21/04/2025,Sara Moore,sara.moore@gmail.com,Electronics,Laptop Stand,8,$25.51,0.0,237.7,E,paypal,completed
+100290,30/06/2025,james butt,james.butt@hotmail.com,Sports,Hiking Backpack,6,$72.32,63.0,7.82,N,Debit Card,COMPLETED
+101213,"May 26, 2025",Robert Sheikh,robert.sheikh@yahoo.com,sports & outdoors,Cycling Helmet,3,$45.52,20.0,3.33, North,Debit Card,Cancelled
+100763,2025/04/21,Nida Thomas,nida.thomas@gmail.com,Home & Kitchen,Vacuum Cleaner,2 units,162.89,10.0,14.83,east,credit card,pending
+101136,23/02/2025,SARA TAYLOR,sara.taylor@yahoo.com,BOOKS,Python Crash Course,6,$29.93,10.0,1.93,S,paypal,COMPLETED
+100949,2025-02-19,bilal taylor,bilal.taylor@outlook.com,sports & outdoors,Hiking Backpack,2,67.66,5.0,6.3,West,Cash on Delivery,Completed
+100183,2025-06-02,Mariam Anderson,mariam.anderson@gmail.com,Beauty ,Sunscreen SPF50,,14.64,10.0,8.74,EAST,debit card,COMPLETED
+101176,21-06-2025,David Butt,,books,Atomic Habits,,$16.89,0.0,7.44,,Cash on Delivery,Returned
+101349,2025-02-23,  Sara Hussain  ,sara.hussain@gmail.com, Books ,Sapiens,,,,7.7,west,cash on delivery,Pending
+101215,2025/03/19,Maria Davis,maria.davis@yahoo.com,Electronic,Wireless Earbuds,7,40.85,5.0,9.44,West,debit card,Pending
+101030,2025-04-06,Emily Johnson,emily.johnson@gmail.com,Clothing,Formal Shirt,1,35.26,5.0,11.71,WEST,Credit Card,pending
+100250,28/02/2025,Anna Raza,anna.raza@gmail.com, Clothing,Formal Shirt,2,32.16,0.0,11.01,West ,cash on delivery,returned
+100823,2025-06-01,ZAINAB SHEIKH,zainab.sheikh@yahoo.com,Sports and Outdoors,Yoga Mat,1,,0.0,9.99,EAST,credit card,Pending
+101099,2025/01/18,hassan hussain,hassan.hussaingmail.com,beauty,Makeup Kit,2,,0.0,9.65,WEST,PayPal,Cancelled
+100940,"January 17, 2025",RABIA KHAN,rabia.khan@hotmail.com,books,The Pragmatic Programmer,1 units,$32.43,0.0,10.26,EAST,debit card,Pending
+100391,2025-03-26,Ali Johnson,ali.johnson@outlook.com,Sports and Outdoors,Cycling Helmet,3,44.06,0.0,4.55,south,,cancelled
+101092,2025-06-16,Rabia Miller,rabia.miller@hotmail.com, Clothing,Formal Shirt,3,31.3,0.0,6.8,west,debit card,Pending
+101191,2025-06-05,Robert Hussain,robert.hussain@outlook.com,Home&Kitchen,Coffee Maker,4,$67.86,0.0,9.02,S,Credit Card,Completed
+100904,2025-03-18,John Smith,john.smith@yahoo.com, Clothing,Formal Shirt,1,0.01,10.0,10.12,EAST,Cash on Delivery,completed
+100730,23/01/2025,Sarah Brown,sarah.brown@gmail.com, Clothing,Cotton T-Shirt,1,,0.0,14.03,EAST,CREDIT CARD,pending
+100554,2025-04-04,ali smith,ali.smith@gmail.com,sports & outdoors,Water Bottle,7,14.54,0.0,7.69,West,CREDIT CARD,Completed
+100366,02-03-2025,Omar Taylor,omar.taylor@hotmail.com,Home&Kitchen,Knife Set,5,41.58,5.0,6.03,west,CREDIT CARD,Completed
+100345,2025-05-07,Kamran Wilson,kamran.wilson@outlook.com,clothing,Formal Shirt,-2,36.82,20.0,8.61,WEST,credit card,completed
+100535,2025/02/13,Hassan Hussain,hassan.hussain@hotmail.com,Electronics,Webcam HD,1,$42.72,0.0,12.07,S,debit card,cancelled
+100108,2025/03/28,  Fatima Taylor  ,fatima.taylor@yahoo.com,Electronics ,Wireless Earbuds,7,$37.63,5.0,7.43,North,cash on delivery,completed
+101209,2025/01/10,John Hussain,john.hussain@hotmail.com,Beauty ,Shampoo 500ml,1,12.02,,11.68,EAST,PayPal,Returned
+100014,2025-03-01,HASSAN BROWN,hassan.brown@outlook.com,Electronics ,Laptop Stand,,$26.40,0.0,5.88,east,Debit Card,Cancelled
+100919,01-02-2025,Ali Davis,ali.davis@hotmail.com,BOOKS,The Pragmatic Programmer,2,35.19,0.0,4.41,West,paypal,COMPLETED
+100211,30-03-2025,  Ahmed Ali  ,ahmed.ali@gmail.com,Sports,Hiking Backpack,8,$71.64,0.0,6.77,east,CREDIT CARD,Pending
+100502,11/04/2025,David Taylor,david.taylor@gmail.com, Electronics,Smart Watch,,148.4,0.0,1.68,S,debit card,cancelled
+100537,"January 10, 2025",Amna Hussain,amna.hussain@gmail.com,beauty,Perfume 50ml,5,$53.93,0.0,7.24, North,Credit Card,Returned
+101220,2025/02/23,David Wilson,david.wilson@gmail.com,Sports,Dumbbell Set,5,90.01,10.0,9.21,WEST,Credit Card,cancelled
+100175,28/04/2025,sana butt,sana.butt@hotmail.com,Beauty ,Shampoo 500ml,8,12.39,0.0,10.69,N,Cash on Delivery,Returned
