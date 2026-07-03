@@ -1,4 +1,4 @@
-from part3.derived_metrics03 import dataset
+from derived_metrics03 import dataset
 import numpy as np
 import pandas as pd
 
@@ -20,4 +20,4 @@ dataset["total_amount"] = dataset["total_amount"].abs()
 
 # dataset.to_csv("/home/inovaqo/Documents/project-pandas-numpy/part3/cleaned_processed.csv")
 
-dataset.to_csv("/home/inovaqo/Documents/project-pandas-numpy/part4/cleaned_processed.csv", index=False)
+dataset.to_csv("/home/inovaqo/Documents/project-pandas-numpy/part4/processed.csv", index=False)

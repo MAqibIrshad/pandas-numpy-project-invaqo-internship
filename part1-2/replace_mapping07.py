@@ -13,5 +13,5 @@ mapping = {
 dataset["product_category"] = dataset["product_category"].replace(mapping)
 print(dataset.head(10))
 
-dataset.to_csv("cleaned_processed")
+dataset.to_csv("/home/inovaqo/Documents/project-pandas-numpy/part3/processed.csv")
 

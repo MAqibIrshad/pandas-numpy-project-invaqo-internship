@@ -1,4 +1,4 @@
-from part3.outlier_flag01 import df
+from outlier_flag01 import df
 import pandas as pd
 import numpy as np
 

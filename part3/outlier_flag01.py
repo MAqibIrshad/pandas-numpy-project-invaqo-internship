@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-df = pd.read_csv("cleaned_processed.csv")
+df = pd.read_csv("processed.csv")
 
 
 df.head(10)

@@ -1,6 +1,6 @@
 #quantity × unit_price × (1 − discount_percent/100) + shipping_cost
 
-from part3.boolean_masking_discount_percent02 import dataset
+from boolean_masking_discount_percent02 import dataset
 import pandas as pd
 import numpy as np
 
