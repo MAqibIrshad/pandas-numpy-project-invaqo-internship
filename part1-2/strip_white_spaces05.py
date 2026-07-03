@@ -1,5 +1,5 @@
 import pandas as pd
-from drop_duplicates import dataset
+from drop_duplicates04 import dataset
 #function to strip white spaces from string columns
 def strip_white_spaces(dataset: pd.DataFrame):
     dataset["customer_name"] = dataset["customer_name"].str.strip()

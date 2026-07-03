@@ -1,5 +1,5 @@
 import pandas as pd
-from strip_white_spaces import dataset
+from strip_white_spaces05 import dataset
 #for data type error handling in numeric columns only
 
 def to_numeric(dataset: pd.DataFrame):
